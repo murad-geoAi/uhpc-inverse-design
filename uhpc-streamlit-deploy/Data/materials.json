@@ -1,0 +1,505 @@
+{
+    "Cement": {
+        "CaO_C": 63.19299601888714,
+        "SiO2_C": 20.91453060743534,
+        "Al2O3_C": 4.930448123490249,
+        "Sp.Gr_C": 3.0952110161421413
+    },
+    "Silica Fume": {
+        "CaO_SF": 0.6172839652043307,
+        "SiO2_SF": 94.72550942380781,
+        "Al2O3_SF": 0.5941923878456812,
+        "Sp.Gr_SF": 2.2640359586454535
+    },
+    "Fly Ash": {
+        "CaO_FA": 13.184670213109982,
+        "SiO2_FA": 46.082939449600616,
+        "Al2O3_FA": 25.354088137268867,
+        "Sp.Gr_FA": 2.499649490855165
+    },
+    "Limestone Powder": {
+        "CaO_LP": 59.164164772727275,
+        "SiO2_LP": 1.9395687960687957,
+        "Al2O3_LP": 0.4888023590333718,
+        "Sp.Gr_LP": 2.6225619834710754
+    },
+    "Quartz Powder": {
+        "CaO_QP": 0.4875111876075731,
+        "SiO2_QP": 99.02257620343121,
+        "Al2O3_QP": 0.2140895008605852,
+        "Sp.Gr_QP": 2.6947469879518064
+    },
+    "Glass Powder": {
+        "CaO_GP": 10.824817086338703,
+        "SiO2_GP": 72.18478460824437,
+        "Al2O3_GP": 1.5815736362458392
+    },
+    "Rice Husk Ash": {
+        "CaO_RH": 0.9351999999999999,
+        "SiO2_RH": 87.82819199999999,
+        "Al2O3_RH": 0.278,
+        "Sp.Gr_RH": 2.19
+    },
+    "Metakaolin": {
+        "CaO_MK": 0.5567827868852459,
+        "SiO2_MK": 55.115475409836066,
+        "Al2O3_MK": 38.67140163934426,
+        "Sp.Gr_MK": 2.523320994182971
+    },
+    "GGBFS": {
+        "CaO_GGBFS": 36.87072890628684,
+        "SiO2_GGBFS": 36.63623048625194,
+        "Al2O3_GGBFS": 12.464345892203035,
+        "Sp.Gr_GGBFS": 2.896422613531048
+    },
+    "Steel Slag": {
+        "CaO_S": 3.1064681630783317,
+        "SiO2_S": 27.390096197892806,
+        "Al2O3_S": 3.0084104443426476,
+        "Sp.Gr_S": 3.5405142155142166
+    },
+    "Sand": {
+        "Max Size (mm)": 8.35598185353208,
+        "d50 _(mm)": 0.17828904731043418
+    },
+    "Categorical_Values": {
+        "Type of Filler": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0,
+            11.0,
+            12.0
+        ],
+        "Type of Fiber": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0,
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0,
+            21.0,
+            22.0,
+            23.0,
+            24.0
+        ],
+        "Curing": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0,
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0,
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0
+        ],
+        "Specimen Size": [
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0,
+            7.0,
+            8.0,
+            9.0,
+            10.0,
+            11.0,
+            12.0,
+            13.0,
+            14.0,
+            15.0,
+            16.0,
+            17.0,
+            18.0,
+            19.0,
+            20.0,
+            21.0,
+            22.0,
+            23.0,
+            24.0,
+            25.0,
+            26.0,
+            27.0
+        ]
+    },
+    "Feature_Order": [
+        "Cement Amount  (kg/m\u00b3)",
+        "CaO_C",
+        "SiO2_C",
+        "Al2O3_C",
+        "Sp.Gr_C",
+        "Silica Fume (kg/m\u00b3)",
+        "CaO_SF",
+        "SiO2_SF",
+        "Al2O3_SF",
+        "Sp.Gr_SF",
+        "Flayash Amount   (kg/m\u00b3)",
+        "CaO_FA",
+        "SiO2_FA",
+        "Al2O3_FA",
+        "Sp.Gr_FA",
+        "Limestone Powder  (kg/m3)",
+        "CaO_LP",
+        "SiO2_LP",
+        "Al2O3_LP",
+        "Sp.Gr_LP",
+        "Quartzpowder (kg/m3)",
+        "CaO_QP",
+        "SiO2_QP",
+        "Al2O3_QP",
+        "Sp.Gr_QP",
+        "Glass powder (kg/m3)",
+        "CaO_GP",
+        "SiO2_GP",
+        "Al2O3_GP",
+        "Rice husk ash (kg/m3)",
+        "CaO_RH",
+        "SiO2_RH",
+        "Al2O3_RH",
+        "Sp.Gr_RH",
+        "Metakaolin (kg/m\u00b3)",
+        "CaO_MK",
+        "SiO2_MK",
+        "Al2O3_MK",
+        "Sp.Gr_MK",
+        "GGBFS  (kg/m\u00b3)",
+        "CaO_GGBFS",
+        "SiO2_GGBFS",
+        "Al2O3_GGBFS",
+        "Sp.Gr_GGBFS",
+        "Slag Amount   (kg/m\u00b3)",
+        "CaO_S",
+        "SiO2_S",
+        "Al2O3_S",
+        "Sp.Gr_S",
+        "Filler (kg/m\u00b3)",
+        "Type of Filler",
+        "Sand Amount  (kg/m\u00b3)",
+        "Max Size (mm)",
+        "d50 _(mm)",
+        "Type of Fiber",
+        "Amount / Quantity of Fiber",
+        "Length (mm)",
+        "Diameter (mm)",
+        "Synergetic Type of Fiber",
+        "Amount / Quantity of Fiber .1",
+        "Length (mm).1",
+        "Diameter (mm).1",
+        "Water _Amount  _(kg/m\u00b3)",
+        "Superplasticizer  Amount  (kg/m\u00b3)",
+        "Curing",
+        "Temperature (o C)",
+        "Specimen Size"
+    ],
+    "Fiber_Properties": {
+        "0": {
+            "Length (mm)": 0.0,
+            "Diameter (mm)": 0.0
+        },
+        "1": {
+            "Length (mm)": 12.755942028985508,
+            "Diameter (mm)": 0.1892231884057971
+        },
+        "2": {
+            "Length (mm)": 12.680851063829786,
+            "Diameter (mm)": 0.1957872340425532
+        },
+        "3": {
+            "Length (mm)": 10.063829787234043,
+            "Diameter (mm)": 0.12170212765957446
+        },
+        "4": {
+            "Length (mm)": 13.526434782608629,
+            "Diameter (mm)": 0.1890217391304348
+        },
+        "5": {
+            "Length (mm)": 16.534634146341315,
+            "Diameter (mm)": 0.19969512195121952
+        },
+        "6": {
+            "Length (mm)": 8.758620689655173,
+            "Diameter (mm)": 0.16655172413793104
+        },
+        "7": {
+            "Length (mm)": 30.0,
+            "Diameter (mm)": 0.3
+        },
+        "8": {
+            "Length (mm)": 18.108695652173914,
+            "Diameter (mm)": 0.22956521739130437
+        },
+        "9": {
+            "Length (mm)": 13.0,
+            "Diameter (mm)": 0.19607843137254902
+        },
+        "10": {
+            "Length (mm)": 14.808510638297872,
+            "Diameter (mm)": 0.023680851063829788
+        },
+        "11": {
+            "Length (mm)": 12.3125,
+            "Diameter (mm)": 0.19375
+        },
+        "12": {
+            "Length (mm)": 13.0,
+            "Diameter (mm)": 0.2
+        },
+        "13": {
+            "Length (mm)": 16.8,
+            "Diameter (mm)": 0.024399999999999998
+        },
+        "14": {
+            "Length (mm)": 20.0,
+            "Diameter (mm)": 0.2
+        },
+        "15": {
+            "Length (mm)": 15.0,
+            "Diameter (mm)": 0.11964285714285715
+        },
+        "16": {
+            "Length (mm)": 18.0,
+            "Diameter (mm)": 0.02
+        },
+        "17": {
+            "Length (mm)": 30.0,
+            "Diameter (mm)": 0.3
+        },
+        "18": {
+            "Length (mm)": 13.0,
+            "Diameter (mm)": 0.018
+        },
+        "19": {
+            "Length (mm)": 13.0,
+            "Diameter (mm)": 0.2
+        },
+        "20": {
+            "Length (mm)": 15.0,
+            "Diameter (mm)": 0.18000000000000002
+        },
+        "21": {
+            "Length (mm)": 20.0,
+            "Diameter (mm)": 0.2
+        },
+        "22": {
+            "Length (mm)": 13.0,
+            "Diameter (mm)": 0.2
+        },
+        "23": {
+            "Length (mm)": 18.0,
+            "Diameter (mm)": 0.024000000000000004
+        },
+        "24": {
+            "Length (mm)": 14.0,
+            "Diameter (mm)": 0.13747058823529412
+        }
+    },
+    "Syn_Fiber_Properties": {
+        "0": {
+            "Length (mm).1": 0.0,
+            "Diameter (mm).1": 0.0
+        },
+        "1": {
+            "Length (mm).1": 5.095238095238095,
+            "Diameter (mm).1": 0.2
+        },
+        "2": {
+            "Length (mm).1": 5.34375,
+            "Diameter (mm).1": 0.03
+        },
+        "3": {
+            "Length (mm).1": 3.0,
+            "Diameter (mm).1": 0.2
+        },
+        "4": {
+            "Length (mm).1": 4.0,
+            "Diameter (mm).1": 0.2
+        },
+        "5": {
+            "Length (mm).1": 2.0,
+            "Diameter (mm).1": 0.0288
+        },
+        "6": {
+            "Length (mm).1": 6.090909090909091,
+            "Diameter (mm).1": 0.12791363636363637
+        }
+    },
+    "Categorical_Mappings": {
+        "Type of Filler": {
+            "nan": 0,
+            "pumicite": 1,
+            "recycled brick powder": 2,
+            "natural pozzolana": 3,
+            "cement kiln dust": 4,
+            "silica flour": 5,
+            "recycled glass cullet": 6,
+            "steel slag aggregate": 7,
+            "iron tailings": 8,
+            "glass sand": 9,
+            "balast powder": 10,
+            "gold tailings": 11,
+            "recycled fine powder": 12,
+            "recycled fine aggregate": 13,
+            "r-fa": 14,
+            "dolomite": 15,
+            "ground granite powder": 16,
+            "natural pozzolan": 17,
+            "manufactured sand": 18
+        },
+        "Type of Fiber": {
+            "straight steel fiber": 0,
+            "straight steel fibers": 1,
+            "nan": 2,
+            "hooked end steel fiber": 3,
+            "corrugated steel fiber": 4,
+            "micro glass fiber": 5,
+            "pp": 6,
+            "twisted steel fiber": 7,
+            "long twisted fiber": 8,
+            "straight short steel fiber": 9,
+            "straight long steel fibers": 10,
+            "long steel fiber": 11,
+            "short steel fiber": 12,
+            "short straight steel fiber": 13,
+            "long twisted steel fiber": 14,
+            "medium-length straight": 15,
+            "long hooked steel fiber": 16,
+            "medium steel fiber": 17,
+            "long straight copper plating steel fibre": 18,
+            "short straight copper plating steel fibre": 19,
+            "steel fibre": 20,
+            "steel fibres": 21,
+            "straight steel fibres": 22,
+            "steel fiber": 23,
+            "hooked steel fibers": 24,
+            "hooked steel fiber": 25,
+            "straight  steel fiber": 26,
+            "pe": 27,
+            "pe fibers": 28,
+            "pe fibre": 29,
+            "steel fibers": 30,
+            "recycled tyre steel fibres": 31,
+            "carbon fibres (cf)": 32,
+            "straight seel fiber": 33,
+            "twisted fiber": 34,
+            "pe fiber": 35,
+            "polyethylene fibers": 36,
+            "pva": 37,
+            "steel: hooked-ends": 38,
+            "straight steel": 39
+        },
+        "Curing": {
+            "standard curing": 0,
+            "hot curing (hc)": 1,
+            "steam curing at 90 oc": 2,
+            "steam curing at 150 oc": 3,
+            "heat curing": 4,
+            "steam curing": 5,
+            "steam-cured samples": 6,
+            "hot water curing": 7,
+            "curing  at 90 oc": 8,
+            "nan": 9,
+            "water curing": 10,
+            "steam  curing": 11,
+            "normal curing": 12,
+            "standard  curing": 13,
+            "hot curing": 14,
+            "autoclave curing": 15,
+            "steam hot curing": 16,
+            "hot water  curing": 17,
+            "stnadrad curing": 18,
+            "air dry curing": 19,
+            "hot air curing": 20,
+            "heat treated": 21,
+            "standard normal curing": 22,
+            "hot  curing": 23,
+            "warm water curing": 24,
+            "heat or oven curing": 25,
+            "standard water curing": 26,
+            "moist curing": 27,
+            "warm bath curing": 28,
+            "heat  curing": 29,
+            "air cured": 30,
+            "steam cured": 31
+        },
+        "Specimen Size": {
+            "100 x 100 x 100": 0,
+            "40 x 40 x 160": 1,
+            "70.7 x 70.7 x 70.7": 2,
+            "nan": 3,
+            "50 x 50 x 50": 4,
+            "50 x 50 x 100": 5,
+            "cylinders 50 x 50": 6,
+            "40 x 40 x 40": 7,
+            "50 \u00d7 50 \u00d7 50": 8,
+            "c: 75 x 150": 9,
+            "cylindrical specimens, 75 x 150 mm": 10,
+            "40 \u00d7 40 \u00d7 160": 11,
+            "150 mm x 150 mm x 150 mm": 12,
+            "cylinder   100 mm x 200mm": 13,
+            "100  x 100 x 100": 14,
+            "cylinder 50dia x 100mm": 15,
+            "cylindrical 110 mm x 220 mm": 16,
+            "cylinder (75 \u00d7 150 mm)": 17,
+            "cylinder specimens (diameter and height of 100 mm)": 18,
+            "cylinder 75 x 150": 19,
+            "70.6  x\u0002 70.6 \u0002 x 70.6": 20,
+            "cylinder 100mm x 200mm": 21,
+            "40 x 40 x 80": 22,
+            "50 x 50 x50": 23,
+            "cylinder 100 x 100": 24,
+            "50x 50 x 50": 25,
+            "cylinder 110 x 220": 26,
+            "cylinder 100 x 200": 27,
+            "100 x 100 x 300": 28,
+            "cylinder 50 x 100": 29,
+            "cube": 30,
+            "cylinder 150 x 300": 31,
+            "70 x 70 x 70": 32,
+            "cylindrical molds of 75  x 150 mm": 33,
+            "50.8 x50.8 50.8": 34,
+            "100x 100 x 100": 35
+        }
+    }
+}

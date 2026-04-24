@@ -1,0 +1,156 @@
+{
+    "temperature_by_curing": {
+        "standard curing": {
+            "min": 0.0,
+            "max": 30.0,
+            "mean": 19.132830188679247
+        },
+        "hot curing (hc)": {
+            "min": 70.0,
+            "max": 160.0,
+            "mean": 97.67123287671232
+        },
+        "steam curing at 90 oc": {
+            "min": 70.0,
+            "max": 100.0,
+            "mean": 87.49034749034749
+        },
+        "steam curing at 150 oc": {
+            "min": 65.0,
+            "max": 90.0,
+            "mean": 82.63888888888889
+        },
+        "heat curing": {
+            "min": 23.0,
+            "max": 23.0,
+            "mean": 23.0
+        },
+        "steam curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "steam-cured samples": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "hot water curing": {
+            "min": 25.0,
+            "max": 25.0,
+            "mean": 25.0
+        },
+        "curing  at 90 oc": {
+            "min": 0.0,
+            "max": 0.0,
+            "mean": 0.0
+        },
+        "nan": {
+            "min": 0.0,
+            "max": 0.0,
+            "mean": 0.0
+        },
+        "water curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "steam  curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "normal curing": {
+            "min": 85.0,
+            "max": 210.0,
+            "mean": 191.10294117647058
+        },
+        "standard  curing": {
+            "min": 65.0,
+            "max": 65.0,
+            "mean": 65.0
+        },
+        "hot curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "autoclave curing": {
+            "min": 150.0,
+            "max": 150.0,
+            "mean": 150.0
+        },
+        "steam hot curing": {
+            "min": 20.0,
+            "max": 20.0,
+            "mean": 20.0
+        },
+        "hot water  curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "stnadrad curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "air dry curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "hot air curing": {
+            "min": 25.0,
+            "max": 26.0,
+            "mean": 25.4
+        },
+        "heat treated": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "standard normal curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "hot  curing": {
+            "min": 90.0,
+            "max": 90.0,
+            "mean": 90.0
+        },
+        "warm water curing": {
+            "min": 20.0,
+            "max": 20.0,
+            "mean": 20.0
+        },
+        "heat or oven curing": {
+            "min": 0.0,
+            "max": 200.0,
+            "mean": 130.76470588235293
+        }
+    },
+    "global_bounds": {
+        "water": {
+            "min": 125.0,
+            "max": 334.0
+        },
+        "sand": {
+            "min": 0.0,
+            "max": 1640.0
+        },
+        "superplasticizer": {
+            "min": 4.752,
+            "max": 92.79
+        },
+        "total_binder": {
+            "min": 307.14,
+            "max": 2200.0
+        },
+        "w_b_ratio": {
+            "min": 0.15,
+            "max": 0.22
+        }
+    }
+}
