@@ -27,30 +27,29 @@ The interactive dashboard is built with **Streamlit** and provides:
 ```
 uhpc-inverse-design/
 │
-├── uhpc-streamlit-deploy/          # 🚀 Deployable Streamlit application
-│   ├── streamlit_app.py            #    Main dashboard (UI + visualization)
-│   ├── inverse_design.py           #    BNN model + SLSQP optimization engine
-│   ├── requirements.txt            #    Python dependencies
-│   │
-│   ├── .streamlit/
-│   │   └── config.toml             #    Streamlit theme (light, navy palette)
-│   │
-│   ├── Data/
-│   │   ├── X_train_cleaned.csv     #    Cleaned feature matrix (training data)
-│   │   ├── y_train_cleaned.csv     #    Target UCS values (MPa)
-│   │   ├── materials.json          #    Material property database & encodings
-│   │   └── realistic_constraints.json  # Engineering constraint bounds
-│   │
-│   └── models/
-│       └── checkpoints/            #    5-fold cross-validated BNN checkpoints
-│           ├── fold_1_best.ckpt
-│           ├── fold_2_best.ckpt
-│           ├── fold_3_best.ckpt
-│           ├── fold_4_best.ckpt
-│           └── fold_5_best.ckpt
+├── streamlit_app.py            # 🚀 Main dashboard (UI + visualization)
+├── inverse_design.py           # 🧠 BNN model + SLSQP optimization engine
+├── requirements.txt            # 📦 Python dependencies
+├── .gitignore                  # 🙈 Git ignore rules
+├── .streamlit/
+│   └── config.toml             # 🎨 Streamlit theme (light, navy palette)
 │
-├── LICENSE
-└── README.md
+├── Data/
+│   ├── X_train_cleaned.csv     # 📊 Cleaned feature matrix (training data)
+│   ├── y_train_cleaned.csv     # 🎯 Target UCS values (MPa)
+│   ├── materials.json          # 📚 Material property database & encodings
+│   └── realistic_constraints.json  # 📏 Engineering constraint bounds
+│
+├── models/
+│   └── checkpoints/            # 💾 5-fold cross-validated BNN checkpoints
+│       ├── fold_1_best.ckpt
+│       ├── fold_2_best.ckpt
+│       ├── fold_3_best.ckpt
+│       ├── fold_4_best.ckpt
+│       └── fold_5_best.ckpt
+│
+├── LICENSE                     # 📝 MIT License
+└── README.md                   # 📖 Documentation
 ```
 
 ---
@@ -131,7 +130,6 @@ cd uhpc-inverse-design
 ### 2. Install Dependencies
 
 ```bash
-cd uhpc-streamlit-deploy
 pip install -r requirements.txt
 ```
 
