@@ -157,23 +157,6 @@ The dashboard will open at `http://localhost:8501`.
 
 Silica Fume · Fly Ash · Limestone Powder · Quartz Powder · Glass Powder · Rice Husk Ash · Metakaolin · GGBFS · Steel Slag
 
----
-
-## Citation
-
-If you use this tool in your research, please cite:
-
-```bibtex
-@software{uhpc_inverse_design_2026,
-  author    = {Murad},
-  title     = {UHPC Inverse Design: Bayesian Neural Network Optimization},
-  year      = {2026},
-  url       = {https://github.com/murad-geoAi/uhpc-inverse-design}
-}
-```
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
