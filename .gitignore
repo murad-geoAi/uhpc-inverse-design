@@ -12,3 +12,6 @@ Thumbs.db
 
 # Results (generated at runtime, not needed in repo)
 results/
+
+# Data Privacy (Raw training data)
+Data/*.csv
