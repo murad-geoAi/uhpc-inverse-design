@@ -1,0 +1,536 @@
+method,outer,level_2,0
+CatBoost (point only),1,RMSE,11.834
+CatBoost (point only),1,MAE,8.6859
+CatBoost (point only),1,R2,0.8886
+CatBoost (point only),2,RMSE,12.7629
+CatBoost (point only),2,MAE,8.8436
+CatBoost (point only),2,R2,0.8698
+CatBoost (point only),3,RMSE,12.2814
+CatBoost (point only),3,MAE,9.0112
+CatBoost (point only),3,R2,0.8955
+CatBoost (point only),4,RMSE,12.6751
+CatBoost (point only),4,MAE,8.7099
+CatBoost (point only),4,R2,0.8838
+CatBoost (point only),5,RMSE,12.072
+CatBoost (point only),5,MAE,8.814
+CatBoost (point only),5,R2,0.8939
+CatBoost + split-conformal,1,RMSE,11.834
+CatBoost + split-conformal,1,MAE,8.6859
+CatBoost + split-conformal,1,R2,0.8886
+CatBoost + split-conformal,1,PICP,0.9689
+CatBoost + split-conformal,1,MPIW,55.1847
+CatBoost + split-conformal,1,IS,65.7111
+CatBoost + split-conformal,1,Spearman_spread_err,-0.0157
+CatBoost + split-conformal,2,RMSE,12.7629
+CatBoost + split-conformal,2,MAE,8.8436
+CatBoost + split-conformal,2,R2,0.8698
+CatBoost + split-conformal,2,PICP,0.9482
+CatBoost + split-conformal,2,MPIW,53.5723
+CatBoost + split-conformal,2,IS,73.4412
+CatBoost + split-conformal,2,Spearman_spread_err,0.0216
+CatBoost + split-conformal,3,RMSE,12.2814
+CatBoost + split-conformal,3,MAE,9.0112
+CatBoost + split-conformal,3,R2,0.8955
+CatBoost + split-conformal,3,PICP,0.9663
+CatBoost + split-conformal,3,MPIW,54.7264
+CatBoost + split-conformal,3,IS,66.6701
+CatBoost + split-conformal,3,Spearman_spread_err,-0.0613
+CatBoost + split-conformal,4,RMSE,12.6751
+CatBoost + split-conformal,4,MAE,8.7099
+CatBoost + split-conformal,4,R2,0.8838
+CatBoost + split-conformal,4,PICP,0.9508
+CatBoost + split-conformal,4,MPIW,52.8865
+CatBoost + split-conformal,4,IS,76.3644
+CatBoost + split-conformal,4,Spearman_spread_err,-0.0326
+CatBoost + split-conformal,5,RMSE,12.072
+CatBoost + split-conformal,5,MAE,8.814
+CatBoost + split-conformal,5,R2,0.8939
+CatBoost + split-conformal,5,PICP,0.9689
+CatBoost + split-conformal,5,MPIW,55.7027
+CatBoost + split-conformal,5,IS,66.8462
+CatBoost + split-conformal,5,Spearman_spread_err,0.0903
+Deep ensemble (plain MLP) + temperature scaling,1,RMSE,15.0473
+Deep ensemble (plain MLP) + temperature scaling,1,MAE,11.065
+Deep ensemble (plain MLP) + temperature scaling,1,R2,0.8199
+Deep ensemble (plain MLP) + temperature scaling,1,PICP,0.9767
+Deep ensemble (plain MLP) + temperature scaling,1,MPIW,67.7144
+Deep ensemble (plain MLP) + temperature scaling,1,IS,81.2848
+Deep ensemble (plain MLP) + temperature scaling,1,Spearman_spread_err,0.2914
+Deep ensemble (plain MLP) + temperature scaling,2,RMSE,16.7927
+Deep ensemble (plain MLP) + temperature scaling,2,MAE,12.1575
+Deep ensemble (plain MLP) + temperature scaling,2,R2,0.7746
+Deep ensemble (plain MLP) + temperature scaling,2,PICP,0.9637
+Deep ensemble (plain MLP) + temperature scaling,2,MPIW,72.0931
+Deep ensemble (plain MLP) + temperature scaling,2,IS,91.3055
+Deep ensemble (plain MLP) + temperature scaling,2,Spearman_spread_err,0.324
+Deep ensemble (plain MLP) + temperature scaling,3,RMSE,15.7688
+Deep ensemble (plain MLP) + temperature scaling,3,MAE,11.7617
+Deep ensemble (plain MLP) + temperature scaling,3,R2,0.8277
+Deep ensemble (plain MLP) + temperature scaling,3,PICP,0.9637
+Deep ensemble (plain MLP) + temperature scaling,3,MPIW,69.5798
+Deep ensemble (plain MLP) + temperature scaling,3,IS,78.8459
+Deep ensemble (plain MLP) + temperature scaling,3,Spearman_spread_err,0.2704
+Deep ensemble (plain MLP) + temperature scaling,4,RMSE,16.1316
+Deep ensemble (plain MLP) + temperature scaling,4,MAE,11.6451
+Deep ensemble (plain MLP) + temperature scaling,4,R2,0.8118
+Deep ensemble (plain MLP) + temperature scaling,4,PICP,0.9715
+Deep ensemble (plain MLP) + temperature scaling,4,MPIW,69.9502
+Deep ensemble (plain MLP) + temperature scaling,4,IS,79.5859
+Deep ensemble (plain MLP) + temperature scaling,4,Spearman_spread_err,0.3665
+Deep ensemble (plain MLP) + temperature scaling,5,RMSE,16.4931
+Deep ensemble (plain MLP) + temperature scaling,5,MAE,12.2532
+Deep ensemble (plain MLP) + temperature scaling,5,R2,0.802
+Deep ensemble (plain MLP) + temperature scaling,5,PICP,0.9637
+Deep ensemble (plain MLP) + temperature scaling,5,MPIW,70.2654
+Deep ensemble (plain MLP) + temperature scaling,5,IS,79.1232
+Deep ensemble (plain MLP) + temperature scaling,5,Spearman_spread_err,0.2644
+"Deep ensemble (plain MLP, Gaussian NLL)",1,RMSE,15.0473
+"Deep ensemble (plain MLP, Gaussian NLL)",1,MAE,11.065
+"Deep ensemble (plain MLP, Gaussian NLL)",1,R2,0.8199
+"Deep ensemble (plain MLP, Gaussian NLL)",1,PICP,0.9534
+"Deep ensemble (plain MLP, Gaussian NLL)",1,MPIW,55.3919
+"Deep ensemble (plain MLP, Gaussian NLL)",1,IS,75.7663
+"Deep ensemble (plain MLP, Gaussian NLL)",1,Spearman_spread_err,0.2991
+"Deep ensemble (plain MLP, Gaussian NLL)",2,RMSE,16.7927
+"Deep ensemble (plain MLP, Gaussian NLL)",2,MAE,12.1575
+"Deep ensemble (plain MLP, Gaussian NLL)",2,R2,0.7746
+"Deep ensemble (plain MLP, Gaussian NLL)",2,PICP,0.9378
+"Deep ensemble (plain MLP, Gaussian NLL)",2,MPIW,61.8433
+"Deep ensemble (plain MLP, Gaussian NLL)",2,IS,90.546
+"Deep ensemble (plain MLP, Gaussian NLL)",2,Spearman_spread_err,0.3273
+"Deep ensemble (plain MLP, Gaussian NLL)",3,RMSE,15.7688
+"Deep ensemble (plain MLP, Gaussian NLL)",3,MAE,11.7617
+"Deep ensemble (plain MLP, Gaussian NLL)",3,R2,0.8277
+"Deep ensemble (plain MLP, Gaussian NLL)",3,PICP,0.9275
+"Deep ensemble (plain MLP, Gaussian NLL)",3,MPIW,55.5135
+"Deep ensemble (plain MLP, Gaussian NLL)",3,IS,80.5475
+"Deep ensemble (plain MLP, Gaussian NLL)",3,Spearman_spread_err,0.2823
+"Deep ensemble (plain MLP, Gaussian NLL)",4,RMSE,16.1316
+"Deep ensemble (plain MLP, Gaussian NLL)",4,MAE,11.6451
+"Deep ensemble (plain MLP, Gaussian NLL)",4,R2,0.8118
+"Deep ensemble (plain MLP, Gaussian NLL)",4,PICP,0.9352
+"Deep ensemble (plain MLP, Gaussian NLL)",4,MPIW,58.6264
+"Deep ensemble (plain MLP, Gaussian NLL)",4,IS,78.664
+"Deep ensemble (plain MLP, Gaussian NLL)",4,Spearman_spread_err,0.372
+"Deep ensemble (plain MLP, Gaussian NLL)",5,RMSE,16.4931
+"Deep ensemble (plain MLP, Gaussian NLL)",5,MAE,12.2532
+"Deep ensemble (plain MLP, Gaussian NLL)",5,R2,0.802
+"Deep ensemble (plain MLP, Gaussian NLL)",5,PICP,0.9249
+"Deep ensemble (plain MLP, Gaussian NLL)",5,MPIW,58.9815
+"Deep ensemble (plain MLP, Gaussian NLL)",5,IS,78.9584
+"Deep ensemble (plain MLP, Gaussian NLL)",5,Spearman_spread_err,0.2619
+Dropout-MLP + temperature scaling + ensemble,1,RMSE,12.7741
+Dropout-MLP + temperature scaling + ensemble,1,MAE,9.1442
+Dropout-MLP + temperature scaling + ensemble,1,R2,0.8702
+Dropout-MLP + temperature scaling + ensemble,1,PICP,0.9637
+Dropout-MLP + temperature scaling + ensemble,1,MPIW,60.9371
+Dropout-MLP + temperature scaling + ensemble,1,IS,75.6674
+Dropout-MLP + temperature scaling + ensemble,1,Spearman_spread_err,0.1915
+Dropout-MLP + temperature scaling + ensemble,2,RMSE,14.136
+Dropout-MLP + temperature scaling + ensemble,2,MAE,9.8212
+Dropout-MLP + temperature scaling + ensemble,2,R2,0.8402
+Dropout-MLP + temperature scaling + ensemble,2,PICP,0.9663
+Dropout-MLP + temperature scaling + ensemble,2,MPIW,62.2855
+Dropout-MLP + temperature scaling + ensemble,2,IS,75.5814
+Dropout-MLP + temperature scaling + ensemble,2,Spearman_spread_err,0.27
+Dropout-MLP + temperature scaling + ensemble,3,RMSE,13.7505
+Dropout-MLP + temperature scaling + ensemble,3,MAE,10.0818
+Dropout-MLP + temperature scaling + ensemble,3,R2,0.869
+Dropout-MLP + temperature scaling + ensemble,3,PICP,0.9534
+Dropout-MLP + temperature scaling + ensemble,3,MPIW,62.0084
+Dropout-MLP + temperature scaling + ensemble,3,IS,74.0632
+Dropout-MLP + temperature scaling + ensemble,3,Spearman_spread_err,0.2115
+Dropout-MLP + temperature scaling + ensemble,4,RMSE,13.6515
+Dropout-MLP + temperature scaling + ensemble,4,MAE,9.5972
+Dropout-MLP + temperature scaling + ensemble,4,R2,0.8652
+Dropout-MLP + temperature scaling + ensemble,4,PICP,0.9663
+Dropout-MLP + temperature scaling + ensemble,4,MPIW,61.2424
+Dropout-MLP + temperature scaling + ensemble,4,IS,73.5343
+Dropout-MLP + temperature scaling + ensemble,4,Spearman_spread_err,0.291
+Dropout-MLP + temperature scaling + ensemble,5,RMSE,13.7307
+Dropout-MLP + temperature scaling + ensemble,5,MAE,10.0677
+Dropout-MLP + temperature scaling + ensemble,5,R2,0.8628
+Dropout-MLP + temperature scaling + ensemble,5,PICP,0.9611
+Dropout-MLP + temperature scaling + ensemble,5,MPIW,63.0637
+Dropout-MLP + temperature scaling + ensemble,5,IS,74.9473
+Dropout-MLP + temperature scaling + ensemble,5,Spearman_spread_err,0.2009
+"Dropout-MLP baseline (MSE, as submitted)",1,RMSE,13.8457
+"Dropout-MLP baseline (MSE, as submitted)",1,MAE,10.0665
+"Dropout-MLP baseline (MSE, as submitted)",1,R2,0.8475
+"Dropout-MLP baseline (MSE, as submitted)",1,PICP,0.6891
+"Dropout-MLP baseline (MSE, as submitted)",1,MPIW,23.6458
+"Dropout-MLP baseline (MSE, as submitted)",1,IS,142.9098
+"Dropout-MLP baseline (MSE, as submitted)",1,Spearman_spread_err,0.0851
+"Dropout-MLP baseline (MSE, as submitted)",2,RMSE,15.9045
+"Dropout-MLP baseline (MSE, as submitted)",2,MAE,10.6521
+"Dropout-MLP baseline (MSE, as submitted)",2,R2,0.7978
+"Dropout-MLP baseline (MSE, as submitted)",2,PICP,0.658
+"Dropout-MLP baseline (MSE, as submitted)",2,MPIW,23.1115
+"Dropout-MLP baseline (MSE, as submitted)",2,IS,160.7064
+"Dropout-MLP baseline (MSE, as submitted)",2,Spearman_spread_err,0.2398
+"Dropout-MLP baseline (MSE, as submitted)",3,RMSE,14.4683
+"Dropout-MLP baseline (MSE, as submitted)",3,MAE,10.4956
+"Dropout-MLP baseline (MSE, as submitted)",3,R2,0.855
+"Dropout-MLP baseline (MSE, as submitted)",3,PICP,0.6554
+"Dropout-MLP baseline (MSE, as submitted)",3,MPIW,23.6133
+"Dropout-MLP baseline (MSE, as submitted)",3,IS,154.7216
+"Dropout-MLP baseline (MSE, as submitted)",3,Spearman_spread_err,0.1352
+"Dropout-MLP baseline (MSE, as submitted)",4,RMSE,14.5881
+"Dropout-MLP baseline (MSE, as submitted)",4,MAE,9.9784
+"Dropout-MLP baseline (MSE, as submitted)",4,R2,0.8461
+"Dropout-MLP baseline (MSE, as submitted)",4,PICP,0.6736
+"Dropout-MLP baseline (MSE, as submitted)",4,MPIW,23.9552
+"Dropout-MLP baseline (MSE, as submitted)",4,IS,153.4002
+"Dropout-MLP baseline (MSE, as submitted)",4,Spearman_spread_err,0.0742
+"Dropout-MLP baseline (MSE, as submitted)",5,RMSE,14.2627
+"Dropout-MLP baseline (MSE, as submitted)",5,MAE,10.4388
+"Dropout-MLP baseline (MSE, as submitted)",5,R2,0.8519
+"Dropout-MLP baseline (MSE, as submitted)",5,PICP,0.671
+"Dropout-MLP baseline (MSE, as submitted)",5,MPIW,24.1357
+"Dropout-MLP baseline (MSE, as submitted)",5,IS,141.3487
+"Dropout-MLP baseline (MSE, as submitted)",5,Spearman_spread_err,0.148
+"GRN-BNN (Gaussian TS, as submitted)",1,RMSE,14.1426
+"GRN-BNN (Gaussian TS, as submitted)",1,MAE,9.775
+"GRN-BNN (Gaussian TS, as submitted)",1,R2,0.8409
+"GRN-BNN (Gaussian TS, as submitted)",1,PICP,0.9689
+"GRN-BNN (Gaussian TS, as submitted)",1,MPIW,63.9346
+"GRN-BNN (Gaussian TS, as submitted)",1,IS,78.6763
+"GRN-BNN (Gaussian TS, as submitted)",1,Spearman_spread_err,0.3975
+"GRN-BNN (Gaussian TS, as submitted)",2,RMSE,14.9924
+"GRN-BNN (Gaussian TS, as submitted)",2,MAE,10.2319
+"GRN-BNN (Gaussian TS, as submitted)",2,R2,0.8203
+"GRN-BNN (Gaussian TS, as submitted)",2,PICP,0.9689
+"GRN-BNN (Gaussian TS, as submitted)",2,MPIW,65.3117
+"GRN-BNN (Gaussian TS, as submitted)",2,IS,81.9704
+"GRN-BNN (Gaussian TS, as submitted)",2,Spearman_spread_err,0.4507
+"GRN-BNN (Gaussian TS, as submitted)",3,RMSE,15.1679
+"GRN-BNN (Gaussian TS, as submitted)",3,MAE,10.6496
+"GRN-BNN (Gaussian TS, as submitted)",3,R2,0.8406
+"GRN-BNN (Gaussian TS, as submitted)",3,PICP,0.9611
+"GRN-BNN (Gaussian TS, as submitted)",3,MPIW,69.2075
+"GRN-BNN (Gaussian TS, as submitted)",3,IS,80.2105
+"GRN-BNN (Gaussian TS, as submitted)",3,Spearman_spread_err,0.3471
+"GRN-BNN (Gaussian TS, as submitted)",4,RMSE,13.894
+"GRN-BNN (Gaussian TS, as submitted)",4,MAE,9.4982
+"GRN-BNN (Gaussian TS, as submitted)",4,R2,0.8604
+"GRN-BNN (Gaussian TS, as submitted)",4,PICP,0.9585
+"GRN-BNN (Gaussian TS, as submitted)",4,MPIW,67.2701
+"GRN-BNN (Gaussian TS, as submitted)",4,IS,79.9149
+"GRN-BNN (Gaussian TS, as submitted)",4,Spearman_spread_err,0.4147
+"GRN-BNN (Gaussian TS, as submitted)",5,RMSE,14.9921
+"GRN-BNN (Gaussian TS, as submitted)",5,MAE,10.8751
+"GRN-BNN (Gaussian TS, as submitted)",5,R2,0.8364
+"GRN-BNN (Gaussian TS, as submitted)",5,PICP,0.9637
+"GRN-BNN (Gaussian TS, as submitted)",5,MPIW,72.1531
+"GRN-BNN (Gaussian TS, as submitted)",5,IS,79.7191
+"GRN-BNN (Gaussian TS, as submitted)",5,Spearman_spread_err,0.408
+GRN-BNN (Student-t TS + mixture),1,RMSE,14.1426
+GRN-BNN (Student-t TS + mixture),1,MAE,9.775
+GRN-BNN (Student-t TS + mixture),1,R2,0.8409
+GRN-BNN (Student-t TS + mixture),1,PICP,0.9663
+GRN-BNN (Student-t TS + mixture),1,MPIW,62.8081
+GRN-BNN (Student-t TS + mixture),1,IS,78.2537
+GRN-BNN (Student-t TS + mixture),1,Spearman_spread_err,0.3963
+GRN-BNN (Student-t TS + mixture),2,RMSE,14.9924
+GRN-BNN (Student-t TS + mixture),2,MAE,10.2319
+GRN-BNN (Student-t TS + mixture),2,R2,0.8203
+GRN-BNN (Student-t TS + mixture),2,PICP,0.9611
+GRN-BNN (Student-t TS + mixture),2,MPIW,64.8992
+GRN-BNN (Student-t TS + mixture),2,IS,81.8713
+GRN-BNN (Student-t TS + mixture),2,Spearman_spread_err,0.4487
+GRN-BNN (Student-t TS + mixture),3,RMSE,15.1679
+GRN-BNN (Student-t TS + mixture),3,MAE,10.6496
+GRN-BNN (Student-t TS + mixture),3,R2,0.8406
+GRN-BNN (Student-t TS + mixture),3,PICP,0.943
+GRN-BNN (Student-t TS + mixture),3,MPIW,64.4258
+GRN-BNN (Student-t TS + mixture),3,IS,79.0348
+GRN-BNN (Student-t TS + mixture),3,Spearman_spread_err,0.3458
+GRN-BNN (Student-t TS + mixture),4,RMSE,13.894
+GRN-BNN (Student-t TS + mixture),4,MAE,9.4982
+GRN-BNN (Student-t TS + mixture),4,R2,0.8604
+GRN-BNN (Student-t TS + mixture),4,PICP,0.9456
+GRN-BNN (Student-t TS + mixture),4,MPIW,63.2178
+GRN-BNN (Student-t TS + mixture),4,IS,80.621
+GRN-BNN (Student-t TS + mixture),4,Spearman_spread_err,0.4138
+GRN-BNN (Student-t TS + mixture),5,RMSE,14.9921
+GRN-BNN (Student-t TS + mixture),5,MAE,10.8751
+GRN-BNN (Student-t TS + mixture),5,R2,0.8364
+GRN-BNN (Student-t TS + mixture),5,PICP,0.9534
+GRN-BNN (Student-t TS + mixture),5,MPIW,67.4093
+GRN-BNN (Student-t TS + mixture),5,IS,77.8058
+GRN-BNN (Student-t TS + mixture),5,Spearman_spread_err,0.4095
+"GRN-BNN (T=1, uncalibrated)",1,RMSE,14.1426
+"GRN-BNN (T=1, uncalibrated)",1,MAE,9.775
+"GRN-BNN (T=1, uncalibrated)",1,R2,0.8409
+"GRN-BNN (T=1, uncalibrated)",1,PICP,0.8523
+"GRN-BNN (T=1, uncalibrated)",1,MPIW,34.8064
+"GRN-BNN (T=1, uncalibrated)",1,IS,81.2339
+"GRN-BNN (T=1, uncalibrated)",1,Spearman_spread_err,0.4125
+"GRN-BNN (T=1, uncalibrated)",2,RMSE,14.9924
+"GRN-BNN (T=1, uncalibrated)",2,MAE,10.2319
+"GRN-BNN (T=1, uncalibrated)",2,R2,0.8203
+"GRN-BNN (T=1, uncalibrated)",2,PICP,0.8446
+"GRN-BNN (T=1, uncalibrated)",2,MPIW,35.3278
+"GRN-BNN (T=1, uncalibrated)",2,IS,89.4116
+"GRN-BNN (T=1, uncalibrated)",2,Spearman_spread_err,0.467
+"GRN-BNN (T=1, uncalibrated)",3,RMSE,15.1679
+"GRN-BNN (T=1, uncalibrated)",3,MAE,10.6496
+"GRN-BNN (T=1, uncalibrated)",3,R2,0.8406
+"GRN-BNN (T=1, uncalibrated)",3,PICP,0.7876
+"GRN-BNN (T=1, uncalibrated)",3,MPIW,32.9345
+"GRN-BNN (T=1, uncalibrated)",3,IS,111.0615
+"GRN-BNN (T=1, uncalibrated)",3,Spearman_spread_err,0.3531
+"GRN-BNN (T=1, uncalibrated)",4,RMSE,13.894
+"GRN-BNN (T=1, uncalibrated)",4,MAE,9.4982
+"GRN-BNN (T=1, uncalibrated)",4,R2,0.8604
+"GRN-BNN (T=1, uncalibrated)",4,PICP,0.8109
+"GRN-BNN (T=1, uncalibrated)",4,MPIW,30.0088
+"GRN-BNN (T=1, uncalibrated)",4,IS,98.718
+"GRN-BNN (T=1, uncalibrated)",4,Spearman_spread_err,0.4544
+"GRN-BNN (T=1, uncalibrated)",5,RMSE,14.9921
+"GRN-BNN (T=1, uncalibrated)",5,MAE,10.8751
+"GRN-BNN (T=1, uncalibrated)",5,R2,0.8364
+"GRN-BNN (T=1, uncalibrated)",5,PICP,0.829
+"GRN-BNN (T=1, uncalibrated)",5,MPIW,37.1112
+"GRN-BNN (T=1, uncalibrated)",5,IS,93.0326
+"GRN-BNN (T=1, uncalibrated)",5,Spearman_spread_err,0.4213
+GRN-BNN + normalised conformal,1,RMSE,14.1426
+GRN-BNN + normalised conformal,1,MAE,9.775
+GRN-BNN + normalised conformal,1,R2,0.8409
+GRN-BNN + normalised conformal,1,PICP,0.9793
+GRN-BNN + normalised conformal,1,MPIW,73.0318
+GRN-BNN + normalised conformal,1,IS,83.3853
+GRN-BNN + normalised conformal,1,Spearman_spread_err,0.4125
+GRN-BNN + normalised conformal,2,RMSE,14.9924
+GRN-BNN + normalised conformal,2,MAE,10.2319
+GRN-BNN + normalised conformal,2,R2,0.8203
+GRN-BNN + normalised conformal,2,PICP,0.9845
+GRN-BNN + normalised conformal,2,MPIW,78.5747
+GRN-BNN + normalised conformal,2,IS,87.9425
+GRN-BNN + normalised conformal,2,Spearman_spread_err,0.467
+GRN-BNN + normalised conformal,3,RMSE,15.1679
+GRN-BNN + normalised conformal,3,MAE,10.6496
+GRN-BNN + normalised conformal,3,R2,0.8406
+GRN-BNN + normalised conformal,3,PICP,0.9819
+GRN-BNN + normalised conformal,3,MPIW,80.4585
+GRN-BNN + normalised conformal,3,IS,85.6763
+GRN-BNN + normalised conformal,3,Spearman_spread_err,0.3531
+GRN-BNN + normalised conformal,4,RMSE,13.894
+GRN-BNN + normalised conformal,4,MAE,9.4982
+GRN-BNN + normalised conformal,4,R2,0.8604
+GRN-BNN + normalised conformal,4,PICP,0.987
+GRN-BNN + normalised conformal,4,MPIW,81.6086
+GRN-BNN + normalised conformal,4,IS,84.606
+GRN-BNN + normalised conformal,4,Spearman_spread_err,0.4544
+GRN-BNN + normalised conformal,5,RMSE,14.9921
+GRN-BNN + normalised conformal,5,MAE,10.8751
+GRN-BNN + normalised conformal,5,R2,0.8364
+GRN-BNN + normalised conformal,5,PICP,0.9819
+GRN-BNN + normalised conformal,5,MPIW,81.5337
+GRN-BNN + normalised conformal,5,IS,84.7565
+GRN-BNN + normalised conformal,5,Spearman_spread_err,0.4213
+Gaussian process (Matern-5/2),1,RMSE,13.4531
+Gaussian process (Matern-5/2),1,MAE,9.3614
+Gaussian process (Matern-5/2),1,R2,0.8561
+Gaussian process (Matern-5/2),1,PICP,0.9534
+Gaussian process (Matern-5/2),1,MPIW,55.497
+Gaussian process (Matern-5/2),1,IS,72.4497
+Gaussian process (Matern-5/2),1,Spearman_spread_err,0.0805
+Gaussian process (Matern-5/2),2,RMSE,14.8276
+Gaussian process (Matern-5/2),2,MAE,9.9451
+Gaussian process (Matern-5/2),2,R2,0.8242
+Gaussian process (Matern-5/2),2,PICP,0.9301
+Gaussian process (Matern-5/2),2,MPIW,54.7404
+Gaussian process (Matern-5/2),2,IS,83.8708
+Gaussian process (Matern-5/2),2,Spearman_spread_err,0.1984
+Gaussian process (Matern-5/2),3,RMSE,13.0704
+Gaussian process (Matern-5/2),3,MAE,9.3183
+Gaussian process (Matern-5/2),3,R2,0.8816
+Gaussian process (Matern-5/2),3,PICP,0.9378
+Gaussian process (Matern-5/2),3,MPIW,55.1201
+Gaussian process (Matern-5/2),3,IS,75.5455
+Gaussian process (Matern-5/2),3,Spearman_spread_err,0.0996
+Gaussian process (Matern-5/2),4,RMSE,13.4094
+Gaussian process (Matern-5/2),4,MAE,9.2554
+Gaussian process (Matern-5/2),4,R2,0.87
+Gaussian process (Matern-5/2),4,PICP,0.9249
+Gaussian process (Matern-5/2),4,MPIW,54.588
+Gaussian process (Matern-5/2),4,IS,76.1461
+Gaussian process (Matern-5/2),4,Spearman_spread_err,0.2557
+Gaussian process (Matern-5/2),5,RMSE,13.6982
+Gaussian process (Matern-5/2),5,MAE,9.6992
+Gaussian process (Matern-5/2),5,R2,0.8634
+Gaussian process (Matern-5/2),5,PICP,0.9404
+Gaussian process (Matern-5/2),5,MPIW,56.5838
+Gaussian process (Matern-5/2),5,IS,76.4426
+Gaussian process (Matern-5/2),5,Spearman_spread_err,0.2335
+LightGBM (point only),1,RMSE,11.4322
+LightGBM (point only),1,MAE,8.2818
+LightGBM (point only),1,R2,0.8961
+LightGBM (point only),2,RMSE,13.0062
+LightGBM (point only),2,MAE,8.8257
+LightGBM (point only),2,R2,0.8648
+LightGBM (point only),3,RMSE,12.2495
+LightGBM (point only),3,MAE,9.0529
+LightGBM (point only),3,R2,0.896
+LightGBM (point only),4,RMSE,12.4943
+LightGBM (point only),4,MAE,8.7172
+LightGBM (point only),4,R2,0.8871
+LightGBM (point only),5,RMSE,11.6548
+LightGBM (point only),5,MAE,8.3231
+LightGBM (point only),5,R2,0.9011
+LightGBM + split-conformal,1,RMSE,11.4322
+LightGBM + split-conformal,1,MAE,8.2818
+LightGBM + split-conformal,1,R2,0.8961
+LightGBM + split-conformal,1,PICP,0.9715
+LightGBM + split-conformal,1,MPIW,56.9196
+LightGBM + split-conformal,1,IS,63.7931
+LightGBM + split-conformal,1,Spearman_spread_err,-0.0877
+LightGBM + split-conformal,2,RMSE,13.0062
+LightGBM + split-conformal,2,MAE,8.8257
+LightGBM + split-conformal,2,R2,0.8648
+LightGBM + split-conformal,2,PICP,0.9456
+LightGBM + split-conformal,2,MPIW,54.0134
+LightGBM + split-conformal,2,IS,74.2201
+LightGBM + split-conformal,2,Spearman_spread_err,-0.0327
+LightGBM + split-conformal,3,RMSE,12.2495
+LightGBM + split-conformal,3,MAE,9.0529
+LightGBM + split-conformal,3,R2,0.896
+LightGBM + split-conformal,3,PICP,0.956
+LightGBM + split-conformal,3,MPIW,52.7762
+LightGBM + split-conformal,3,IS,63.7739
+LightGBM + split-conformal,3,Spearman_spread_err,0.0415
+LightGBM + split-conformal,4,RMSE,12.4943
+LightGBM + split-conformal,4,MAE,8.7172
+LightGBM + split-conformal,4,R2,0.8871
+LightGBM + split-conformal,4,PICP,0.9534
+LightGBM + split-conformal,4,MPIW,55.3553
+LightGBM + split-conformal,4,IS,73.0607
+LightGBM + split-conformal,4,Spearman_spread_err,-0.0631
+LightGBM + split-conformal,5,RMSE,11.6548
+LightGBM + split-conformal,5,MAE,8.3231
+LightGBM + split-conformal,5,R2,0.9011
+LightGBM + split-conformal,5,PICP,0.9611
+LightGBM + split-conformal,5,MPIW,55.0723
+LightGBM + split-conformal,5,IS,67.9991
+LightGBM + split-conformal,5,Spearman_spread_err,-0.0593
+LightGBM conformalised quantile regression,1,RMSE,11.4322
+LightGBM conformalised quantile regression,1,MAE,8.2818
+LightGBM conformalised quantile regression,1,R2,0.8961
+LightGBM conformalised quantile regression,1,PICP,0.9456
+LightGBM conformalised quantile regression,1,MPIW,77.1825
+LightGBM conformalised quantile regression,1,IS,89.4238
+LightGBM conformalised quantile regression,1,Spearman_spread_err,0.2629
+LightGBM conformalised quantile regression,2,RMSE,13.0062
+LightGBM conformalised quantile regression,2,MAE,8.8257
+LightGBM conformalised quantile regression,2,R2,0.8648
+LightGBM conformalised quantile regression,2,PICP,0.9508
+LightGBM conformalised quantile regression,2,MPIW,80.7464
+LightGBM conformalised quantile regression,2,IS,95.9478
+LightGBM conformalised quantile regression,2,Spearman_spread_err,0.3725
+LightGBM conformalised quantile regression,3,RMSE,12.2495
+LightGBM conformalised quantile regression,3,MAE,9.0529
+LightGBM conformalised quantile regression,3,R2,0.896
+LightGBM conformalised quantile regression,3,PICP,0.9508
+LightGBM conformalised quantile regression,3,MPIW,79.9442
+LightGBM conformalised quantile regression,3,IS,93.4593
+LightGBM conformalised quantile regression,3,Spearman_spread_err,0.2401
+LightGBM conformalised quantile regression,4,RMSE,12.4943
+LightGBM conformalised quantile regression,4,MAE,8.7172
+LightGBM conformalised quantile regression,4,R2,0.8871
+LightGBM conformalised quantile regression,4,PICP,0.9534
+LightGBM conformalised quantile regression,4,MPIW,78.9943
+LightGBM conformalised quantile regression,4,IS,94.4319
+LightGBM conformalised quantile regression,4,Spearman_spread_err,0.225
+LightGBM conformalised quantile regression,5,RMSE,11.6548
+LightGBM conformalised quantile regression,5,MAE,8.3231
+LightGBM conformalised quantile regression,5,R2,0.9011
+LightGBM conformalised quantile regression,5,PICP,0.9767
+LightGBM conformalised quantile regression,5,MPIW,82.3918
+LightGBM conformalised quantile regression,5,IS,87.887
+LightGBM conformalised quantile regression,5,Spearman_spread_err,0.2184
+LightGBM quantile regression (raw),1,RMSE,11.4322
+LightGBM quantile regression (raw),1,MAE,8.2818
+LightGBM quantile regression (raw),1,R2,0.8961
+LightGBM quantile regression (raw),1,PICP,0.8679
+LightGBM quantile regression (raw),1,MPIW,63.138
+LightGBM quantile regression (raw),1,IS,100.5026
+LightGBM quantile regression (raw),1,Spearman_spread_err,0.2629
+LightGBM quantile regression (raw),2,RMSE,13.0062
+LightGBM quantile regression (raw),2,MAE,8.8257
+LightGBM quantile regression (raw),2,R2,0.8648
+LightGBM quantile regression (raw),2,PICP,0.8627
+LightGBM quantile regression (raw),2,MPIW,63.8897
+LightGBM quantile regression (raw),2,IS,109.6446
+LightGBM quantile regression (raw),2,Spearman_spread_err,0.3725
+LightGBM quantile regression (raw),3,RMSE,12.2495
+LightGBM quantile regression (raw),3,MAE,9.0529
+LightGBM quantile regression (raw),3,R2,0.896
+LightGBM quantile regression (raw),3,PICP,0.8679
+LightGBM quantile regression (raw),3,MPIW,64.3964
+LightGBM quantile regression (raw),3,IS,103.481
+LightGBM quantile regression (raw),3,Spearman_spread_err,0.2401
+LightGBM quantile regression (raw),4,RMSE,12.4943
+LightGBM quantile regression (raw),4,MAE,8.7172
+LightGBM quantile regression (raw),4,R2,0.8871
+LightGBM quantile regression (raw),4,PICP,0.8808
+LightGBM quantile regression (raw),4,MPIW,63.8543
+LightGBM quantile regression (raw),4,IS,102.7322
+LightGBM quantile regression (raw),4,Spearman_spread_err,0.225
+LightGBM quantile regression (raw),5,RMSE,11.6548
+LightGBM quantile regression (raw),5,MAE,8.3231
+LightGBM quantile regression (raw),5,R2,0.9011
+LightGBM quantile regression (raw),5,PICP,0.8705
+LightGBM quantile regression (raw),5,MPIW,65.4092
+LightGBM quantile regression (raw),5,IS,92.0083
+LightGBM quantile regression (raw),5,Spearman_spread_err,0.2184
+XGBoost (point only),1,RMSE,11.8676
+XGBoost (point only),1,MAE,8.4211
+XGBoost (point only),1,R2,0.888
+XGBoost (point only),2,RMSE,13.5936
+XGBoost (point only),2,MAE,8.9674
+XGBoost (point only),2,R2,0.8523
+XGBoost (point only),3,RMSE,12.4233
+XGBoost (point only),3,MAE,8.8369
+XGBoost (point only),3,R2,0.8931
+XGBoost (point only),4,RMSE,12.7993
+XGBoost (point only),4,MAE,8.702
+XGBoost (point only),4,R2,0.8815
+XGBoost (point only),5,RMSE,12.337
+XGBoost (point only),5,MAE,8.783
+XGBoost (point only),5,R2,0.8892
+XGBoost + split-conformal,1,RMSE,11.8676
+XGBoost + split-conformal,1,MAE,8.4211
+XGBoost + split-conformal,1,R2,0.888
+XGBoost + split-conformal,1,PICP,0.9741
+XGBoost + split-conformal,1,MPIW,57.7587
+XGBoost + split-conformal,1,IS,66.5175
+XGBoost + split-conformal,1,Spearman_spread_err,0.0409
+XGBoost + split-conformal,2,RMSE,13.5936
+XGBoost + split-conformal,2,MAE,8.9674
+XGBoost + split-conformal,2,R2,0.8523
+XGBoost + split-conformal,2,PICP,0.9378
+XGBoost + split-conformal,2,MPIW,57.9089
+XGBoost + split-conformal,2,IS,81.3845
+XGBoost + split-conformal,2,Spearman_spread_err,-0.04
+XGBoost + split-conformal,3,RMSE,12.4233
+XGBoost + split-conformal,3,MAE,8.8369
+XGBoost + split-conformal,3,R2,0.8931
+XGBoost + split-conformal,3,PICP,0.956
+XGBoost + split-conformal,3,MPIW,57.9403
+XGBoost + split-conformal,3,IS,71.5507
+XGBoost + split-conformal,3,Spearman_spread_err,0.1097
+XGBoost + split-conformal,4,RMSE,12.7993
+XGBoost + split-conformal,4,MAE,8.702
+XGBoost + split-conformal,4,R2,0.8815
+XGBoost + split-conformal,4,PICP,0.9482
+XGBoost + split-conformal,4,MPIW,57.7978
+XGBoost + split-conformal,4,IS,77.6951
+XGBoost + split-conformal,4,Spearman_spread_err,0.0931
+XGBoost + split-conformal,5,RMSE,12.337
+XGBoost + split-conformal,5,MAE,8.783
+XGBoost + split-conformal,5,R2,0.8892
+XGBoost + split-conformal,5,PICP,0.9637
+XGBoost + split-conformal,5,MPIW,56.7007
+XGBoost + split-conformal,5,IS,70.4035
+XGBoost + split-conformal,5,Spearman_spread_err,-0.0962

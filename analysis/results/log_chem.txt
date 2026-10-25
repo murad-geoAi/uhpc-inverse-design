@@ -1,0 +1,13 @@
+all 67 features (as used in the paper)
+without per-material chemistry and specific gravity
+chemistry replaced by binder-weighted CaO, SiO2, Al2O3
+                                                 features                model  n_features    RMSE     R2
+0                  all 67 features (as used in the paper)  GRN-BNN (5 members)          67  27.909  0.420
+1                  all 67 features (as used in the paper)             LightGBM          67  25.807  0.504
+2                  all 67 features (as used in the paper)             CatBoost          67  24.586  0.550
+3     without per-material chemistry and specific gravity  GRN-BNN (5 members)          28  27.495  0.437
+4     without per-material chemistry and specific gravity             LightGBM          28  27.111  0.453
+5     without per-material chemistry and specific gravity             CatBoost          28  25.220  0.526
+6  chemistry replaced by binder-weighted CaO, SiO2, Al2O3  GRN-BNN (5 members)          31  27.438  0.439
+7  chemistry replaced by binder-weighted CaO, SiO2, Al2O3             LightGBM          31  25.501  0.516
+8  chemistry replaced by binder-weighted CaO, SiO2, Al2O3             CatBoost          31  24.320  0.560

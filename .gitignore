@@ -10,8 +10,15 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Results (generated at runtime, not needed in repo)
-results/
+# Manuscript under review and its builders: unpublished text and confidential reviewer comments.
+# These stay on the authors' machines and are shared privately, never in the public repository.
+Revision/
+manuscript_build/
+prompt
 
-# Data Privacy (Raw training data)
-Data/*.csv
+# Third-party source database (download it from doi:10.17632/czb7ww5pkz.2 into analysis/raw/)
+analysis/raw/
+
+# Superseded intermediates and tool caches kept locally only
+analysis/results/_archive/
+catboost_info/

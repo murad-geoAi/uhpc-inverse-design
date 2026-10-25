@@ -1,0 +1,267 @@
+source_row_index,reason,exact_duplicate,paper
+20,R1 no 28-day compressive strength reported,False,3
+21,R1 no 28-day compressive strength reported,False,3
+133,R1 no 28-day compressive strength reported,False,12
+138,R1 no 28-day compressive strength reported,False,12
+139,R1 no 28-day compressive strength reported,False,12
+217,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,18
+218,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),True,18
+222,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),True,18
+370,R1 no 28-day compressive strength reported,False,29
+371,R1 no 28-day compressive strength reported,False,29
+372,R1 no 28-day compressive strength reported,False,29
+373,R1 no 28-day compressive strength reported,False,29
+374,R1 no 28-day compressive strength reported,False,29
+399,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,32
+400,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,32
+401,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,32
+402,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,32
+413,R1 no 28-day compressive strength reported,False,34
+414,R1 no 28-day compressive strength reported,False,34
+415,R1 no 28-day compressive strength reported,False,34
+416,R1 no 28-day compressive strength reported,False,34
+439,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,38
+440,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,38
+441,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,38
+442,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,38
+444,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,38
+445,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,38
+446,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,38
+447,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,38
+627,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),True,54
+657,R1 no 28-day compressive strength reported,False,56
+658,R1 no 28-day compressive strength reported,False,56
+659,R1 no 28-day compressive strength reported,False,56
+660,R1 no 28-day compressive strength reported,False,56
+661,R1 no 28-day compressive strength reported,False,56
+662,R1 no 28-day compressive strength reported,False,56
+664,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,57
+665,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,57
+666,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,57
+667,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,57
+668,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,57
+687,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+688,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+689,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+690,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+691,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+692,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+693,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+694,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+695,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+696,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+697,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+698,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,59
+699,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+700,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+701,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+702,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+703,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+704,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+705,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+706,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+707,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+708,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,60
+801,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),True,65
+856,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,69
+971,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),True,77
+980,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,78
+981,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,78
+982,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,78
+983,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,78
+984,R1 no 28-day compressive strength reported,False,79
+985,R1 no 28-day compressive strength reported,False,79
+986,R1 no 28-day compressive strength reported,False,79
+987,R1 no 28-day compressive strength reported,False,79
+988,R1 no 28-day compressive strength reported,False,79
+989,R1 no 28-day compressive strength reported,False,79
+990,R1 no 28-day compressive strength reported,False,79
+991,R1 no 28-day compressive strength reported,False,79
+992,R1 no 28-day compressive strength reported,False,79
+993,R1 no 28-day compressive strength reported,False,79
+994,R1 no 28-day compressive strength reported,False,79
+995,R1 no 28-day compressive strength reported,False,79
+996,R1 no 28-day compressive strength reported,False,79
+997,R1 no 28-day compressive strength reported,False,79
+998,R1 no 28-day compressive strength reported,False,79
+999,R1 no 28-day compressive strength reported,False,79
+1017,R1 no 28-day compressive strength reported,False,83
+1018,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,83
+1019,R1 no 28-day compressive strength reported,False,83
+1020,R1 no 28-day compressive strength reported,False,83
+1021,R1 no 28-day compressive strength reported,False,83
+1028,R1 no 28-day compressive strength reported,False,84
+1094,R1 no 28-day compressive strength reported,False,86
+1096,R1 no 28-day compressive strength reported,False,86
+1098,R1 no 28-day compressive strength reported,False,86
+1099,R1 no 28-day compressive strength reported,False,86
+1114,R1 no 28-day compressive strength reported,False,89
+1116,R1 no 28-day compressive strength reported,False,89
+1118,R1 no 28-day compressive strength reported,False,90
+1119,R1 no 28-day compressive strength reported,False,90
+1120,R1 no 28-day compressive strength reported,False,90
+1121,R1 no 28-day compressive strength reported,False,90
+1135,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,91
+1136,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,91
+1137,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,91
+1138,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,91
+1139,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,91
+1140,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,91
+1141,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,91
+1142,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,91
+1162,R1 no 28-day compressive strength reported,False,95
+1163,R1 no 28-day compressive strength reported,False,95
+1164,R1 no 28-day compressive strength reported,False,95
+1165,R1 no 28-day compressive strength reported,False,95
+1179,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,98
+1260,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,103
+1261,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,103
+1262,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,103
+1263,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,103
+1264,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,103
+1265,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,103
+1266,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,103
+1311,R1 no 28-day compressive strength reported,False,109
+1312,R1 no 28-day compressive strength reported,False,109
+1313,R1 no 28-day compressive strength reported,False,109
+1314,R1 no 28-day compressive strength reported,False,109
+1315,R1 no 28-day compressive strength reported,False,109
+1316,R1 no 28-day compressive strength reported,False,109
+1317,R1 no 28-day compressive strength reported,False,109
+1318,R1 no 28-day compressive strength reported,False,109
+1319,R1 no 28-day compressive strength reported,False,109
+1338,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,111
+1339,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,111
+1340,R1 no 28-day compressive strength reported,False,111
+1341,R1 no 28-day compressive strength reported,False,111
+1342,R1 no 28-day compressive strength reported,False,111
+1343,R1 no 28-day compressive strength reported,False,111
+1344,R1 no 28-day compressive strength reported,False,111
+1345,R1 no 28-day compressive strength reported,False,111
+1346,R1 no 28-day compressive strength reported,False,111
+1347,R1 no 28-day compressive strength reported,False,111
+1348,R1 no 28-day compressive strength reported,False,111
+1349,R1 no 28-day compressive strength reported,True,111
+1350,R1 no 28-day compressive strength reported,False,112
+1351,R1 no 28-day compressive strength reported,False,112
+1352,R1 no 28-day compressive strength reported,False,112
+1353,R1 no 28-day compressive strength reported,False,112
+1354,R1 no 28-day compressive strength reported,False,112
+1355,R1 no 28-day compressive strength reported,False,112
+1356,R1 no 28-day compressive strength reported,False,112
+1357,R1 no 28-day compressive strength reported,False,112
+1358,R1 no 28-day compressive strength reported,True,112
+1359,R1 no 28-day compressive strength reported,False,112
+1360,R1 no 28-day compressive strength reported,False,112
+1361,R1 no 28-day compressive strength reported,False,112
+1362,R1 no 28-day compressive strength reported,True,112
+1363,R1 no 28-day compressive strength reported,False,112
+1364,R1 no 28-day compressive strength reported,False,112
+1365,R1 no 28-day compressive strength reported,False,112
+1366,R1 no 28-day compressive strength reported,False,112
+1367,R1 no 28-day compressive strength reported,False,112
+1378,R1 no 28-day compressive strength reported,False,114
+1379,R1 no 28-day compressive strength reported,False,114
+1453,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,121
+1509,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),True,121
+1535,R1 no 28-day compressive strength reported,False,123
+1541,R1 no 28-day compressive strength reported,False,123
+1558,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,125
+1559,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,125
+1560,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,125
+1578,R1 no 28-day compressive strength reported,False,126
+1579,R1 no 28-day compressive strength reported,False,126
+1580,R1 no 28-day compressive strength reported,False,126
+1594,R1 no 28-day compressive strength reported,False,131
+1595,R1 no 28-day compressive strength reported,False,131
+1596,R1 no 28-day compressive strength reported,False,131
+1597,R1 no 28-day compressive strength reported,False,131
+1598,R1 no 28-day compressive strength reported,True,131
+1599,R1 no 28-day compressive strength reported,False,131
+1600,R1 no 28-day compressive strength reported,False,131
+1601,R1 no 28-day compressive strength reported,False,131
+1602,R1 no 28-day compressive strength reported,True,131
+1603,R1 no 28-day compressive strength reported,False,131
+1604,R1 no 28-day compressive strength reported,False,131
+1605,R1 no 28-day compressive strength reported,False,131
+1606,R1 no 28-day compressive strength reported,False,131
+1607,R1 no 28-day compressive strength reported,False,131
+1608,R1 no 28-day compressive strength reported,False,131
+1609,R1 no 28-day compressive strength reported,False,131
+1764,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1765,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1766,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1767,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1769,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1770,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1771,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1772,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1774,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1775,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1777,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1779,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1780,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1781,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1782,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1784,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1785,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1786,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1787,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1789,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1790,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1791,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1792,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1794,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1795,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1796,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1797,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1799,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1800,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1801,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1802,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1803,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1804,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1805,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1806,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1807,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1808,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1809,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1810,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1811,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1812,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1816,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1817,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1818,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1819,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1820,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1821,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1822,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1823,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1828,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1829,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1830,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1831,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1832,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1833,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1834,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1835,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,141
+1840,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,142
+1841,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,142
+1846,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,142
+1847,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,142
+1948,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),True,144
+2090,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2091,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2092,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2093,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2094,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2096,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2097,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2098,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2099,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2101,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2102,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2103,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2104,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,157
+2105,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),False,158
+2168,R6 removed during EDA outlier treatment and duplicate removal (record-level log not archived),True,166

@@ -1,0 +1,1931 @@
+split,row,paper,src_idx,country,year,match_tier
+train,0,77.0,976.0,China,2010.0,exact_or_tolerance
+train,1,166.0,2164.0, Singapore,2019.0,exact_or_tolerance
+train,2,70.0,867.0,China,2021.0,exact_or_tolerance
+train,3,62.0,739.0,China  ,2013.0,exact_or_tolerance
+train,4,48.0,560.0,India ,2018.0,exact_or_tolerance
+train,5,16.0,197.0,USA,2018.0,exact_or_tolerance
+train,6,50.0,601.0,Iran ,2018.0,exact_or_tolerance
+train,7,44.0,476.0,China,2020.0,exact_or_tolerance
+train,8,51.0,608.0,China,2018.0,exact_or_tolerance
+train,9,66.0,816.0,Turkey,2010.0,exact_or_tolerance
+train,10,54.0,628.0,China ,2017.0,exact_or_tolerance
+train,11,168.0,2186.0,China,2019.0,exact_or_tolerance
+train,12,13.0,146.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,13,1.0,2.0,USA,2022.0,exact_or_tolerance
+train,14,63.0,765.0,USA,2016.0,exact_or_tolerance
+train,15,153.0,2044.0,Korea,2019.0,exact_or_tolerance
+train,16,139.0,1749.0,USA,2019.0,exact_or_tolerance
+train,17,26.0,344.0,Malaysia,2024.0,exact_or_tolerance
+train,18,116.0,1388.0,China,2021.0,exact_or_tolerance
+train,19,48.0,512.0,India ,2018.0,exact_or_tolerance
+train,20,144.0,1962.0,Portugal,2015.0,exact_or_tolerance
+train,21,161.0,2128.0,USA,2019.0,exact_or_tolerance
+train,22,62.0,738.0,China  ,2013.0,exact_or_tolerance
+train,23,21.0,276.0,Turkey,2016.0,exact_or_tolerance
+train,24,15.0,189.0,USA,2017.0,exact_or_tolerance
+train,25,76.0,938.0,Turkey,2008.0,exact_or_tolerance
+train,26,20.0,249.0,China,2019.0,exact_or_tolerance
+train,27,121.0,1469.0,USA,2024.0,exact_or_tolerance
+train,28,135.0,1662.0,USA,2022.0,exact_or_tolerance
+train,29,166.0,2165.0, Singapore,2019.0,exact_or_tolerance
+train,30,85.0,1064.0,China ,2016.0,exact_or_tolerance
+train,31,73.0,914.0,Canada,2017.0,exact_or_tolerance
+train,32,159.0,2112.0,China,2018.0,exact_or_tolerance
+train,33,92.0,1146.0,Switzerland,2015.0,exact_or_tolerance
+train,34,37.0,433.0,Italy,2020.0,exact_or_tolerance
+train,35,21.0,278.0,Turkey,2016.0,exact_or_tolerance
+train,36,153.0,2013.0,Korea,2019.0,exact_or_tolerance
+train,37,132.0,1614.0,China,2022.0,exact_or_tolerance
+train,38,135.0,1675.0,USA,2022.0,exact_or_tolerance
+train,39,21.0,255.0,Turkey,2016.0,exact_or_tolerance
+train,40,37.0,431.0,Italy,2020.0,exact_or_tolerance
+train,41,101.0,1221.0,Canada ,2017.0,exact_or_tolerance
+train,42,116.0,1416.0,China,2021.0,exact_or_tolerance
+train,43,85.0,1049.0,China ,2016.0,exact_or_tolerance
+train,44,24.0,315.0,Korea,2017.0,exact_or_tolerance
+train,45,30.0,384.0,China,2021.0,exact_or_tolerance
+train,46,116.0,1390.0,China,2021.0,exact_or_tolerance
+train,47,39.0,451.0,Portugal ,2020.0,exact_or_tolerance
+train,48,48.0,511.0,India ,2018.0,exact_or_tolerance
+train,49,63.0,766.0,USA,2016.0,exact_or_tolerance
+train,50,64.0,779.0,China  ,2024.0,exact_or_tolerance
+train,51,135.0,1680.0,USA,2022.0,exact_or_tolerance
+train,52,36.0,426.0,Iran,2020.0,exact_or_tolerance
+train,53,150.0,2003.0,China,2019.0,exact_or_tolerance
+train,54,75.0,933.0,China,2021.0,exact_or_tolerance
+train,55,140.0,1761.0,China,2019.0,exact_or_tolerance
+train,56,147.0,1979.0,USA,2024.0,exact_or_tolerance
+train,57,48.0,553.0,India ,2018.0,exact_or_tolerance
+train,58,161.0,2124.0,USA,2019.0,exact_or_tolerance
+train,59,15.0,187.0,USA,2017.0,exact_or_tolerance
+train,60,110.0,1321.0,China,2008.0,exact_or_tolerance
+train,61,14.0,175.0,Pakistan,2014.0,exact_or_tolerance
+train,62,23.0,297.0,Korea,2019.0,exact_or_tolerance
+train,63,48.0,552.0,India ,2018.0,exact_or_tolerance
+train,64,77.0,968.0,China,2010.0,exact_or_tolerance
+train,65,24.0,305.0,Korea,2017.0,exact_or_tolerance
+train,66,153.0,2054.0,Korea,2019.0,exact_or_tolerance
+train,67,121.0,1440.0,USA,2024.0,exact_or_tolerance
+train,68,141.0,1826.0,China,2015.0,exact_or_tolerance
+train,69,74.0,920.0,China  ,2021.0,exact_or_tolerance
+train,70,160.0,2120.0,China,2024.0,exact_or_tolerance
+train,71,144.0,1954.0,Portugal,2015.0,exact_or_tolerance
+train,72,101.0,1218.0,Canada ,2017.0,exact_or_tolerance
+train,73,144.0,1936.0,Portugal,2015.0,exact_or_tolerance
+train,74,121.0,1436.0,USA,2024.0,exact_or_tolerance
+train,75,39.0,448.0,Portugal ,2020.0,exact_or_tolerance
+train,76,30.0,381.0,China,2021.0,exact_or_tolerance
+train,77,85.0,1035.0,China ,2016.0,exact_or_tolerance
+train,78,54.0,645.0,China ,2017.0,exact_or_tolerance
+train,79,113.0,1371.0,India,2012.0,exact_or_tolerance
+train,80,144.0,1890.0,Portugal,2015.0,exact_or_tolerance
+train,81,144.0,1943.0,Portugal,2015.0,exact_or_tolerance
+train,82,15.0,180.0,USA,2017.0,exact_or_tolerance
+train,83,50.0,587.0,Iran ,2018.0,nearest_ge4of7
+train,84,121.0,1506.0,USA,2024.0,exact_or_tolerance
+train,85,141.0,1815.0,China,2015.0,exact_or_tolerance
+train,86,123.0,1542.0,China ,2023.0,exact_or_tolerance
+train,87,26.0,339.0,Malaysia,2024.0,exact_or_tolerance
+train,88,167.0,2169.0,Vietnam,2021.0,exact_or_tolerance
+train,89,140.0,1762.0,China,2019.0,exact_or_tolerance
+train,90,168.0,2183.0,China,2019.0,exact_or_tolerance
+train,91,156.0,2083.0,Malaysia,2014.0,nearest_ge4of7
+train,92,56.0,654.0,China,2017.0,exact_or_tolerance
+train,93,85.0,1071.0,China ,2016.0,exact_or_tolerance
+train,94,65.0,804.0,Turkey,2008.0,exact_or_tolerance
+train,95,50.0,593.0,Iran ,2018.0,exact_or_tolerance
+train,96,16.0,203.0,USA,2018.0,exact_or_tolerance
+train,97,1.0,15.0,USA,2022.0,exact_or_tolerance
+train,98,21.0,270.0,Turkey,2016.0,exact_or_tolerance
+train,99,144.0,1862.0,Portugal,2015.0,exact_or_tolerance
+train,100,67.0,847.0,USA,2015.0,exact_or_tolerance
+train,101,82.0,1010.0,Portugal,2012.0,exact_or_tolerance
+train,102,147.0,1980.0,USA,2024.0,exact_or_tolerance
+train,103,144.0,1870.0,Portugal,2015.0,exact_or_tolerance
+train,104,135.0,1647.0,USA,2022.0,exact_or_tolerance
+train,105,80.0,1000.0,ChinA,2017.0,exact_or_tolerance
+train,106,71.0,893.0,Australia,2022.0,exact_or_tolerance
+train,107,134.0,1640.0,China,2020.0,nearest_ge4of7
+train,108,98.0,1187.0,China,2021.0,nearest_ge4of7
+train,109,46.0,491.0,Iran,2018.0,exact_or_tolerance
+train,110,102.0,1245.0,Hong Kong,2012.0,exact_or_tolerance
+train,111,17.0,204.0,China ,2015.0,exact_or_tolerance
+train,112,121.0,1491.0,USA,2024.0,exact_or_tolerance
+train,113,144.0,1881.0,Portugal,2015.0,exact_or_tolerance
+train,114,106.0,1283.0,Croatia,2023.0,exact_or_tolerance
+train,115,116.0,1387.0,China,2021.0,exact_or_tolerance
+train,116,162.0,2138.0,China,2023.0,exact_or_tolerance
+train,117,99.0,1203.0,China,2018.0,exact_or_tolerance
+train,118,126.0,1574.0,USA,2017.0,exact_or_tolerance
+train,119,48.0,504.0,India ,2018.0,exact_or_tolerance
+train,120,144.0,1865.0,Portugal,2015.0,exact_or_tolerance
+train,121,121.0,1458.0,USA,2024.0,exact_or_tolerance
+train,122,145.0,1967.0,USA,2013.0,exact_or_tolerance
+train,123,116.0,1412.0,China,2021.0,exact_or_tolerance
+train,124,80.0,1001.0,ChinA,2017.0,exact_or_tolerance
+train,125,121.0,1508.0,USA,2024.0,exact_or_tolerance
+train,126,122.0,1521.0, China,2019.0,exact_or_tolerance
+train,127,67.0,841.0,USA,2015.0,exact_or_tolerance
+train,128,48.0,558.0,India ,2018.0,exact_or_tolerance
+train,129,4.0,45.0,Canada,2016.0,exact_or_tolerance
+train,130,21.0,261.0,Turkey,2016.0,exact_or_tolerance
+train,131,6.0,103.0,France,2008.0,exact_or_tolerance
+train,132,70.0,872.0,China,2021.0,exact_or_tolerance
+train,133,162.0,2130.0,China,2023.0,exact_or_tolerance
+train,134,160.0,2115.0,China,2024.0,exact_or_tolerance
+train,135,7.0,109.0,USA,2011.0,nearest_ge4of7
+train,136,70.0,883.0,China,2021.0,exact_or_tolerance
+train,137,48.0,523.0,India ,2018.0,exact_or_tolerance
+train,138,166.0,2167.0, Singapore,2019.0,exact_or_tolerance
+train,139,162.0,2141.0,China,2023.0,exact_or_tolerance
+train,140,66.0,831.0,Turkey,2010.0,exact_or_tolerance
+train,141,76.0,940.0,Turkey,2008.0,exact_or_tolerance
+train,142,153.0,2022.0,Korea,2019.0,exact_or_tolerance
+train,143,147.0,1975.0,USA,2024.0,exact_or_tolerance
+train,144,50.0,602.0,Iran ,2018.0,exact_or_tolerance
+train,145,77.0,975.0,China,2010.0,exact_or_tolerance
+train,146,5.0,74.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,147,103.0,1258.0,Cyprus,2018.0,exact_or_tolerance
+train,148,107.0,1291.0,China,2024.0,exact_or_tolerance
+train,149,101.0,1238.0,Canada ,2017.0,exact_or_tolerance
+train,150,53.0,617.0,Malaysia,2010.0,exact_or_tolerance
+train,151,48.0,507.0,India ,2018.0,exact_or_tolerance
+train,152,90.0,1131.0,Germany,2014.0,exact_or_tolerance
+train,153,48.0,532.0,India ,2018.0,exact_or_tolerance
+train,154,144.0,1953.0,Portugal,2015.0,exact_or_tolerance
+train,155,65.0,805.0,Turkey,2008.0,exact_or_tolerance
+train,156,168.0,2177.0,China,2019.0,exact_or_tolerance
+train,157,105.0,1275.0,Cyprus,2015.0,exact_or_tolerance
+train,158,110.0,1323.0,China,2008.0,exact_or_tolerance
+train,159,24.0,316.0,Korea,2017.0,exact_or_tolerance
+train,160,74.0,924.0,China  ,2021.0,exact_or_tolerance
+train,161,36.0,423.0,Iran,2020.0,exact_or_tolerance
+train,162,132.0,1610.0,China,2022.0,exact_or_tolerance
+train,163,101.0,1214.0,Canada ,2017.0,exact_or_tolerance
+train,164,24.0,312.0,Korea,2017.0,exact_or_tolerance
+train,165,19.0,231.0,Turkey,2016.0,exact_or_tolerance
+train,166,144.0,1921.0,Portugal,2015.0,exact_or_tolerance
+train,167,110.0,1325.0,China,2008.0,exact_or_tolerance
+train,168,135.0,1657.0,USA,2022.0,exact_or_tolerance
+train,169,76.0,946.0,Turkey,2008.0,exact_or_tolerance
+train,170,73.0,908.0,Canada,2017.0,exact_or_tolerance
+train,171,13.0,153.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,172,52.0,611.0,China,2017.0,exact_or_tolerance
+train,173,139.0,1716.0,USA,2019.0,exact_or_tolerance
+train,174,66.0,839.0,Turkey,2010.0,exact_or_tolerance
+train,175,122.0,1529.0, China,2019.0,exact_or_tolerance
+train,176,67.0,844.0,USA,2015.0,exact_or_tolerance
+train,177,50.0,583.0,Iran ,2018.0,nearest_ge4of7
+train,178,110.0,1334.0,China,2008.0,exact_or_tolerance
+train,179,126.0,1576.0,USA,2017.0,exact_or_tolerance
+train,180,121.0,1455.0,USA,2024.0,exact_or_tolerance
+train,181,101.0,1232.0,Canada ,2017.0,exact_or_tolerance
+train,182,153.0,2046.0,Korea,2019.0,exact_or_tolerance
+train,183,23.0,291.0,Korea,2019.0,exact_or_tolerance
+train,184,139.0,1731.0,USA,2019.0,exact_or_tolerance
+train,185,62.0,752.0,China  ,2013.0,exact_or_tolerance
+train,186,65.0,811.0,Turkey,2008.0,exact_or_tolerance
+train,187,147.0,1982.0,USA,2024.0,exact_or_tolerance
+train,188,139.0,1714.0,USA,2019.0,exact_or_tolerance
+train,189,85.0,1083.0,China ,2016.0,exact_or_tolerance
+train,190,108.0,1306.0,China,2019.0,exact_or_tolerance
+train,191,107.0,1303.0,China,2024.0,exact_or_tolerance
+train,192,122.0,1527.0, China,2019.0,exact_or_tolerance
+train,193,163.0,2150.0,China,2019.0,exact_or_tolerance
+train,194,134.0,1628.0,China,2020.0,nearest_ge4of7
+train,195,64.0,781.0,China  ,2024.0,exact_or_tolerance
+train,196,85.0,1089.0,China ,2016.0,exact_or_tolerance
+train,197,118.0,1426.0,Saudi Arabia,2015.0,exact_or_tolerance
+train,198,135.0,1650.0,USA,2022.0,exact_or_tolerance
+train,199,85.0,1029.0,China ,2016.0,exact_or_tolerance
+train,200,48.0,519.0,India ,2018.0,exact_or_tolerance
+train,201,155.0,2067.0,Malaysia ,2020.0,exact_or_tolerance
+train,202,22.0,282.0,Australia,2018.0,exact_or_tolerance
+train,203,153.0,2025.0,Korea,2019.0,exact_or_tolerance
+train,204,24.0,307.0,Korea,2017.0,exact_or_tolerance
+train,205,98.0,1182.0,China,2021.0,nearest_ge4of7
+train,206,19.0,241.0,Turkey,2016.0,exact_or_tolerance
+train,207,49.0,577.0,China,2019.0,exact_or_tolerance
+train,208,29.0,378.0,Korea,2017.0,exact_or_tolerance
+train,209,72.0,900.0,China,2021.0,exact_or_tolerance
+train,210,17.0,213.0,China ,2015.0,exact_or_tolerance
+train,211,121.0,1494.0,USA,2024.0,exact_or_tolerance
+train,212,153.0,2032.0,Korea,2019.0,exact_or_tolerance
+train,213,5.0,60.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,214,139.0,1711.0,USA,2019.0,nearest_ge4of7
+train,215,153.0,2039.0,Korea,2019.0,exact_or_tolerance
+train,216,138.0,1704.0,China,2020.0,exact_or_tolerance
+train,217,29.0,368.0,Korea,2017.0,exact_or_tolerance
+train,218,48.0,531.0,India ,2018.0,exact_or_tolerance
+train,219,57.0,663.0, Netherlands,2014.0,exact_or_tolerance
+train,220,153.0,2042.0,Korea,2019.0,exact_or_tolerance
+train,221,139.0,1730.0,USA,2019.0,exact_or_tolerance
+train,222,107.0,1293.0,China,2024.0,exact_or_tolerance
+train,223,129.0,1587.0,Korea,2018.0,exact_or_tolerance
+train,224,85.0,1067.0,China ,2016.0,exact_or_tolerance
+train,225,66.0,826.0,Turkey,2010.0,exact_or_tolerance
+train,226,9.0,120.0,Portugal,2014.0,exact_or_tolerance
+train,227,110.0,1333.0,China,2008.0,exact_or_tolerance
+train,228,64.0,780.0,China  ,2024.0,exact_or_tolerance
+train,229,48.0,548.0,India ,2018.0,exact_or_tolerance
+train,230,48.0,539.0,India ,2018.0,exact_or_tolerance
+train,231,5.0,83.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,232,96.0,1174.0,China,2018.0,nearest_ge4of7
+train,233,121.0,1486.0,USA,2024.0,exact_or_tolerance
+train,234,30.0,390.0,China,2021.0,exact_or_tolerance
+train,235,168.0,2179.0,China,2019.0,exact_or_tolerance
+train,236,6.0,86.0,France,2008.0,exact_or_tolerance
+train,237,144.0,1863.0,Portugal,2015.0,exact_or_tolerance
+train,238,26.0,334.0,Malaysia,2024.0,exact_or_tolerance
+train,239,1.0,6.0,USA,2022.0,exact_or_tolerance
+train,240,63.0,759.0,USA,2016.0,exact_or_tolerance
+train,241,88.0,1111.0,Singapore,2018.0,exact_or_tolerance
+train,242,100.0,1212.0,China,2023.0,exact_or_tolerance
+train,243,70.0,877.0,China,2021.0,exact_or_tolerance
+train,244,44.0,477.0,China,2020.0,exact_or_tolerance
+train,245,48.0,516.0,India ,2018.0,exact_or_tolerance
+train,246,130.0,1593.0,China ,2018.0,exact_or_tolerance
+train,247,23.0,292.0,Korea,2019.0,exact_or_tolerance
+train,248,144.0,1912.0,Portugal,2015.0,exact_or_tolerance
+train,249,168.0,2173.0,China,2019.0,exact_or_tolerance
+train,250,121.0,1476.0,USA,2024.0,exact_or_tolerance
+train,251,139.0,1739.0,USA,2019.0,exact_or_tolerance
+train,252,63.0,771.0,USA,2016.0,exact_or_tolerance
+train,253,116.0,1393.0,China,2021.0,exact_or_tolerance
+train,254,144.0,1886.0,Portugal,2015.0,exact_or_tolerance
+train,255,136.0,1690.0,USA,2011.0,exact_or_tolerance
+train,256,106.0,1289.0,Croatia,2023.0,exact_or_tolerance
+train,257,74.0,923.0,China  ,2021.0,exact_or_tolerance
+train,258,94.0,1158.0, China,2019.0,exact_or_tolerance
+train,259,141.0,1825.0,China,2015.0,exact_or_tolerance
+train,260,26.0,332.0,Malaysia,2024.0,exact_or_tolerance
+train,261,99.0,1196.0,China,2018.0,exact_or_tolerance
+train,262,144.0,1905.0,Portugal,2015.0,exact_or_tolerance
+train,263,93.0,1150.0,China,2020.0,exact_or_tolerance
+train,264,77.0,965.0,China,2010.0,exact_or_tolerance
+train,265,152.0,2012.0,China,2021.0,exact_or_tolerance
+train,266,15.0,182.0,USA,2017.0,exact_or_tolerance
+train,267,62.0,751.0,China  ,2013.0,exact_or_tolerance
+train,268,121.0,1475.0,USA,2024.0,exact_or_tolerance
+train,269,6.0,88.0,France,2008.0,exact_or_tolerance
+train,270,145.0,1963.0,USA,2013.0,exact_or_tolerance
+train,271,155.0,2076.0,Malaysia ,2020.0,exact_or_tolerance
+train,272,45.0,483.0,China,2018.0,nearest_ge4of7
+train,273,150.0,2004.0,China,2019.0,exact_or_tolerance
+train,274,4.0,56.0,Canada,2016.0,exact_or_tolerance
+train,275,134.0,1630.0,China,2020.0,nearest_ge4of7
+train,276,58.0,680.0,Netherlands,2013.0,exact_or_tolerance
+train,277,19.0,226.0,Turkey,2016.0,exact_or_tolerance
+train,278,8.0,115.0,Lithuania,2014.0,exact_or_tolerance
+train,279,90.0,1124.0,Germany,2014.0,exact_or_tolerance
+train,280,107.0,1304.0,China,2024.0,exact_or_tolerance
+train,281,155.0,2074.0,Malaysia ,2020.0,exact_or_tolerance
+train,282,15.0,179.0,USA,2017.0,exact_or_tolerance
+train,283,65.0,795.0,Turkey,2008.0,exact_or_tolerance
+train,284,53.0,615.0,Malaysia,2010.0,exact_or_tolerance
+train,285,135.0,1686.0,USA,2022.0,exact_or_tolerance
+train,286,2.0,18.0,China,2024.0,exact_or_tolerance
+train,287,39.0,449.0,Portugal ,2020.0,exact_or_tolerance
+train,288,121.0,1451.0,USA,2024.0,exact_or_tolerance
+train,289,23.0,290.0,Korea,2019.0,exact_or_tolerance
+train,290,139.0,1710.0,USA,2019.0,nearest_ge4of7
+train,291,39.0,454.0,Portugal ,2020.0,exact_or_tolerance
+train,292,134.0,1638.0,China,2020.0,nearest_ge4of7
+train,293,63.0,764.0,USA,2016.0,exact_or_tolerance
+train,294,61.0,728.0,Turkey ,2006.0,exact_or_tolerance
+train,295,3.0,33.0,China,2024.0,exact_or_tolerance
+train,296,84.0,1024.0,China,2017.0,exact_or_tolerance
+train,297,82.0,1009.0,Portugal,2012.0,exact_or_tolerance
+train,298,18.0,219.0,China,2019.0,exact_or_tolerance
+train,299,66.0,824.0,Turkey,2010.0,exact_or_tolerance
+train,300,26.0,331.0,Malaysia,2024.0,exact_or_tolerance
+train,301,50.0,586.0,Iran ,2018.0,nearest_ge4of7
+train,302,101.0,1231.0,Canada ,2017.0,exact_or_tolerance
+train,303,63.0,763.0,USA,2016.0,exact_or_tolerance
+train,304,153.0,2045.0,Korea,2019.0,exact_or_tolerance
+train,305,26.0,346.0,Malaysia,2024.0,exact_or_tolerance
+train,306,56.0,655.0,China,2017.0,exact_or_tolerance
+train,307,13.0,152.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,308,104.0,1274.0,China,2012.0,nearest_ge4of7
+train,309,28.0,365.0,Korea,2013.0,exact_or_tolerance
+train,310,6.0,85.0,France,2008.0,exact_or_tolerance
+train,311,4.0,50.0,Canada,2016.0,exact_or_tolerance
+train,312,47.0,494.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,313,13.0,160.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,314,65.0,786.0,Turkey,2008.0,exact_or_tolerance
+train,315,85.0,1059.0,China ,2016.0,exact_or_tolerance
+train,316,105.0,1277.0,Cyprus,2015.0,exact_or_tolerance
+train,317,121.0,1510.0,USA,2024.0,exact_or_tolerance
+train,318,105.0,1279.0,Cyprus,2015.0,exact_or_tolerance
+train,319,139.0,1756.0,USA,2019.0,nearest_ge4of7
+train,320,48.0,526.0,India ,2018.0,exact_or_tolerance
+train,321,149.0,1994.0,Singapore,2021.0,exact_or_tolerance
+train,322,15.0,184.0,USA,2017.0,exact_or_tolerance
+train,323,86.0,1095.0,Netherlands,2010.0,exact_or_tolerance
+train,324,139.0,1724.0,USA,2019.0,nearest_ge4of7
+train,325,148.0,1990.0,China,2023.0,exact_or_tolerance
+train,326,157.0,2095.0,Malaysia,2017.0,nearest_ge4of7
+train,327,139.0,1746.0,USA,2019.0,exact_or_tolerance
+train,328,48.0,554.0,India ,2018.0,exact_or_tolerance
+train,329,26.0,351.0,Malaysia,2024.0,exact_or_tolerance
+train,330,121.0,1495.0,USA,2024.0,exact_or_tolerance
+train,331,162.0,2148.0,China,2023.0,exact_or_tolerance
+train,332,101.0,1217.0,Canada ,2017.0,exact_or_tolerance
+train,333,165.0,2160.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,334,116.0,1415.0,China,2021.0,exact_or_tolerance
+train,335,54.0,623.0,China ,2017.0,exact_or_tolerance
+train,336,87.0,1102.0,Korea,2019.0,exact_or_tolerance
+train,337,20.0,248.0,China,2019.0,exact_or_tolerance
+train,338,81.0,1002.0,China,2019.0,exact_or_tolerance
+train,339,110.0,1331.0,China,2008.0,exact_or_tolerance
+train,340,155.0,2068.0,Malaysia ,2020.0,exact_or_tolerance
+train,341,24.0,317.0,Korea,2017.0,exact_or_tolerance
+train,342,41.0,461.0,China,2016.0,exact_or_tolerance
+train,343,155.0,2075.0,Malaysia ,2020.0,exact_or_tolerance
+train,344,116.0,1402.0,China,2021.0,exact_or_tolerance
+train,345,24.0,313.0,Korea,2017.0,exact_or_tolerance
+train,346,39.0,456.0,Portugal ,2020.0,exact_or_tolerance
+train,347,61.0,719.0,Turkey ,2006.0,exact_or_tolerance
+train,348,29.0,380.0,Korea,2017.0,exact_or_tolerance
+train,349,50.0,592.0,Iran ,2018.0,nearest_ge4of7
+train,350,77.0,974.0,China,2010.0,exact_or_tolerance
+train,351,15.0,186.0,USA,2017.0,exact_or_tolerance
+train,352,142.0,1844.0,China,2018.0,exact_or_tolerance
+train,353,55.0,647.0,CHINA,2016.0,exact_or_tolerance
+train,354,134.0,1626.0,China,2020.0,nearest_ge4of7
+train,355,116.0,1405.0,China,2021.0,exact_or_tolerance
+train,356,121.0,1513.0,USA,2024.0,exact_or_tolerance
+train,357,153.0,2020.0,Korea,2019.0,exact_or_tolerance
+train,358,92.0,1144.0,Switzerland,2015.0,exact_or_tolerance
+train,359,24.0,301.0,Korea,2017.0,exact_or_tolerance
+train,360,73.0,904.0,Canada,2017.0,exact_or_tolerance
+train,361,46.0,487.0,Iran,2018.0,exact_or_tolerance
+train,362,116.0,1411.0,China,2021.0,exact_or_tolerance
+train,363,114.0,1376.0,Vietnam,2017.0,exact_or_tolerance
+train,364,30.0,387.0,China,2021.0,exact_or_tolerance
+train,365,96.0,1175.0,China,2018.0,nearest_ge4of7
+train,366,6.0,107.0,France,2008.0,exact_or_tolerance
+train,367,10.0,128.0,Australia,2021.0,exact_or_tolerance
+train,368,101.0,1239.0,Canada ,2017.0,exact_or_tolerance
+train,369,67.0,846.0,USA,2015.0,exact_or_tolerance
+train,370,27.0,360.0,China,2017.0,exact_or_tolerance
+train,371,139.0,1743.0,USA,2019.0,exact_or_tolerance
+train,372,62.0,741.0,China  ,2013.0,exact_or_tolerance
+train,373,66.0,823.0,Turkey,2010.0,exact_or_tolerance
+train,374,117.0,1424.0,China,2025.0,exact_or_tolerance
+train,375,18.0,214.0,China,2019.0,exact_or_tolerance
+train,376,116.0,1389.0,China,2021.0,exact_or_tolerance
+train,377,13.0,145.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,378,124.0,1547.0,India ,2018.0,exact_or_tolerance
+train,379,155.0,2071.0,Malaysia ,2020.0,exact_or_tolerance
+train,380,90.0,1122.0,Germany,2014.0,exact_or_tolerance
+train,381,152.0,2011.0,China,2021.0,exact_or_tolerance
+train,382,95.0,1168.0,China ,2021.0,exact_or_tolerance
+train,383,71.0,895.0,Australia,2022.0,exact_or_tolerance
+train,384,63.0,770.0,USA,2016.0,exact_or_tolerance
+train,385,144.0,1885.0,Portugal,2015.0,exact_or_tolerance
+train,386,70.0,868.0,China,2021.0,exact_or_tolerance
+train,387,77.0,969.0,China,2010.0,exact_or_tolerance
+train,388,1.0,10.0,USA,2022.0,exact_or_tolerance
+train,389,144.0,1879.0,Portugal,2015.0,exact_or_tolerance
+train,390,144.0,1939.0,Portugal,2015.0,exact_or_tolerance
+train,391,22.0,287.0,Australia,2018.0,exact_or_tolerance
+train,392,23.0,296.0,Korea,2019.0,exact_or_tolerance
+train,393,65.0,813.0,Turkey,2008.0,exact_or_tolerance
+train,394,56.0,652.0,China,2017.0,exact_or_tolerance
+train,395,132.0,1621.0,China,2022.0,exact_or_tolerance
+train,396,70.0,865.0,China,2021.0,exact_or_tolerance
+train,397,11.0,131.0,France,2018.0,exact_or_tolerance
+train,398,136.0,1695.0,USA,2011.0,exact_or_tolerance
+train,399,25.0,328.0,China,2017.0,exact_or_tolerance
+train,400,94.0,1160.0, China,2019.0,exact_or_tolerance
+train,401,69.0,851.0,Canada ,2016.0,exact_or_tolerance
+train,402,134.0,1629.0,China,2020.0,nearest_ge4of7
+train,403,153.0,2048.0,Korea,2019.0,exact_or_tolerance
+train,404,70.0,869.0,China,2021.0,exact_or_tolerance
+train,405,70.0,876.0,China,2021.0,exact_or_tolerance
+train,406,62.0,754.0,China  ,2013.0,exact_or_tolerance
+train,407,18.0,220.0,China,2019.0,exact_or_tolerance
+train,408,85.0,1086.0,China ,2016.0,exact_or_tolerance
+train,409,13.0,163.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,410,142.0,1845.0,China,2018.0,exact_or_tolerance
+train,411,58.0,671.0,Netherlands,2013.0,exact_or_tolerance
+train,412,48.0,542.0,India ,2018.0,exact_or_tolerance
+train,413,123.0,1537.0,China ,2023.0,exact_or_tolerance
+train,414,16.0,200.0,USA,2018.0,exact_or_tolerance
+train,415,144.0,1855.0,Portugal,2015.0,exact_or_tolerance
+train,416,121.0,1492.0,USA,2024.0,exact_or_tolerance
+train,417,36.0,428.0,Iran,2020.0,exact_or_tolerance
+train,418,6.0,98.0,France,2008.0,exact_or_tolerance
+train,419,39.0,457.0,Portugal ,2020.0,exact_or_tolerance
+train,420,76.0,945.0,Turkey,2008.0,exact_or_tolerance
+train,421,13.0,161.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,422,37.0,437.0,Italy,2020.0,exact_or_tolerance
+train,423,88.0,1107.0,Singapore,2018.0,exact_or_tolerance
+train,424,47.0,503.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,425,85.0,1061.0,China ,2016.0,exact_or_tolerance
+train,426,61.0,727.0,Turkey ,2006.0,exact_or_tolerance
+train,427,85.0,1082.0,China ,2016.0,exact_or_tolerance
+train,428,153.0,2049.0,Korea,2019.0,exact_or_tolerance
+train,429,116.0,1408.0,China,2021.0,exact_or_tolerance
+train,430,43.0,473.0,Singapore,2018.0,exact_or_tolerance
+train,431,133.0,1622.0,China,2017.0,exact_or_tolerance
+train,432,15.0,183.0,USA,2017.0,exact_or_tolerance
+train,433,33.0,404.0,UK,2012.0,exact_or_tolerance
+train,434,51.0,604.0,China,2018.0,exact_or_tolerance
+train,435,84.0,1026.0,China,2017.0,exact_or_tolerance
+train,436,144.0,1891.0,Portugal,2015.0,exact_or_tolerance
+train,437,121.0,1496.0,USA,2024.0,exact_or_tolerance
+train,438,141.0,1798.0,China,2015.0,exact_or_tolerance
+train,439,85.0,1051.0,China ,2016.0,exact_or_tolerance
+train,440,70.0,879.0,China,2021.0,exact_or_tolerance
+train,441,121.0,1437.0,USA,2024.0,exact_or_tolerance
+train,442,135.0,1666.0,USA,2022.0,exact_or_tolerance
+train,443,144.0,1909.0,Portugal,2015.0,exact_or_tolerance
+train,444,61.0,723.0,Turkey ,2006.0,exact_or_tolerance
+train,445,13.0,147.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,446,135.0,1645.0,USA,2022.0,exact_or_tolerance
+train,447,123.0,1538.0,China ,2023.0,exact_or_tolerance
+train,448,38.0,443.0,Turkey,2020.0,exact_or_tolerance
+train,449,58.0,673.0,Netherlands,2013.0,exact_or_tolerance
+train,450,121.0,1514.0,USA,2024.0,exact_or_tolerance
+train,451,69.0,858.0,Canada ,2016.0,exact_or_tolerance
+train,452,90.0,1129.0,Germany,2014.0,exact_or_tolerance
+train,453,54.0,633.0,China ,2017.0,exact_or_tolerance
+train,454,23.0,299.0,Korea,2019.0,exact_or_tolerance
+train,455,121.0,1470.0,USA,2024.0,exact_or_tolerance
+train,456,144.0,1934.0,Portugal,2015.0,exact_or_tolerance
+train,457,155.0,2079.0,Malaysia ,2020.0,exact_or_tolerance
+train,458,6.0,90.0,France,2008.0,exact_or_tolerance
+train,459,4.0,43.0,Canada,2016.0,exact_or_tolerance
+train,460,155.0,2063.0,Malaysia ,2020.0,exact_or_tolerance
+train,461,160.0,2122.0,China,2024.0,exact_or_tolerance
+train,462,12.0,134.0,Italy,2011.0,exact_or_tolerance
+train,463,83.0,1016.0, China,2018.0,exact_or_tolerance
+train,464,81.0,1004.0,China,2019.0,exact_or_tolerance
+train,465,90.0,1132.0,Germany,2014.0,exact_or_tolerance
+train,466,153.0,2034.0,Korea,2019.0,exact_or_tolerance
+train,467,121.0,1452.0,USA,2024.0,exact_or_tolerance
+train,468,134.0,1627.0,China,2020.0,nearest_ge4of7
+train,469,14.0,169.0,Pakistan,2014.0,exact_or_tolerance
+train,470,64.0,783.0,China  ,2024.0,exact_or_tolerance
+train,471,23.0,295.0,Korea,2019.0,exact_or_tolerance
+train,472,101.0,1213.0,Canada ,2017.0,exact_or_tolerance
+train,473,135.0,1663.0,USA,2022.0,exact_or_tolerance
+train,474,155.0,2073.0,Malaysia ,2020.0,exact_or_tolerance
+train,475,117.0,1422.0,China,2025.0,exact_or_tolerance
+train,476,66.0,837.0,Turkey,2010.0,exact_or_tolerance
+train,477,72.0,898.0,China,2021.0,exact_or_tolerance
+train,478,26.0,353.0,Malaysia,2024.0,exact_or_tolerance
+train,479,162.0,2133.0,China,2023.0,exact_or_tolerance
+train,480,50.0,597.0,Iran ,2018.0,exact_or_tolerance
+train,481,162.0,2134.0,China,2023.0,exact_or_tolerance
+train,482,155.0,2064.0,Malaysia ,2020.0,exact_or_tolerance
+train,483,127.0,1581.0, Korea,2016.0,exact_or_tolerance
+train,484,139.0,1718.0,USA,2019.0,exact_or_tolerance
+train,485,117.0,1425.0,China,2025.0,exact_or_tolerance
+train,486,139.0,1725.0,USA,2019.0,exact_or_tolerance
+train,487,45.0,484.0,China,2018.0,nearest_ge4of7
+train,488,30.0,385.0,China,2021.0,exact_or_tolerance
+train,489,26.0,338.0,Malaysia,2024.0,exact_or_tolerance
+train,490,144.0,1947.0,Portugal,2015.0,exact_or_tolerance
+train,491,144.0,1942.0,Portugal,2015.0,exact_or_tolerance
+train,492,125.0,1567.0,USA,2016.0,exact_or_tolerance
+train,493,70.0,875.0,China,2021.0,exact_or_tolerance
+train,494,98.0,1186.0,China,2021.0,nearest_ge4of7
+train,495,84.0,1023.0,China,2017.0,exact_or_tolerance
+train,496,153.0,2036.0,Korea,2019.0,exact_or_tolerance
+train,497,124.0,1548.0,India ,2018.0,exact_or_tolerance
+train,498,160.0,2118.0,China,2024.0,exact_or_tolerance
+train,499,99.0,1197.0,China,2018.0,exact_or_tolerance
+train,500,26.0,333.0,Malaysia,2024.0,exact_or_tolerance
+train,501,101.0,1228.0,Canada ,2017.0,exact_or_tolerance
+train,502,25.0,323.0,China,2017.0,exact_or_tolerance
+train,503,149.0,1995.0,Singapore,2021.0,exact_or_tolerance
+train,504,121.0,1466.0,USA,2024.0,exact_or_tolerance
+train,505,144.0,1915.0,Portugal,2015.0,exact_or_tolerance
+train,506,14.0,172.0,Pakistan,2014.0,exact_or_tolerance
+train,507,1.0,12.0,USA,2022.0,exact_or_tolerance
+train,508,14.0,176.0,Pakistan,2014.0,exact_or_tolerance
+train,509,58.0,686.0,Netherlands,2013.0,exact_or_tolerance
+train,510,21.0,265.0,Turkey,2016.0,exact_or_tolerance
+train,511,107.0,1290.0,China,2024.0,exact_or_tolerance
+train,512,122.0,1517.0, China,2019.0,exact_or_tolerance
+train,513,77.0,960.0,China,2010.0,exact_or_tolerance
+train,514,61.0,731.0,Turkey ,2006.0,exact_or_tolerance
+train,515,21.0,263.0,Turkey,2016.0,exact_or_tolerance
+train,516,73.0,903.0,Canada,2017.0,exact_or_tolerance
+train,517,74.0,926.0,China  ,2021.0,exact_or_tolerance
+train,518,104.0,1271.0,China,2012.0,nearest_ge4of7
+train,519,13.0,143.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,520,76.0,952.0,Turkey,2008.0,exact_or_tolerance
+train,521,153.0,2017.0,Korea,2019.0,exact_or_tolerance
+train,522,48.0,575.0,India ,2018.0,exact_or_tolerance
+train,523,85.0,1070.0,China ,2016.0,exact_or_tolerance
+train,524,135.0,1655.0,USA,2022.0,exact_or_tolerance
+train,525,116.0,1418.0,China,2021.0,exact_or_tolerance
+train,526,126.0,1575.0,USA,2017.0,exact_or_tolerance
+train,527,50.0,584.0,Iran ,2018.0,nearest_ge4of7
+train,528,13.0,144.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,529,144.0,1917.0,Portugal,2015.0,exact_or_tolerance
+train,530,48.0,557.0,India ,2018.0,exact_or_tolerance
+train,531,19.0,229.0,Turkey,2016.0,exact_or_tolerance
+train,532,64.0,782.0,China  ,2024.0,exact_or_tolerance
+train,533,67.0,845.0,USA,2015.0,exact_or_tolerance
+train,534,144.0,1902.0,Portugal,2015.0,exact_or_tolerance
+train,535,84.0,1025.0,China,2017.0,exact_or_tolerance
+train,536,36.0,427.0,Iran,2020.0,exact_or_tolerance
+train,537,25.0,330.0,China,2017.0,exact_or_tolerance
+train,538,153.0,2051.0,Korea,2019.0,exact_or_tolerance
+train,539,24.0,304.0,Korea,2017.0,exact_or_tolerance
+train,540,115.0,1383.0,India,2015.0,exact_or_tolerance
+train,541,144.0,1919.0,Portugal,2015.0,exact_or_tolerance
+train,542,3.0,27.0,China,2024.0,exact_or_tolerance
+train,543,153.0,2038.0,Korea,2019.0,exact_or_tolerance
+train,544,63.0,773.0,USA,2016.0,exact_or_tolerance
+train,545,84.0,1027.0,China,2017.0,exact_or_tolerance
+train,546,16.0,198.0,USA,2018.0,exact_or_tolerance
+train,547,42.0,466.0,China ,2015.0,exact_or_tolerance
+train,548,50.0,599.0,Iran ,2018.0,exact_or_tolerance
+train,549,48.0,529.0,India ,2018.0,exact_or_tolerance
+train,550,54.0,631.0,China ,2017.0,exact_or_tolerance
+train,551,144.0,1923.0,Portugal,2015.0,exact_or_tolerance
+train,552,162.0,2144.0,China,2023.0,exact_or_tolerance
+train,553,145.0,1968.0,USA,2013.0,exact_or_tolerance
+train,554,73.0,905.0,Canada,2017.0,exact_or_tolerance
+train,555,1.0,3.0,USA,2022.0,exact_or_tolerance
+train,556,101.0,1220.0,Canada ,2017.0,exact_or_tolerance
+train,557,107.0,1299.0,China,2024.0,exact_or_tolerance
+train,558,46.0,493.0,Iran,2018.0,exact_or_tolerance
+train,559,25.0,326.0,China,2017.0,exact_or_tolerance
+train,560,1.0,5.0,USA,2022.0,exact_or_tolerance
+train,561,19.0,227.0,Turkey,2016.0,exact_or_tolerance
+train,562,121.0,1482.0,USA,2024.0,exact_or_tolerance
+train,563,48.0,573.0,India ,2018.0,exact_or_tolerance
+train,564,19.0,233.0,Turkey,2016.0,exact_or_tolerance
+train,565,4.0,41.0,Canada,2016.0,exact_or_tolerance
+train,566,48.0,568.0,India ,2018.0,exact_or_tolerance
+train,567,20.0,247.0,China,2019.0,exact_or_tolerance
+train,568,77.0,957.0,China,2010.0,exact_or_tolerance
+train,569,117.0,1423.0,China,2025.0,nearest_ge4of7
+train,570,13.0,141.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,571,142.0,1836.0,China,2018.0,exact_or_tolerance
+train,572,144.0,1937.0,Portugal,2015.0,exact_or_tolerance
+train,573,137.0,1699.0,USA ,2022.0,exact_or_tolerance
+train,574,144.0,1911.0,Portugal,2015.0,exact_or_tolerance
+train,575,70.0,888.0,China,2021.0,exact_or_tolerance
+train,576,43.0,471.0,Singapore,2018.0,exact_or_tolerance
+train,577,73.0,901.0,Canada,2017.0,exact_or_tolerance
+train,578,94.0,1157.0, China,2019.0,exact_or_tolerance
+train,579,132.0,1620.0,China,2022.0,exact_or_tolerance
+train,580,101.0,1225.0,Canada ,2017.0,exact_or_tolerance
+train,581,150.0,2005.0,China,2019.0,exact_or_tolerance
+train,582,51.0,607.0,China,2018.0,exact_or_tolerance
+train,583,144.0,1946.0,Portugal,2015.0,exact_or_tolerance
+train,584,164.0,2157.0,Austria,2014.0,exact_or_tolerance
+train,585,61.0,720.0,Turkey ,2006.0,exact_or_tolerance
+train,586,41.0,462.0,China,2016.0,exact_or_tolerance
+train,587,153.0,2035.0,Korea,2019.0,exact_or_tolerance
+train,588,30.0,386.0,China,2021.0,exact_or_tolerance
+train,589,130.0,1589.0,China ,2018.0,exact_or_tolerance
+train,590,85.0,1050.0,China ,2016.0,exact_or_tolerance
+train,591,106.0,1287.0,Croatia,2023.0,exact_or_tolerance
+train,592,24.0,319.0,Korea,2017.0,exact_or_tolerance
+train,593,42.0,468.0,China ,2015.0,exact_or_tolerance
+train,594,125.0,1561.0,USA,2016.0,nearest_ge4of7
+train,595,25.0,324.0,China,2017.0,exact_or_tolerance
+train,596,22.0,286.0,Australia,2018.0,exact_or_tolerance
+train,597,62.0,750.0,China  ,2013.0,exact_or_tolerance
+train,598,144.0,1907.0,Portugal,2015.0,exact_or_tolerance
+train,599,134.0,1632.0,China,2020.0,nearest_ge4of7
+train,600,39.0,450.0,Portugal ,2020.0,exact_or_tolerance
+train,601,49.0,579.0,China,2019.0,exact_or_tolerance
+train,602,53.0,619.0,Malaysia,2010.0,exact_or_tolerance
+train,603,163.0,2151.0,China,2019.0,exact_or_tolerance
+train,604,153.0,2047.0,Korea,2019.0,exact_or_tolerance
+train,605,132.0,1616.0,China,2022.0,exact_or_tolerance
+train,606,135.0,1683.0,USA,2022.0,exact_or_tolerance
+train,607,55.0,648.0,CHINA,2016.0,exact_or_tolerance
+train,608,102.0,1241.0,Hong Kong,2012.0,exact_or_tolerance
+train,609,139.0,1741.0,USA,2019.0,exact_or_tolerance
+train,610,134.0,1634.0,China,2020.0,nearest_ge4of7
+train,611,19.0,232.0,Turkey,2016.0,exact_or_tolerance
+train,612,162.0,2147.0,China,2023.0,exact_or_tolerance
+train,613,121.0,1442.0,USA,2024.0,exact_or_tolerance
+train,614,121.0,1439.0,USA,2024.0,exact_or_tolerance
+train,615,96.0,1170.0,China,2018.0,nearest_ge4of7
+train,616,5.0,68.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,617,34.0,407.0, UK,2008.0,exact_or_tolerance
+train,618,51.0,605.0,China,2018.0,exact_or_tolerance
+train,619,3.0,26.0,China,2024.0,nearest_ge4of7
+train,620,18.0,216.0,China,2019.0,exact_or_tolerance
+train,621,135.0,1664.0,USA,2022.0,exact_or_tolerance
+train,622,13.0,149.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,623,48.0,562.0,India ,2018.0,exact_or_tolerance
+train,624,70.0,870.0,China,2021.0,exact_or_tolerance
+train,625,98.0,1191.0,China,2021.0,nearest_ge4of7
+train,626,155.0,2065.0,Malaysia ,2020.0,exact_or_tolerance
+train,627,6.0,87.0,France,2008.0,exact_or_tolerance
+train,628,147.0,1984.0,USA,2024.0,exact_or_tolerance
+train,629,21.0,268.0,Turkey,2016.0,exact_or_tolerance
+train,630,85.0,1037.0,China ,2016.0,exact_or_tolerance
+train,631,116.0,1397.0,China,2021.0,exact_or_tolerance
+train,632,102.0,1253.0,Hong Kong,2012.0,exact_or_tolerance
+train,633,150.0,1998.0,China,2019.0,exact_or_tolerance
+train,634,153.0,2018.0,Korea,2019.0,exact_or_tolerance
+train,635,144.0,1851.0,Portugal,2015.0,exact_or_tolerance
+train,636,102.0,1251.0,Hong Kong,2012.0,exact_or_tolerance
+train,637,29.0,367.0,Korea,2017.0,exact_or_tolerance
+train,638,139.0,1738.0,USA,2019.0,exact_or_tolerance
+train,639,101.0,1223.0,Canada ,2017.0,exact_or_tolerance
+train,640,89.0,1117.0,Germany,2010.0,exact_or_tolerance
+train,641,90.0,1125.0,Germany,2014.0,exact_or_tolerance
+train,642,153.0,2050.0,Korea,2019.0,exact_or_tolerance
+train,643,121.0,1463.0,USA,2024.0,exact_or_tolerance
+train,644,92.0,1143.0,Switzerland,2015.0,exact_or_tolerance
+train,645,61.0,724.0,Turkey ,2006.0,exact_or_tolerance
+train,646,29.0,369.0,Korea,2017.0,exact_or_tolerance
+train,647,5.0,79.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,648,3.0,29.0,China,2024.0,exact_or_tolerance
+train,649,123.0,1546.0,China ,2023.0,nearest_ge4of7
+train,650,48.0,551.0,India ,2018.0,exact_or_tolerance
+train,651,153.0,2014.0,Korea,2019.0,exact_or_tolerance
+train,652,4.0,57.0,Canada,2016.0,exact_or_tolerance
+train,653,58.0,675.0,Netherlands,2013.0,exact_or_tolerance
+train,654,28.0,363.0,Korea,2013.0,exact_or_tolerance
+train,655,63.0,777.0,USA,2016.0,exact_or_tolerance
+train,656,55.0,650.0,CHINA,2016.0,exact_or_tolerance
+train,657,1.0,7.0,USA,2022.0,exact_or_tolerance
+train,658,69.0,859.0,Canada ,2016.0,exact_or_tolerance
+train,659,93.0,1152.0,China,2020.0,exact_or_tolerance
+train,660,26.0,341.0,Malaysia,2024.0,exact_or_tolerance
+train,661,4.0,49.0,Canada,2016.0,exact_or_tolerance
+train,662,144.0,1944.0,Portugal,2015.0,exact_or_tolerance
+train,663,7.0,108.0,USA,2011.0,nearest_ge4of7
+train,664,26.0,354.0,Malaysia,2024.0,exact_or_tolerance
+train,665,19.0,243.0,Turkey,2016.0,exact_or_tolerance
+train,666,144.0,1861.0,Portugal,2015.0,exact_or_tolerance
+train,667,100.0,1209.0,China,2023.0,exact_or_tolerance
+train,668,69.0,852.0,Canada ,2016.0,exact_or_tolerance
+train,669,98.0,1194.0,China,2021.0,nearest_ge4of7
+train,670,144.0,1858.0,Portugal,2015.0,exact_or_tolerance
+train,671,48.0,549.0,India ,2018.0,exact_or_tolerance
+train,672,19.0,237.0,Turkey,2016.0,exact_or_tolerance
+train,673,58.0,681.0,Netherlands,2013.0,exact_or_tolerance
+train,674,144.0,1901.0,Portugal,2015.0,exact_or_tolerance
+train,675,48.0,559.0,India ,2018.0,exact_or_tolerance
+train,676,134.0,1637.0,China,2020.0,nearest_ge4of7
+train,677,54.0,629.0,China ,2017.0,exact_or_tolerance
+train,678,139.0,1748.0,USA,2019.0,exact_or_tolerance
+train,679,125.0,1572.0,USA,2016.0,exact_or_tolerance
+train,680,5.0,62.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,681,113.0,1372.0,India,2012.0,exact_or_tolerance
+train,682,6.0,94.0,France,2008.0,exact_or_tolerance
+train,683,61.0,725.0,Turkey ,2006.0,nearest_ge4of7
+train,684,22.0,285.0,Australia,2018.0,exact_or_tolerance
+train,685,98.0,1185.0,China,2021.0,nearest_ge4of7
+train,686,28.0,364.0,Korea,2013.0,exact_or_tolerance
+train,687,116.0,1404.0,China,2021.0,exact_or_tolerance
+train,688,101.0,1240.0,Canada ,2017.0,exact_or_tolerance
+train,689,73.0,906.0,Canada,2017.0,exact_or_tolerance
+train,690,166.0,2166.0, Singapore,2019.0,exact_or_tolerance
+train,691,7.0,112.0,USA,2011.0,exact_or_tolerance
+train,692,4.0,44.0,Canada,2016.0,exact_or_tolerance
+train,693,10.0,127.0,Australia,2021.0,exact_or_tolerance
+train,694,17.0,209.0,China ,2015.0,exact_or_tolerance
+train,695,4.0,54.0,Canada,2016.0,exact_or_tolerance
+train,696,48.0,571.0,India ,2018.0,exact_or_tolerance
+train,697,5.0,70.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,698,100.0,1207.0,China,2023.0,exact_or_tolerance
+train,699,156.0,2081.0,Malaysia,2014.0,nearest_ge4of7
+train,700,15.0,188.0,USA,2017.0,exact_or_tolerance
+train,701,13.0,142.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,702,77.0,958.0,China,2010.0,exact_or_tolerance
+train,703,69.0,855.0,Canada ,2016.0,exact_or_tolerance
+train,704,12.0,135.0,Italy,2011.0,exact_or_tolerance
+train,705,5.0,82.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,706,135.0,1668.0,USA,2022.0,exact_or_tolerance
+train,707,48.0,567.0,India ,2018.0,exact_or_tolerance
+train,708,139.0,1722.0,USA,2019.0,nearest_ge4of7
+train,709,85.0,1068.0,China ,2016.0,exact_or_tolerance
+train,710,14.0,170.0,Pakistan,2014.0,exact_or_tolerance
+train,711,20.0,253.0,China,2019.0,exact_or_tolerance
+train,712,43.0,472.0,Singapore,2018.0,exact_or_tolerance
+train,713,101.0,1219.0,Canada ,2017.0,exact_or_tolerance
+train,714,73.0,917.0,Canada,2017.0,exact_or_tolerance
+train,715,121.0,1443.0,USA,2024.0,exact_or_tolerance
+train,716,6.0,99.0,France,2008.0,exact_or_tolerance
+train,717,165.0,2161.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,718,65.0,796.0,Turkey,2008.0,exact_or_tolerance
+train,719,113.0,1370.0,India,2012.0,exact_or_tolerance
+train,720,6.0,104.0,France,2008.0,exact_or_tolerance
+train,721,41.0,460.0,China,2016.0,exact_or_tolerance
+train,722,5.0,76.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,723,146.0,1973.0,China,2022.0,exact_or_tolerance
+train,724,105.0,1278.0,Cyprus,2015.0,exact_or_tolerance
+train,725,77.0,977.0,China,2010.0,exact_or_tolerance
+train,726,144.0,1908.0,Portugal,2015.0,exact_or_tolerance
+train,727,144.0,1857.0,Portugal,2015.0,exact_or_tolerance
+train,728,139.0,1747.0,USA,2019.0,exact_or_tolerance
+train,729,66.0,821.0,Turkey,2010.0,exact_or_tolerance
+train,730,85.0,1074.0,China ,2016.0,exact_or_tolerance
+train,731,31.0,398.0, China,2020.0,exact_or_tolerance
+train,732,19.0,240.0,Turkey,2016.0,exact_or_tolerance
+train,733,134.0,1635.0,China,2020.0,nearest_ge4of7
+train,734,21.0,272.0,Turkey,2016.0,exact_or_tolerance
+train,735,128.0,1586.0,Korea,2016.0,exact_or_tolerance
+train,736,9.0,119.0,Portugal,2014.0,exact_or_tolerance
+train,737,139.0,1733.0,USA,2019.0,nearest_ge4of7
+train,738,61.0,732.0,Turkey ,2006.0,exact_or_tolerance
+train,739,20.0,254.0,China,2019.0,exact_or_tolerance
+train,740,125.0,1562.0,USA,2016.0,exact_or_tolerance
+train,741,168.0,2182.0,China,2019.0,exact_or_tolerance
+train,742,6.0,96.0,France,2008.0,exact_or_tolerance
+train,743,3.0,35.0,China,2024.0,nearest_ge4of7
+train,744,126.0,1573.0,USA,2017.0,exact_or_tolerance
+train,745,144.0,1854.0,Portugal,2015.0,exact_or_tolerance
+train,746,43.0,474.0,Singapore,2018.0,exact_or_tolerance
+train,747,63.0,775.0,USA,2016.0,exact_or_tolerance
+train,748,114.0,1373.0,Vietnam,2017.0,exact_or_tolerance
+train,749,135.0,1646.0,USA,2022.0,exact_or_tolerance
+train,750,1.0,0.0,USA,2022.0,exact_or_tolerance
+train,751,121.0,1483.0,USA,2024.0,exact_or_tolerance
+train,752,100.0,1208.0,China,2023.0,exact_or_tolerance
+train,753,101.0,1215.0,Canada ,2017.0,exact_or_tolerance
+train,754,6.0,84.0,France,2008.0,exact_or_tolerance
+train,755,116.0,1398.0,China,2021.0,exact_or_tolerance
+train,756,62.0,735.0,China  ,2013.0,exact_or_tolerance
+train,757,125.0,1561.0,USA,2016.0,nearest_ge4of7
+train,758,93.0,1149.0,China,2020.0,exact_or_tolerance
+train,759,66.0,829.0,Turkey,2010.0,exact_or_tolerance
+train,760,107.0,1292.0,China,2024.0,exact_or_tolerance
+train,761,123.0,1540.0,China ,2023.0,nearest_ge4of7
+train,762,144.0,1926.0,Portugal,2015.0,exact_or_tolerance
+train,763,148.0,1993.0,China,2023.0,exact_or_tolerance
+train,764,36.0,422.0,Iran,2020.0,exact_or_tolerance
+train,765,144.0,1910.0,Portugal,2015.0,exact_or_tolerance
+train,766,147.0,1976.0,USA,2024.0,exact_or_tolerance
+train,767,139.0,1750.0,USA,2019.0,exact_or_tolerance
+train,768,6.0,106.0,France,2008.0,exact_or_tolerance
+train,769,62.0,747.0,China  ,2013.0,exact_or_tolerance
+train,770,116.0,1414.0,China,2021.0,exact_or_tolerance
+train,771,70.0,885.0,China,2021.0,exact_or_tolerance
+train,772,5.0,64.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,773,73.0,911.0,Canada,2017.0,exact_or_tolerance
+train,774,125.0,1561.0,USA,2016.0,nearest_ge4of7
+train,775,19.0,228.0,Turkey,2016.0,exact_or_tolerance
+train,776,13.0,150.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,777,99.0,1195.0,China,2018.0,exact_or_tolerance
+train,778,30.0,383.0,China,2021.0,exact_or_tolerance
+train,779,122.0,1528.0, China,2019.0,exact_or_tolerance
+train,780,102.0,1249.0,Hong Kong,2012.0,exact_or_tolerance
+train,781,155.0,2061.0,Malaysia ,2020.0,exact_or_tolerance
+train,782,133.0,1623.0,China,2017.0,exact_or_tolerance
+train,783,139.0,1728.0,USA,2019.0,exact_or_tolerance
+train,784,113.0,1369.0,India,2012.0,exact_or_tolerance
+train,785,1.0,9.0,USA,2022.0,exact_or_tolerance
+train,786,43.0,475.0,Singapore,2018.0,exact_or_tolerance
+train,787,63.0,767.0,USA,2016.0,exact_or_tolerance
+train,788,21.0,260.0,Turkey,2016.0,exact_or_tolerance
+train,789,76.0,941.0,Turkey,2008.0,exact_or_tolerance
+train,790,33.0,403.0,UK,2012.0,exact_or_tolerance
+train,791,77.0,967.0,China,2010.0,exact_or_tolerance
+train,792,81.0,1003.0,China,2019.0,exact_or_tolerance
+train,793,144.0,1888.0,Portugal,2015.0,exact_or_tolerance
+train,794,147.0,1981.0,USA,2024.0,exact_or_tolerance
+train,795,45.0,486.0,China,2018.0,nearest_ge4of7
+train,796,124.0,1549.0,India ,2018.0,exact_or_tolerance
+train,797,106.0,1282.0,Croatia,2023.0,exact_or_tolerance
+train,798,85.0,1043.0,China ,2016.0,exact_or_tolerance
+train,799,48.0,527.0,India ,2018.0,exact_or_tolerance
+train,800,65.0,798.0,Turkey,2008.0,exact_or_tolerance
+train,801,153.0,2029.0,Korea,2019.0,exact_or_tolerance
+train,802,74.0,927.0,China  ,2021.0,exact_or_tolerance
+train,803,65.0,790.0,Turkey,2008.0,exact_or_tolerance
+train,804,48.0,565.0,India ,2018.0,exact_or_tolerance
+train,805,62.0,756.0,China  ,2013.0,exact_or_tolerance
+train,806,121.0,1500.0,USA,2024.0,exact_or_tolerance
+train,807,121.0,1484.0,USA,2024.0,exact_or_tolerance
+train,808,102.0,1252.0,Hong Kong,2012.0,exact_or_tolerance
+train,809,90.0,1126.0,Germany,2014.0,exact_or_tolerance
+train,810,30.0,382.0,China,2021.0,exact_or_tolerance
+train,811,61.0,726.0,Turkey ,2006.0,exact_or_tolerance
+train,812,135.0,1654.0,USA,2022.0,exact_or_tolerance
+train,813,27.0,362.0,China,2017.0,exact_or_tolerance
+train,814,85.0,1052.0,China ,2016.0,exact_or_tolerance
+train,815,67.0,842.0,USA,2015.0,exact_or_tolerance
+train,816,65.0,794.0,Turkey,2008.0,exact_or_tolerance
+train,817,90.0,1130.0,Germany,2014.0,exact_or_tolerance
+train,818,85.0,1055.0,China ,2016.0,exact_or_tolerance
+train,819,144.0,1945.0,Portugal,2015.0,exact_or_tolerance
+train,820,132.0,1615.0,China,2022.0,exact_or_tolerance
+train,821,159.0,2110.0,China,2018.0,exact_or_tolerance
+train,822,146.0,1970.0,China,2022.0,exact_or_tolerance
+train,823,145.0,1965.0,USA,2013.0,exact_or_tolerance
+train,824,144.0,1900.0,Portugal,2015.0,exact_or_tolerance
+train,825,76.0,944.0,Turkey,2008.0,exact_or_tolerance
+train,826,5.0,81.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,827,106.0,1286.0,Croatia,2023.0,exact_or_tolerance
+train,828,70.0,873.0,China,2021.0,exact_or_tolerance
+train,829,116.0,1395.0,China,2021.0,exact_or_tolerance
+train,830,61.0,730.0,Turkey ,2006.0,nearest_ge4of7
+train,831,135.0,1660.0,USA,2022.0,exact_or_tolerance
+train,832,5.0,59.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,833,12.0,136.0,Italy,2011.0,exact_or_tolerance
+train,834,102.0,1247.0,Hong Kong,2012.0,exact_or_tolerance
+train,835,82.0,1012.0,Portugal,2012.0,exact_or_tolerance
+train,836,144.0,1869.0,Portugal,2015.0,exact_or_tolerance
+train,837,70.0,882.0,China,2021.0,exact_or_tolerance
+train,838,110.0,1337.0,China,2008.0,exact_or_tolerance
+train,839,48.0,530.0,India ,2018.0,exact_or_tolerance
+train,840,144.0,1956.0,Portugal,2015.0,exact_or_tolerance
+train,841,26.0,352.0,Malaysia,2024.0,exact_or_tolerance
+train,842,31.0,396.0, China,2020.0,exact_or_tolerance
+train,843,88.0,1113.0,Singapore,2018.0,exact_or_tolerance
+train,844,77.0,953.0,China,2010.0,exact_or_tolerance
+train,845,70.0,887.0,China,2021.0,exact_or_tolerance
+train,846,155.0,2070.0,Malaysia ,2020.0,exact_or_tolerance
+train,847,47.0,501.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,848,127.0,1583.0, Korea,2016.0,exact_or_tolerance
+train,849,121.0,1504.0,USA,2024.0,exact_or_tolerance
+train,850,61.0,711.0,Turkey ,2006.0,exact_or_tolerance
+train,851,15.0,177.0,USA,2017.0,exact_or_tolerance
+train,852,102.0,1256.0,Hong Kong,2012.0,exact_or_tolerance
+train,853,4.0,40.0,Canada,2016.0,exact_or_tolerance
+train,854,63.0,772.0,USA,2016.0,exact_or_tolerance
+train,855,6.0,92.0,France,2008.0,exact_or_tolerance
+train,856,161.0,2125.0,USA,2019.0,exact_or_tolerance
+train,857,110.0,1328.0,China,2008.0,exact_or_tolerance
+train,858,75.0,934.0,China,2021.0,exact_or_tolerance
+train,859,139.0,1732.0,USA,2019.0,exact_or_tolerance
+train,860,99.0,1200.0,China,2018.0,exact_or_tolerance
+train,861,104.0,1269.0,China,2012.0,nearest_ge4of7
+train,862,121.0,1471.0,USA,2024.0,exact_or_tolerance
+train,863,162.0,2146.0,China,2023.0,exact_or_tolerance
+train,864,48.0,525.0,India ,2018.0,exact_or_tolerance
+train,865,26.0,343.0,Malaysia,2024.0,exact_or_tolerance
+train,866,107.0,1302.0,China,2024.0,nearest_ge4of7
+train,867,3.0,30.0,China,2024.0,exact_or_tolerance
+train,868,113.0,1368.0,India,2012.0,exact_or_tolerance
+train,869,120.0,1433.0,China,2018.0,exact_or_tolerance
+train,870,150.0,1999.0,China,2019.0,exact_or_tolerance
+train,871,85.0,1030.0,China ,2016.0,exact_or_tolerance
+train,872,14.0,174.0,Pakistan,2014.0,exact_or_tolerance
+train,873,121.0,1512.0,USA,2024.0,exact_or_tolerance
+train,874,110.0,1320.0,China,2008.0,exact_or_tolerance
+train,875,116.0,1406.0,China,2021.0,exact_or_tolerance
+train,876,48.0,517.0,India ,2018.0,exact_or_tolerance
+train,877,85.0,1038.0,China ,2016.0,exact_or_tolerance
+train,878,99.0,1204.0,China,2018.0,exact_or_tolerance
+train,879,90.0,1127.0,Germany,2014.0,exact_or_tolerance
+train,880,52.0,613.0,China,2017.0,exact_or_tolerance
+train,881,65.0,809.0,Turkey,2008.0,exact_or_tolerance
+train,882,61.0,716.0,Turkey ,2006.0,nearest_ge4of7
+train,883,19.0,239.0,Turkey,2016.0,exact_or_tolerance
+train,884,65.0,791.0,Turkey,2008.0,exact_or_tolerance
+train,885,168.0,2176.0,China,2019.0,exact_or_tolerance
+train,886,163.0,2149.0,China,2019.0,exact_or_tolerance
+train,887,104.0,1270.0,China,2012.0,nearest_ge4of7
+train,888,127.0,1582.0, Korea,2016.0,exact_or_tolerance
+train,889,122.0,1532.0, China,2019.0,exact_or_tolerance
+train,890,139.0,1754.0,USA,2019.0,nearest_ge4of7
+train,891,39.0,455.0,Portugal ,2020.0,exact_or_tolerance
+train,892,110.0,1332.0,China,2008.0,exact_or_tolerance
+train,893,96.0,1172.0,China,2018.0,nearest_ge4of7
+train,894,7.0,110.0,USA,2011.0,exact_or_tolerance
+train,895,153.0,2037.0,Korea,2019.0,exact_or_tolerance
+train,896,50.0,594.0,Iran ,2018.0,exact_or_tolerance
+train,897,105.0,1281.0,Cyprus,2015.0,exact_or_tolerance
+train,898,106.0,1288.0,Croatia,2023.0,exact_or_tolerance
+train,899,76.0,949.0,Turkey,2008.0,exact_or_tolerance
+train,900,85.0,1032.0,China ,2016.0,exact_or_tolerance
+train,901,93.0,1151.0,China,2020.0,exact_or_tolerance
+train,902,121.0,1460.0,USA,2024.0,exact_or_tolerance
+train,903,121.0,1479.0,USA,2024.0,exact_or_tolerance
+train,904,124.0,1556.0,India ,2018.0,nearest_ge4of7
+train,905,76.0,943.0,Turkey,2008.0,exact_or_tolerance
+train,906,144.0,1859.0,Portugal,2015.0,exact_or_tolerance
+train,907,73.0,909.0,Canada,2017.0,exact_or_tolerance
+train,908,65.0,793.0,Turkey,2008.0,exact_or_tolerance
+train,909,63.0,776.0,USA,2016.0,exact_or_tolerance
+train,910,45.0,480.0,China,2018.0,nearest_ge4of7
+train,911,21.0,269.0,Turkey,2016.0,exact_or_tolerance
+train,912,5.0,77.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,913,142.0,1842.0,China,2018.0,exact_or_tolerance
+train,914,42.0,470.0,China ,2015.0,exact_or_tolerance
+train,915,34.0,409.0, UK,2008.0,exact_or_tolerance
+train,916,15.0,181.0,USA,2017.0,exact_or_tolerance
+train,917,92.0,1145.0,Switzerland,2015.0,exact_or_tolerance
+train,918,144.0,1918.0,Portugal,2015.0,exact_or_tolerance
+train,919,121.0,1507.0,USA,2024.0,exact_or_tolerance
+train,920,121.0,1488.0,USA,2024.0,exact_or_tolerance
+train,921,53.0,621.0,Malaysia,2010.0,exact_or_tolerance
+train,922,5.0,63.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,923,121.0,1449.0,USA,2024.0,exact_or_tolerance
+train,924,75.0,931.0,China,2021.0,exact_or_tolerance
+train,925,132.0,1618.0,China,2022.0,exact_or_tolerance
+train,926,154.0,2056.0,Singapore ,2020.0,exact_or_tolerance
+train,927,22.0,283.0,Australia,2018.0,exact_or_tolerance
+train,928,3.0,38.0,China,2024.0,nearest_ge4of7
+train,929,135.0,1644.0,USA,2022.0,exact_or_tolerance
+train,930,61.0,721.0,Turkey ,2006.0,nearest_ge4of7
+train,931,147.0,1987.0,USA,2024.0,exact_or_tolerance
+train,932,124.0,1554.0,India ,2018.0,exact_or_tolerance
+train,933,85.0,1062.0,China ,2016.0,exact_or_tolerance
+train,934,137.0,1698.0,USA ,2022.0,exact_or_tolerance
+train,935,65.0,797.0,Turkey,2008.0,exact_or_tolerance
+train,936,16.0,196.0,USA,2018.0,exact_or_tolerance
+train,937,77.0,978.0,China,2010.0,exact_or_tolerance
+train,938,45.0,482.0,China,2018.0,nearest_ge4of7
+train,939,61.0,734.0,Turkey ,2006.0,nearest_ge4of7
+train,940,66.0,819.0,Turkey,2010.0,exact_or_tolerance
+train,941,147.0,1988.0,USA,2024.0,exact_or_tolerance
+train,942,139.0,1729.0,USA,2019.0,exact_or_tolerance
+train,943,65.0,787.0,Turkey,2008.0,exact_or_tolerance
+train,944,36.0,430.0,Iran,2020.0,exact_or_tolerance
+train,945,100.0,1205.0,China,2023.0,exact_or_tolerance
+train,946,70.0,884.0,China,2021.0,exact_or_tolerance
+train,947,159.0,2109.0,China,2018.0,exact_or_tolerance
+train,948,54.0,642.0,China ,2017.0,exact_or_tolerance
+train,949,8.0,116.0,Lithuania,2014.0,exact_or_tolerance
+train,950,37.0,435.0,Italy,2020.0,exact_or_tolerance
+train,951,156.0,2087.0,Malaysia,2014.0,nearest_ge4of7
+train,952,85.0,1054.0,China ,2016.0,exact_or_tolerance
+train,953,54.0,630.0,China ,2017.0,exact_or_tolerance
+train,954,158.0,2107.0,China,2024.0,exact_or_tolerance
+train,955,6.0,91.0,France,2008.0,exact_or_tolerance
+train,956,73.0,907.0,Canada,2017.0,exact_or_tolerance
+train,957,135.0,1648.0,USA,2022.0,exact_or_tolerance
+train,958,158.0,2106.0,China,2024.0,exact_or_tolerance
+train,959,65.0,812.0,Turkey,2008.0,exact_or_tolerance
+train,960,48.0,524.0,India ,2018.0,exact_or_tolerance
+train,961,118.0,1429.0,Saudi Arabia,2015.0,exact_or_tolerance
+train,962,121.0,1478.0,USA,2024.0,exact_or_tolerance
+train,963,1.0,11.0,USA,2022.0,exact_or_tolerance
+train,964,34.0,410.0, UK,2008.0,exact_or_tolerance
+train,965,23.0,289.0,Korea,2019.0,exact_or_tolerance
+train,966,96.0,1173.0,China,2018.0,nearest_ge4of7
+train,967,107.0,1305.0,China,2024.0,exact_or_tolerance
+train,968,144.0,1927.0,Portugal,2015.0,exact_or_tolerance
+train,969,62.0,749.0,China  ,2013.0,exact_or_tolerance
+train,970,140.0,1757.0,China,2019.0,nearest_ge4of7
+train,971,153.0,2053.0,Korea,2019.0,exact_or_tolerance
+train,972,62.0,748.0,China  ,2013.0,exact_or_tolerance
+train,973,73.0,910.0,Canada,2017.0,exact_or_tolerance
+train,974,13.0,164.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,975,77.0,954.0,China,2010.0,exact_or_tolerance
+train,976,162.0,2132.0,China,2023.0,exact_or_tolerance
+train,977,21.0,262.0,Turkey,2016.0,exact_or_tolerance
+train,978,26.0,340.0,Malaysia,2024.0,exact_or_tolerance
+train,979,154.0,2057.0,Singapore ,2020.0,exact_or_tolerance
+train,980,91.0,1134.0,China,2016.0,exact_or_tolerance
+train,981,48.0,541.0,India ,2018.0,exact_or_tolerance
+train,982,121.0,1501.0,USA,2024.0,exact_or_tolerance
+train,983,87.0,1104.0,Korea,2019.0,exact_or_tolerance
+train,984,66.0,827.0,Turkey,2010.0,exact_or_tolerance
+train,985,144.0,1929.0,Portugal,2015.0,exact_or_tolerance
+train,986,66.0,820.0,Turkey,2010.0,exact_or_tolerance
+train,987,116.0,1399.0,China,2021.0,exact_or_tolerance
+train,988,110.0,1326.0,China,2008.0,exact_or_tolerance
+train,989,126.0,1577.0,USA,2017.0,exact_or_tolerance
+train,990,167.0,2171.0,Vietnam,2021.0,exact_or_tolerance
+train,991,48.0,547.0,India ,2018.0,exact_or_tolerance
+train,992,3.0,24.0,China,2024.0,exact_or_tolerance
+train,993,27.0,361.0,China,2017.0,exact_or_tolerance
+train,994,118.0,1430.0,Saudi Arabia,2015.0,exact_or_tolerance
+train,995,121.0,1465.0,USA,2024.0,exact_or_tolerance
+train,996,144.0,1892.0,Portugal,2015.0,exact_or_tolerance
+train,997,26.0,345.0,Malaysia,2024.0,exact_or_tolerance
+train,998,82.0,1015.0,Portugal,2012.0,exact_or_tolerance
+train,999,47.0,499.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,1000,77.0,970.0,China,2010.0,exact_or_tolerance
+train,1001,115.0,1380.0,India,2015.0,exact_or_tolerance
+train,1002,139.0,1723.0,USA,2019.0,exact_or_tolerance
+train,1003,87.0,1100.0,Korea,2019.0,exact_or_tolerance
+train,1004,162.0,2137.0,China,2023.0,exact_or_tolerance
+train,1005,6.0,95.0,France,2008.0,exact_or_tolerance
+train,1006,86.0,1093.0,Netherlands,2010.0,exact_or_tolerance
+train,1007,96.0,1177.0,China,2018.0,nearest_ge4of7
+train,1008,99.0,1199.0,China,2018.0,exact_or_tolerance
+train,1009,139.0,1712.0,USA,2019.0,nearest_ge4of7
+train,1010,121.0,1461.0,USA,2024.0,exact_or_tolerance
+train,1011,62.0,755.0,China  ,2013.0,exact_or_tolerance
+train,1012,147.0,1974.0,USA,2024.0,exact_or_tolerance
+train,1013,85.0,1081.0,China ,2016.0,exact_or_tolerance
+train,1014,13.0,158.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1015,100.0,1206.0,China,2023.0,exact_or_tolerance
+train,1016,144.0,1903.0,Portugal,2015.0,exact_or_tolerance
+train,1017,168.0,2185.0,China,2019.0,exact_or_tolerance
+train,1018,67.0,848.0,USA,2015.0,exact_or_tolerance
+train,1019,51.0,606.0,China,2018.0,exact_or_tolerance
+train,1020,63.0,762.0,USA,2016.0,exact_or_tolerance
+train,1021,110.0,1335.0,China,2008.0,exact_or_tolerance
+train,1022,121.0,1448.0,USA,2024.0,exact_or_tolerance
+train,1023,144.0,1852.0,Portugal,2015.0,exact_or_tolerance
+train,1024,116.0,1413.0,China,2021.0,exact_or_tolerance
+train,1025,48.0,513.0,India ,2018.0,exact_or_tolerance
+train,1026,50.0,585.0,Iran ,2018.0,nearest_ge4of7
+train,1027,102.0,1248.0,Hong Kong,2012.0,exact_or_tolerance
+train,1028,101.0,1226.0,Canada ,2017.0,exact_or_tolerance
+train,1029,69.0,860.0,Canada ,2016.0,exact_or_tolerance
+train,1030,48.0,538.0,India ,2018.0,exact_or_tolerance
+train,1031,58.0,670.0,Netherlands,2013.0,exact_or_tolerance
+train,1032,52.0,612.0,China,2017.0,exact_or_tolerance
+train,1033,145.0,1969.0,USA,2013.0,exact_or_tolerance
+train,1034,135.0,1672.0,USA,2022.0,exact_or_tolerance
+train,1035,103.0,1257.0,Cyprus,2018.0,exact_or_tolerance
+train,1036,68.0,849.0, Algeria,2016.0,exact_or_tolerance
+train,1037,9.0,118.0,Portugal,2014.0,exact_or_tolerance
+train,1038,65.0,799.0,Turkey,2008.0,exact_or_tolerance
+train,1039,144.0,1875.0,Portugal,2015.0,exact_or_tolerance
+train,1040,98.0,1188.0,China,2021.0,nearest_ge4of7
+train,1041,70.0,889.0,China,2021.0,exact_or_tolerance
+train,1042,9.0,121.0,Portugal,2014.0,exact_or_tolerance
+train,1043,61.0,715.0,Turkey ,2006.0,exact_or_tolerance
+train,1044,156.0,2084.0,Malaysia,2014.0,nearest_ge4of7
+train,1045,58.0,672.0,Netherlands,2013.0,exact_or_tolerance
+train,1046,29.0,379.0,Korea,2017.0,exact_or_tolerance
+train,1047,21.0,273.0,Turkey,2016.0,exact_or_tolerance
+train,1048,61.0,714.0,Turkey ,2006.0,exact_or_tolerance
+train,1049,82.0,1014.0,Portugal,2012.0,exact_or_tolerance
+train,1050,70.0,881.0,China,2021.0,exact_or_tolerance
+train,1051,74.0,925.0,China  ,2021.0,exact_or_tolerance
+train,1052,4.0,48.0,Canada,2016.0,exact_or_tolerance
+train,1053,122.0,1526.0, China,2019.0,exact_or_tolerance
+train,1054,144.0,1893.0,Portugal,2015.0,exact_or_tolerance
+train,1055,85.0,1076.0,China ,2016.0,exact_or_tolerance
+train,1056,76.0,935.0,Turkey,2008.0,exact_or_tolerance
+train,1057,66.0,832.0,Turkey,2010.0,exact_or_tolerance
+train,1058,115.0,1382.0,India,2015.0,exact_or_tolerance
+train,1059,168.0,2187.0,China,2019.0,exact_or_tolerance
+train,1060,1.0,4.0,USA,2022.0,exact_or_tolerance
+train,1061,85.0,1088.0,China ,2016.0,exact_or_tolerance
+train,1062,144.0,1906.0,Portugal,2015.0,exact_or_tolerance
+train,1063,21.0,277.0,Turkey,2016.0,exact_or_tolerance
+train,1064,153.0,2040.0,Korea,2019.0,exact_or_tolerance
+train,1065,150.0,2006.0,China,2019.0,exact_or_tolerance
+train,1066,42.0,469.0,China ,2015.0,exact_or_tolerance
+train,1067,85.0,1087.0,China ,2016.0,exact_or_tolerance
+train,1068,98.0,1184.0,China,2021.0,nearest_ge4of7
+train,1069,72.0,896.0,China,2021.0,exact_or_tolerance
+train,1070,146.0,1972.0,China,2022.0,exact_or_tolerance
+train,1071,24.0,309.0,Korea,2017.0,exact_or_tolerance
+train,1072,122.0,1518.0, China,2019.0,exact_or_tolerance
+train,1073,135.0,1684.0,USA,2022.0,exact_or_tolerance
+train,1074,24.0,318.0,Korea,2017.0,exact_or_tolerance
+train,1075,13.0,154.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1076,102.0,1255.0,Hong Kong,2012.0,exact_or_tolerance
+train,1077,110.0,1336.0,China,2008.0,exact_or_tolerance
+train,1078,50.0,600.0,Iran ,2018.0,exact_or_tolerance
+train,1079,4.0,52.0,Canada,2016.0,exact_or_tolerance
+train,1080,135.0,1679.0,USA,2022.0,exact_or_tolerance
+train,1081,64.0,785.0,China  ,2024.0,exact_or_tolerance
+train,1082,70.0,892.0,China,2021.0,exact_or_tolerance
+train,1083,122.0,1530.0, China,2019.0,exact_or_tolerance
+train,1084,101.0,1222.0,Canada ,2017.0,exact_or_tolerance
+train,1085,105.0,1280.0,Cyprus,2015.0,exact_or_tolerance
+train,1086,47.0,496.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,1087,85.0,1056.0,China ,2016.0,exact_or_tolerance
+train,1088,61.0,712.0,Turkey ,2006.0,exact_or_tolerance
+train,1089,35.0,417.0,Canada,2006.0,exact_or_tolerance
+train,1090,48.0,537.0,India ,2018.0,exact_or_tolerance
+train,1091,25.0,325.0,China,2017.0,exact_or_tolerance
+train,1092,3.0,19.0,China,2024.0,exact_or_tolerance
+train,1093,62.0,743.0,China  ,2013.0,exact_or_tolerance
+train,1094,3.0,37.0,China,2024.0,nearest_ge4of7
+train,1095,77.0,961.0,China,2010.0,exact_or_tolerance
+train,1096,70.0,886.0,China,2021.0,exact_or_tolerance
+train,1097,147.0,1978.0,USA,2024.0,exact_or_tolerance
+train,1098,36.0,425.0,Iran,2020.0,exact_or_tolerance
+train,1099,78.0,979.0,China  ,2019.0,exact_or_tolerance
+train,1100,48.0,563.0,India ,2018.0,exact_or_tolerance
+train,1101,66.0,817.0,Turkey,2010.0,exact_or_tolerance
+train,1102,95.0,1169.0,China ,2021.0,exact_or_tolerance
+train,1103,110.0,1322.0,China,2008.0,exact_or_tolerance
+train,1104,20.0,250.0,China,2019.0,exact_or_tolerance
+train,1105,125.0,1571.0,USA,2016.0,exact_or_tolerance
+train,1106,101.0,1234.0,Canada ,2017.0,exact_or_tolerance
+train,1107,67.0,843.0,USA,2015.0,exact_or_tolerance
+train,1108,144.0,1925.0,Portugal,2015.0,exact_or_tolerance
+train,1109,48.0,515.0,India ,2018.0,exact_or_tolerance
+train,1110,13.0,159.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1111,85.0,1046.0,China ,2016.0,exact_or_tolerance
+train,1112,73.0,912.0,Canada,2017.0,exact_or_tolerance
+train,1113,121.0,1464.0,USA,2024.0,exact_or_tolerance
+train,1114,55.0,651.0,CHINA,2016.0,exact_or_tolerance
+train,1115,62.0,744.0,China  ,2013.0,exact_or_tolerance
+train,1116,136.0,1688.0,USA,2011.0,exact_or_tolerance
+train,1117,50.0,595.0,Iran ,2018.0,exact_or_tolerance
+train,1118,156.0,2085.0,Malaysia,2014.0,nearest_ge4of7
+train,1119,2.0,17.0,China,2024.0,exact_or_tolerance
+train,1120,11.0,129.0,France,2018.0,exact_or_tolerance
+train,1121,121.0,1499.0,USA,2024.0,exact_or_tolerance
+train,1122,120.0,1432.0,China,2018.0,exact_or_tolerance
+train,1123,164.0,2156.0,Austria,2014.0,exact_or_tolerance
+train,1124,82.0,1006.0,Portugal,2012.0,exact_or_tolerance
+train,1125,85.0,1065.0,China ,2016.0,exact_or_tolerance
+train,1126,163.0,2152.0,China,2019.0,exact_or_tolerance
+train,1127,16.0,195.0,USA,2018.0,exact_or_tolerance
+train,1128,102.0,1246.0,Hong Kong,2012.0,exact_or_tolerance
+train,1129,85.0,1077.0,China ,2016.0,exact_or_tolerance
+train,1130,162.0,2143.0,China,2023.0,exact_or_tolerance
+train,1131,142.0,1839.0,China,2018.0,exact_or_tolerance
+train,1132,54.0,632.0,China ,2017.0,exact_or_tolerance
+train,1133,15.0,185.0,USA,2017.0,exact_or_tolerance
+train,1134,24.0,306.0,Korea,2017.0,exact_or_tolerance
+train,1135,48.0,522.0,India ,2018.0,exact_or_tolerance
+train,1136,144.0,1880.0,Portugal,2015.0,exact_or_tolerance
+train,1137,144.0,1894.0,Portugal,2015.0,exact_or_tolerance
+train,1138,143.0,1848.0,China,2025.0,exact_or_tolerance
+train,1139,162.0,2135.0,China,2023.0,exact_or_tolerance
+train,1140,48.0,543.0,India ,2018.0,exact_or_tolerance
+train,1141,168.0,2172.0,China,2019.0,exact_or_tolerance
+train,1142,96.0,1176.0,China,2018.0,nearest_ge4of7
+train,1143,47.0,502.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,1144,13.0,162.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1145,116.0,1396.0,China,2021.0,exact_or_tolerance
+train,1146,109.0,1309.0,USA,2013.0,exact_or_tolerance
+train,1147,2.0,16.0,China,2024.0,exact_or_tolerance
+train,1148,139.0,1709.0,USA,2019.0,nearest_ge4of7
+train,1149,96.0,1170.0,China,2018.0,nearest_ge4of7
+train,1150,165.0,2159.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,1151,48.0,572.0,India ,2018.0,exact_or_tolerance
+train,1152,139.0,1713.0,USA,2019.0,exact_or_tolerance
+train,1153,61.0,717.0,Turkey ,2006.0,exact_or_tolerance
+train,1154,139.0,1752.0,USA,2019.0,nearest_ge4of7
+train,1155,88.0,1108.0,Singapore,2018.0,exact_or_tolerance
+train,1156,143.0,1849.0,China,2025.0,exact_or_tolerance
+train,1157,135.0,1678.0,USA,2022.0,exact_or_tolerance
+train,1158,85.0,1044.0,China ,2016.0,exact_or_tolerance
+train,1159,154.0,2059.0,Singapore ,2020.0,exact_or_tolerance
+train,1160,23.0,288.0,Korea,2019.0,exact_or_tolerance
+train,1161,69.0,854.0,Canada ,2016.0,exact_or_tolerance
+train,1162,145.0,1964.0,USA,2013.0,exact_or_tolerance
+train,1163,19.0,230.0,Turkey,2016.0,exact_or_tolerance
+train,1164,3.0,28.0,China,2024.0,exact_or_tolerance
+train,1165,144.0,1952.0,Portugal,2015.0,exact_or_tolerance
+train,1166,41.0,463.0,China,2016.0,exact_or_tolerance
+train,1167,162.0,2136.0,China,2023.0,exact_or_tolerance
+train,1168,123.0,1543.0,China ,2023.0,exact_or_tolerance
+train,1169,19.0,234.0,Turkey,2016.0,exact_or_tolerance
+train,1170,4.0,39.0,Canada,2016.0,exact_or_tolerance
+train,1171,65.0,808.0,Turkey,2008.0,exact_or_tolerance
+train,1172,93.0,1148.0,China,2020.0,exact_or_tolerance
+train,1173,124.0,1553.0,India ,2018.0,exact_or_tolerance
+train,1174,47.0,495.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,1175,144.0,1877.0,Portugal,2015.0,exact_or_tolerance
+train,1176,164.0,2155.0,Austria,2014.0,exact_or_tolerance
+train,1177,62.0,746.0,China  ,2013.0,exact_or_tolerance
+train,1178,153.0,2023.0,Korea,2019.0,exact_or_tolerance
+train,1179,58.0,676.0,Netherlands,2013.0,exact_or_tolerance
+train,1180,144.0,1897.0,Portugal,2015.0,exact_or_tolerance
+train,1181,115.0,1381.0,India,2015.0,exact_or_tolerance
+train,1182,104.0,1272.0,China,2012.0,nearest_ge4of7
+train,1183,125.0,1570.0,USA,2016.0,exact_or_tolerance
+train,1184,138.0,1701.0,China,2020.0,exact_or_tolerance
+train,1185,142.0,1838.0,China,2018.0,exact_or_tolerance
+train,1186,150.0,2007.0,China,2019.0,exact_or_tolerance
+train,1187,69.0,862.0,Canada ,2016.0,exact_or_tolerance
+train,1188,13.0,165.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1189,85.0,1041.0,China ,2016.0,exact_or_tolerance
+train,1190,107.0,1300.0,China,2024.0,exact_or_tolerance
+train,1191,70.0,880.0,China,2021.0,exact_or_tolerance
+train,1192,144.0,1867.0,Portugal,2015.0,exact_or_tolerance
+train,1193,76.0,936.0,Turkey,2008.0,exact_or_tolerance
+train,1194,77.0,972.0,China,2010.0,exact_or_tolerance
+train,1195,13.0,157.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1196,153.0,2016.0,Korea,2019.0,exact_or_tolerance
+train,1197,144.0,1958.0,Portugal,2015.0,exact_or_tolerance
+train,1198,48.0,535.0,India ,2018.0,exact_or_tolerance
+train,1199,102.0,1242.0,Hong Kong,2012.0,exact_or_tolerance
+train,1200,116.0,1403.0,China,2021.0,exact_or_tolerance
+train,1201,143.0,1850.0,China,2025.0,exact_or_tolerance
+train,1202,6.0,105.0,France,2008.0,exact_or_tolerance
+train,1203,132.0,1619.0,China,2022.0,exact_or_tolerance
+train,1204,132.0,1617.0,China,2022.0,exact_or_tolerance
+train,1205,130.0,1591.0,China ,2018.0,exact_or_tolerance
+train,1206,144.0,1950.0,Portugal,2015.0,exact_or_tolerance
+train,1207,102.0,1250.0,Hong Kong,2012.0,exact_or_tolerance
+train,1208,4.0,55.0,Canada,2016.0,exact_or_tolerance
+train,1209,13.0,156.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1210,36.0,421.0,Iran,2020.0,exact_or_tolerance
+train,1211,162.0,2131.0,China,2023.0,exact_or_tolerance
+train,1212,17.0,212.0,China ,2015.0,exact_or_tolerance
+train,1213,155.0,2072.0,Malaysia ,2020.0,exact_or_tolerance
+train,1214,101.0,1229.0,Canada ,2017.0,exact_or_tolerance
+train,1215,144.0,1932.0,Portugal,2015.0,exact_or_tolerance
+train,1216,1.0,8.0,USA,2022.0,exact_or_tolerance
+train,1217,87.0,1103.0,Korea,2019.0,exact_or_tolerance
+train,1218,147.0,1977.0,USA,2024.0,exact_or_tolerance
+train,1219,95.0,1167.0,China ,2021.0,exact_or_tolerance
+train,1220,44.0,478.0,China,2020.0,exact_or_tolerance
+train,1221,21.0,258.0,Turkey,2016.0,exact_or_tolerance
+train,1222,121.0,1480.0,USA,2024.0,exact_or_tolerance
+train,1223,77.0,955.0,China,2010.0,exact_or_tolerance
+train,1224,144.0,1916.0,Portugal,2015.0,exact_or_tolerance
+train,1225,76.0,939.0,Turkey,2008.0,exact_or_tolerance
+train,1226,141.0,1783.0,China,2015.0,exact_or_tolerance
+train,1227,155.0,2066.0,Malaysia ,2020.0,exact_or_tolerance
+train,1228,55.0,649.0,CHINA,2016.0,exact_or_tolerance
+train,1229,26.0,350.0,Malaysia,2024.0,exact_or_tolerance
+train,1230,144.0,1887.0,Portugal,2015.0,exact_or_tolerance
+train,1231,21.0,267.0,Turkey,2016.0,exact_or_tolerance
+train,1232,121.0,1474.0,USA,2024.0,exact_or_tolerance
+train,1233,132.0,1612.0,China,2022.0,exact_or_tolerance
+train,1234,13.0,155.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1235,47.0,498.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,1236,58.0,677.0,Netherlands,2013.0,exact_or_tolerance
+train,1237,167.0,2170.0,Vietnam,2021.0,exact_or_tolerance
+train,1238,155.0,2060.0,Malaysia ,2020.0,exact_or_tolerance
+train,1239,49.0,576.0,China,2019.0,exact_or_tolerance
+train,1240,82.0,1007.0,Portugal,2012.0,exact_or_tolerance
+train,1241,48.0,514.0,India ,2018.0,exact_or_tolerance
+train,1242,148.0,1992.0,China,2023.0,exact_or_tolerance
+train,1243,106.0,1285.0,Croatia,2023.0,exact_or_tolerance
+train,1244,13.0,151.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1245,144.0,1889.0,Portugal,2015.0,exact_or_tolerance
+train,1246,160.0,2117.0,China,2024.0,exact_or_tolerance
+train,1247,36.0,420.0,Iran,2020.0,exact_or_tolerance
+train,1248,85.0,1039.0,China ,2016.0,exact_or_tolerance
+train,1249,153.0,2055.0,Korea,2019.0,exact_or_tolerance
+train,1250,61.0,718.0,Turkey ,2006.0,exact_or_tolerance
+train,1251,122.0,1525.0, China,2019.0,exact_or_tolerance
+train,1252,46.0,489.0,Iran,2018.0,exact_or_tolerance
+train,1253,121.0,1502.0,USA,2024.0,exact_or_tolerance
+train,1254,15.0,191.0,USA,2017.0,exact_or_tolerance
+train,1255,102.0,1254.0,Hong Kong,2012.0,exact_or_tolerance
+train,1256,114.0,1375.0,Vietnam,2017.0,exact_or_tolerance
+train,1257,54.0,634.0,China ,2017.0,exact_or_tolerance
+train,1258,13.0,148.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1259,65.0,810.0,Turkey,2008.0,exact_or_tolerance
+train,1260,139.0,1708.0,USA,2019.0,nearest_ge4of7
+train,1261,85.0,1066.0,China ,2016.0,exact_or_tolerance
+train,1262,16.0,202.0,USA,2018.0,exact_or_tolerance
+train,1263,144.0,1868.0,Portugal,2015.0,exact_or_tolerance
+train,1264,76.0,942.0,Turkey,2008.0,exact_or_tolerance
+train,1265,22.0,284.0,Australia,2018.0,exact_or_tolerance
+train,1266,23.0,298.0,Korea,2019.0,exact_or_tolerance
+train,1267,150.0,2008.0,China,2019.0,exact_or_tolerance
+train,1268,36.0,418.0,Iran,2020.0,exact_or_tolerance
+train,1269,10.0,124.0,Australia,2021.0,exact_or_tolerance
+train,1270,110.0,1330.0,China,2008.0,exact_or_tolerance
+train,1271,17.0,207.0,China ,2015.0,exact_or_tolerance
+train,1272,134.0,1636.0,China,2020.0,nearest_ge4of7
+train,1273,71.0,894.0,Australia,2022.0,exact_or_tolerance
+train,1274,20.0,251.0,China,2019.0,exact_or_tolerance
+train,1275,132.0,1613.0,China,2022.0,exact_or_tolerance
+train,1276,155.0,2078.0,Malaysia ,2020.0,exact_or_tolerance
+train,1277,154.0,2058.0,Singapore ,2020.0,exact_or_tolerance
+train,1278,104.0,1267.0,China,2012.0,nearest_ge4of7
+train,1279,144.0,1896.0,Portugal,2015.0,exact_or_tolerance
+train,1280,128.0,1584.0,Korea,2016.0,exact_or_tolerance
+train,1281,31.0,394.0, China,2020.0,exact_or_tolerance
+train,1282,162.0,2145.0,China,2023.0,exact_or_tolerance
+train,1283,73.0,913.0,Canada,2017.0,exact_or_tolerance
+train,1284,141.0,1763.0,China,2015.0,exact_or_tolerance
+train,1285,18.0,224.0,China,2019.0,exact_or_tolerance
+train,1286,58.0,678.0,Netherlands,2013.0,exact_or_tolerance
+train,1287,1.0,1.0,USA,2022.0,exact_or_tolerance
+train,1288,8.0,114.0,Lithuania,2014.0,exact_or_tolerance
+train,1289,62.0,757.0,China  ,2013.0,exact_or_tolerance
+train,1290,157.0,2100.0,Malaysia,2017.0,nearest_ge4of7
+train,1291,85.0,1036.0,China ,2016.0,exact_or_tolerance
+train,1292,144.0,1883.0,Portugal,2015.0,exact_or_tolerance
+train,1293,144.0,1871.0,Portugal,2015.0,exact_or_tolerance
+train,1294,144.0,1931.0,Portugal,2015.0,exact_or_tolerance
+train,1295,125.0,1565.0,USA,2016.0,exact_or_tolerance
+train,1296,125.0,1564.0,USA,2016.0,exact_or_tolerance
+train,1297,139.0,1707.0,USA,2019.0,nearest_ge4of7
+train,1298,121.0,1444.0,USA,2024.0,exact_or_tolerance
+train,1299,147.0,1989.0,USA,2024.0,exact_or_tolerance
+train,1300,42.0,467.0,China ,2015.0,exact_or_tolerance
+train,1301,136.0,1694.0,USA,2011.0,exact_or_tolerance
+train,1302,102.0,1243.0,Hong Kong,2012.0,exact_or_tolerance
+train,1303,116.0,1409.0,China,2021.0,exact_or_tolerance
+train,1304,153.0,2043.0,Korea,2019.0,exact_or_tolerance
+train,1305,144.0,1866.0,Portugal,2015.0,exact_or_tolerance
+train,1306,144.0,1930.0,Portugal,2015.0,exact_or_tolerance
+train,1307,124.0,1552.0,India ,2018.0,exact_or_tolerance
+train,1308,61.0,722.0,Turkey ,2006.0,exact_or_tolerance
+train,1309,153.0,2015.0,Korea,2019.0,exact_or_tolerance
+train,1310,116.0,1410.0,China,2021.0,exact_or_tolerance
+train,1311,144.0,1955.0,Portugal,2015.0,exact_or_tolerance
+train,1312,144.0,1935.0,Portugal,2015.0,exact_or_tolerance
+train,1313,25.0,322.0,China,2017.0,exact_or_tolerance
+train,1314,58.0,685.0,Netherlands,2013.0,exact_or_tolerance
+train,1315,130.0,1592.0,China ,2018.0,exact_or_tolerance
+train,1316,135.0,1653.0,USA,2022.0,exact_or_tolerance
+train,1317,63.0,768.0,USA,2016.0,exact_or_tolerance
+train,1318,123.0,1536.0,China ,2023.0,exact_or_tolerance
+train,1319,120.0,1435.0,China,2018.0,exact_or_tolerance
+train,1320,85.0,1057.0,China ,2016.0,exact_or_tolerance
+train,1321,56.0,653.0,China,2017.0,exact_or_tolerance
+train,1322,58.0,669.0,Netherlands,2013.0,exact_or_tolerance
+train,1323,121.0,1459.0,USA,2024.0,exact_or_tolerance
+train,1324,124.0,1555.0,India ,2018.0,exact_or_tolerance
+train,1325,125.0,1563.0,USA,2016.0,exact_or_tolerance
+train,1326,116.0,1401.0,China,2021.0,exact_or_tolerance
+train,1327,162.0,2140.0,China,2023.0,exact_or_tolerance
+train,1328,116.0,1407.0,China,2021.0,exact_or_tolerance
+train,1329,135.0,1670.0,USA,2022.0,exact_or_tolerance
+train,1330,122.0,1524.0, China,2019.0,exact_or_tolerance
+train,1331,138.0,1703.0,China,2020.0,exact_or_tolerance
+train,1332,144.0,1898.0,Portugal,2015.0,exact_or_tolerance
+train,1333,160.0,2114.0,China,2024.0,exact_or_tolerance
+train,1334,161.0,2129.0,USA,2019.0,exact_or_tolerance
+train,1335,144.0,1878.0,Portugal,2015.0,exact_or_tolerance
+train,1336,153.0,2028.0,Korea,2019.0,exact_or_tolerance
+train,1337,58.0,682.0,Netherlands,2013.0,exact_or_tolerance
+train,1338,87.0,1101.0,Korea,2019.0,exact_or_tolerance
+train,1339,153.0,2019.0,Korea,2019.0,exact_or_tolerance
+train,1340,50.0,582.0,Iran ,2018.0,nearest_ge4of7
+train,1341,62.0,740.0,China  ,2013.0,exact_or_tolerance
+train,1342,51.0,603.0,China,2018.0,exact_or_tolerance
+train,1343,101.0,1216.0,Canada ,2017.0,exact_or_tolerance
+train,1344,116.0,1419.0,China,2021.0,exact_or_tolerance
+train,1345,144.0,1957.0,Portugal,2015.0,exact_or_tolerance
+train,1346,107.0,1297.0,China,2024.0,exact_or_tolerance
+train,1347,48.0,550.0,India ,2018.0,exact_or_tolerance
+train,1348,95.0,1166.0,China ,2021.0,exact_or_tolerance
+train,1349,48.0,566.0,India ,2018.0,exact_or_tolerance
+train,1350,108.0,1308.0,China,2019.0,nearest_ge4of7
+train,1351,144.0,1913.0,Portugal,2015.0,exact_or_tolerance
+train,1352,65.0,807.0,Turkey,2008.0,exact_or_tolerance
+train,1353,153.0,2033.0,Korea,2019.0,exact_or_tolerance
+train,1354,130.0,1588.0,China ,2018.0,exact_or_tolerance
+train,1355,48.0,510.0,India ,2018.0,exact_or_tolerance
+train,1356,6.0,97.0,France,2008.0,exact_or_tolerance
+train,1357,88.0,1109.0,Singapore,2018.0,exact_or_tolerance
+train,1358,50.0,589.0,Iran ,2018.0,exact_or_tolerance
+train,1359,116.0,1417.0,China,2021.0,exact_or_tolerance
+train,1360,74.0,922.0,China  ,2021.0,exact_or_tolerance
+train,1361,141.0,1813.0,China,2015.0,exact_or_tolerance
+train,1362,144.0,1949.0,Portugal,2015.0,exact_or_tolerance
+train,1363,135.0,1658.0,USA,2022.0,exact_or_tolerance
+train,1364,76.0,950.0,Turkey,2008.0,exact_or_tolerance
+train,1365,139.0,1751.0,USA,2019.0,nearest_ge4of7
+train,1366,90.0,1133.0,Germany,2014.0,exact_or_tolerance
+train,1367,17.0,211.0,China ,2015.0,exact_or_tolerance
+train,1368,34.0,406.0, UK,2008.0,exact_or_tolerance
+train,1369,69.0,853.0,Canada ,2016.0,exact_or_tolerance
+train,1370,74.0,929.0,China  ,2021.0,exact_or_tolerance
+train,1371,34.0,411.0, UK,2008.0,exact_or_tolerance
+train,1372,66.0,825.0,Turkey,2010.0,exact_or_tolerance
+train,1373,153.0,2021.0,Korea,2019.0,exact_or_tolerance
+train,1374,116.0,1394.0,China,2021.0,exact_or_tolerance
+train,1375,90.0,1123.0,Germany,2014.0,exact_or_tolerance
+train,1376,58.0,679.0,Netherlands,2013.0,exact_or_tolerance
+train,1377,155.0,2069.0,Malaysia ,2020.0,exact_or_tolerance
+train,1378,54.0,638.0,China ,2017.0,exact_or_tolerance
+train,1379,149.0,1997.0,Singapore,2021.0,exact_or_tolerance
+train,1380,85.0,1045.0,China ,2016.0,exact_or_tolerance
+train,1381,139.0,1744.0,USA,2019.0,exact_or_tolerance
+train,1382,64.0,784.0,China  ,2024.0,exact_or_tolerance
+train,1383,62.0,742.0,China  ,2013.0,exact_or_tolerance
+train,1384,6.0,100.0,France,2008.0,exact_or_tolerance
+train,1385,70.0,863.0,China,2021.0,exact_or_tolerance
+train,1386,147.0,1986.0,USA,2024.0,exact_or_tolerance
+train,1387,141.0,1776.0,China,2015.0,exact_or_tolerance
+train,1388,36.0,424.0,Iran,2020.0,exact_or_tolerance
+train,1389,48.0,528.0,India ,2018.0,exact_or_tolerance
+train,1390,97.0,1178.0, China,2018.0,exact_or_tolerance
+train,1391,94.0,1159.0, China,2019.0,exact_or_tolerance
+train,1392,82.0,1008.0,Portugal,2012.0,exact_or_tolerance
+train,1393,66.0,838.0,Turkey,2010.0,exact_or_tolerance
+train,1394,17.0,205.0,China ,2015.0,exact_or_tolerance
+train,1395,12.0,137.0,Italy,2011.0,exact_or_tolerance
+train,1396,93.0,1154.0,China,2020.0,exact_or_tolerance
+train,1397,4.0,42.0,Canada,2016.0,exact_or_tolerance
+train,1398,88.0,1106.0,Singapore,2018.0,exact_or_tolerance
+train,1399,19.0,235.0,Turkey,2016.0,exact_or_tolerance
+train,1400,136.0,1687.0,USA,2011.0,nearest_ge4of7
+train,1401,153.0,2031.0,Korea,2019.0,exact_or_tolerance
+train,1402,30.0,388.0,China,2021.0,exact_or_tolerance
+train,1403,23.0,293.0,Korea,2019.0,exact_or_tolerance
+train,1404,37.0,436.0,Italy,2020.0,exact_or_tolerance
+train,1405,144.0,1933.0,Portugal,2015.0,exact_or_tolerance
+train,1406,34.0,405.0, UK,2008.0,exact_or_tolerance
+train,1407,53.0,618.0,Malaysia,2010.0,exact_or_tolerance
+train,1408,137.0,1696.0,USA ,2022.0,exact_or_tolerance
+train,1409,105.0,1276.0,Cyprus,2015.0,exact_or_tolerance
+train,1410,98.0,1193.0,China,2021.0,nearest_ge4of7
+train,1411,135.0,1669.0,USA,2022.0,exact_or_tolerance
+train,1412,58.0,684.0,Netherlands,2013.0,exact_or_tolerance
+train,1413,103.0,1259.0,Cyprus,2018.0,exact_or_tolerance
+train,1414,122.0,1520.0, China,2019.0,exact_or_tolerance
+train,1415,48.0,546.0,India ,2018.0,exact_or_tolerance
+train,1416,5.0,66.0,Saudi Arabia,2014.0,exact_or_tolerance
+train,1417,1.0,14.0,USA,2022.0,exact_or_tolerance
+train,1418,107.0,1294.0,China,2024.0,nearest_ge4of7
+train,1419,96.0,1171.0,China,2018.0,nearest_ge4of7
+train,1420,48.0,518.0,India ,2018.0,exact_or_tolerance
+train,1421,30.0,389.0,China,2021.0,exact_or_tolerance
+train,1422,15.0,192.0,USA,2017.0,exact_or_tolerance
+train,1423,66.0,822.0,Turkey,2010.0,exact_or_tolerance
+train,1424,18.0,221.0,China,2019.0,nearest_ge4of7
+train,1425,68.0,850.0, Algeria,2016.0,exact_or_tolerance
+train,1426,98.0,1183.0,China,2021.0,nearest_ge4of7
+train,1427,76.0,937.0,Turkey,2008.0,exact_or_tolerance
+train,1428,26.0,342.0,Malaysia,2024.0,exact_or_tolerance
+train,1429,151.0,2010.0,China,2017.0,exact_or_tolerance
+train,1430,64.0,778.0,China  ,2024.0,exact_or_tolerance
+train,1431,147.0,1983.0,USA,2024.0,exact_or_tolerance
+train,1432,24.0,300.0,Korea,2017.0,exact_or_tolerance
+train,1433,144.0,1960.0,Portugal,2015.0,exact_or_tolerance
+train,1434,87.0,1105.0,Korea,2019.0,exact_or_tolerance
+train,1435,118.0,1428.0,Saudi Arabia,2015.0,exact_or_tolerance
+train,1436,147.0,1985.0,USA,2024.0,exact_or_tolerance
+train,1437,135.0,1659.0,USA,2022.0,exact_or_tolerance
+train,1438,45.0,481.0,China,2018.0,nearest_ge4of7
+train,1439,168.0,2184.0,China,2019.0,exact_or_tolerance
+train,1440,70.0,874.0,China,2021.0,exact_or_tolerance
+train,1441,21.0,274.0,Turkey,2016.0,exact_or_tolerance
+train,1442,85.0,1080.0,China ,2016.0,exact_or_tolerance
+train,1443,17.0,206.0,China ,2015.0,exact_or_tolerance
+train,1444,13.0,166.0, Saudi Arabia,2015.0,exact_or_tolerance
+train,1445,139.0,1753.0,USA,2019.0,nearest_ge4of7
+train,1446,65.0,788.0,Turkey,2008.0,exact_or_tolerance
+train,1447,36.0,419.0,Iran,2020.0,exact_or_tolerance
+train,1448,63.0,761.0,USA,2016.0,exact_or_tolerance
+train,1449,135.0,1674.0,USA,2022.0,exact_or_tolerance
+train,1450,156.0,2080.0,Malaysia,2014.0,nearest_ge4of7
+train,1451,153.0,2030.0,Korea,2019.0,exact_or_tolerance
+train,1452,101.0,1236.0,Canada ,2017.0,exact_or_tolerance
+train,1453,50.0,591.0,Iran ,2018.0,nearest_ge4of7
+train,1454,125.0,1568.0,USA,2016.0,exact_or_tolerance
+train,1455,88.0,1110.0,Singapore,2018.0,exact_or_tolerance
+train,1456,89.0,1115.0,Germany,2010.0,exact_or_tolerance
+train,1457,125.0,1566.0,USA,2016.0,exact_or_tolerance
+train,1458,140.0,1759.0,China,2019.0,exact_or_tolerance
+train,1459,100.0,1211.0,China,2023.0,exact_or_tolerance
+train,1460,17.0,210.0,China ,2015.0,exact_or_tolerance
+train,1461,3.0,36.0,China,2024.0,nearest_ge4of7
+train,1462,66.0,834.0,Turkey,2010.0,exact_or_tolerance
+train,1463,48.0,534.0,India ,2018.0,exact_or_tolerance
+train,1464,134.0,1625.0,China,2020.0,nearest_ge4of7
+train,1465,135.0,1652.0,USA,2022.0,exact_or_tolerance
+train,1466,165.0,2158.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,1467,123.0,1545.0,China ,2023.0,exact_or_tolerance
+train,1468,6.0,93.0,France,2008.0,exact_or_tolerance
+train,1469,122.0,1516.0, China,2019.0,exact_or_tolerance
+train,1470,77.0,956.0,China,2010.0,exact_or_tolerance
+train,1471,50.0,590.0,Iran ,2018.0,exact_or_tolerance
+train,1472,122.0,1522.0, China,2019.0,exact_or_tolerance
+train,1473,66.0,835.0,Turkey,2010.0,exact_or_tolerance
+train,1474,20.0,246.0,China,2019.0,exact_or_tolerance
+train,1475,1.0,13.0,USA,2022.0,exact_or_tolerance
+train,1476,25.0,320.0,China,2017.0,exact_or_tolerance
+train,1477,54.0,626.0,China ,2017.0,exact_or_tolerance
+train,1478,31.0,397.0, China,2020.0,exact_or_tolerance
+train,1479,121.0,1450.0,USA,2024.0,exact_or_tolerance
+train,1480,14.0,171.0,Pakistan,2014.0,exact_or_tolerance
+train,1481,72.0,899.0,China,2021.0,exact_or_tolerance
+train,1482,3.0,22.0,China,2024.0,exact_or_tolerance
+train,1483,58.0,683.0,Netherlands,2013.0,exact_or_tolerance
+train,1484,155.0,2077.0,Malaysia ,2020.0,exact_or_tolerance
+train,1485,135.0,1682.0,USA,2022.0,exact_or_tolerance
+train,1486,104.0,1268.0,China,2012.0,nearest_ge4of7
+train,1487,138.0,1702.0,China,2020.0,exact_or_tolerance
+train,1488,70.0,890.0,China,2021.0,exact_or_tolerance
+train,1489,116.0,1420.0,China,2021.0,exact_or_tolerance
+train,1490,141.0,1768.0,China,2015.0,exact_or_tolerance
+train,1491,50.0,588.0,Iran ,2018.0,nearest_ge4of7
+train,1492,162.0,2139.0,China,2023.0,exact_or_tolerance
+train,1493,62.0,745.0,China  ,2013.0,exact_or_tolerance
+train,1494,85.0,1042.0,China ,2016.0,exact_or_tolerance
+train,1495,16.0,194.0,USA,2018.0,exact_or_tolerance
+train,1496,153.0,2041.0,Korea,2019.0,exact_or_tolerance
+train,1497,85.0,1060.0,China ,2016.0,exact_or_tolerance
+train,1498,62.0,758.0,China  ,2013.0,exact_or_tolerance
+train,1499,135.0,1673.0,USA,2022.0,exact_or_tolerance
+train,1500,144.0,1940.0,Portugal,2015.0,exact_or_tolerance
+train,1501,48.0,536.0,India ,2018.0,exact_or_tolerance
+train,1502,98.0,1189.0,China,2021.0,nearest_ge4of7
+train,1503,47.0,500.0,Saudi Arabia,2018.0,exact_or_tolerance
+train,1504,140.0,1758.0,China,2019.0,exact_or_tolerance
+train,1505,73.0,915.0,Canada,2017.0,exact_or_tolerance
+train,1506,65.0,806.0,Turkey,2008.0,exact_or_tolerance
+train,1507,21.0,257.0,Turkey,2016.0,exact_or_tolerance
+train,1508,3.0,23.0,China,2024.0,exact_or_tolerance
+train,1509,121.0,1490.0,USA,2024.0,exact_or_tolerance
+train,1510,45.0,485.0,China,2018.0,nearest_ge4of7
+train,1511,107.0,1298.0,China,2024.0,exact_or_tolerance
+train,1512,21.0,281.0,Turkey,2016.0,exact_or_tolerance
+train,1513,85.0,1040.0,China ,2016.0,exact_or_tolerance
+train,1514,7.0,108.0,USA,2011.0,nearest_ge4of7
+train,1515,31.0,395.0, China,2020.0,exact_or_tolerance
+train,1516,70.0,864.0,China,2021.0,exact_or_tolerance
+train,1517,132.0,1611.0,China,2022.0,exact_or_tolerance
+train,1518,136.0,1689.0,USA,2011.0,exact_or_tolerance
+train,1519,26.0,348.0,Malaysia,2024.0,exact_or_tolerance
+train,1520,66.0,828.0,Turkey,2010.0,exact_or_tolerance
+train,1521,121.0,1485.0,USA,2024.0,exact_or_tolerance
+train,1522,144.0,1920.0,Portugal,2015.0,exact_or_tolerance
+train,1523,11.0,132.0,France,2018.0,nearest_ge4of7
+train,1524,144.0,1922.0,Portugal,2015.0,exact_or_tolerance
+train,1525,75.0,930.0,China,2021.0,exact_or_tolerance
+train,1526,101.0,1230.0,Canada ,2017.0,exact_or_tolerance
+train,1527,124.0,1551.0,India ,2018.0,nearest_ge4of7
+train,1528,6.0,89.0,France,2008.0,exact_or_tolerance
+train,1529,135.0,1656.0,USA,2022.0,exact_or_tolerance
+train,1530,26.0,335.0,Malaysia,2024.0,exact_or_tolerance
+train,1531,116.0,1391.0,China,2021.0,exact_or_tolerance
+train,1532,46.0,492.0,Iran,2018.0,exact_or_tolerance
+train,1533,10.0,123.0,Australia,2021.0,exact_or_tolerance
+train,1534,144.0,1873.0,Portugal,2015.0,exact_or_tolerance
+train,1535,93.0,1147.0,China,2020.0,exact_or_tolerance
+train,1536,144.0,1959.0,Portugal,2015.0,exact_or_tolerance
+train,1537,99.0,1202.0,China,2018.0,exact_or_tolerance
+train,1538,101.0,1237.0,Canada ,2017.0,exact_or_tolerance
+train,1539,121.0,1447.0,USA,2024.0,exact_or_tolerance
+train,1540,74.0,919.0,China  ,2021.0,exact_or_tolerance
+train,1541,134.0,1633.0,China,2020.0,nearest_ge4of7
+train,1542,101.0,1233.0,Canada ,2017.0,exact_or_tolerance
+test,0,141.0,1827.0,China,2015.0,exact_or_tolerance
+test,1,164.0,2154.0,Austria,2014.0,exact_or_tolerance
+test,2,5.0,72.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,3,162.0,2142.0,China,2023.0,exact_or_tolerance
+test,4,145.0,1966.0,USA,2013.0,exact_or_tolerance
+test,5,110.0,1324.0,China,2008.0,exact_or_tolerance
+test,6,158.0,2108.0,China,2024.0,exact_or_tolerance
+test,7,65.0,802.0,Turkey,2008.0,exact_or_tolerance
+test,8,48.0,569.0,India ,2018.0,exact_or_tolerance
+test,9,144.0,1924.0,Portugal,2015.0,exact_or_tolerance
+test,10,85.0,1031.0,China ,2016.0,exact_or_tolerance
+test,11,82.0,1013.0,Portugal,2012.0,exact_or_tolerance
+test,12,139.0,1740.0,USA,2019.0,exact_or_tolerance
+test,13,62.0,753.0,China  ,2013.0,exact_or_tolerance
+test,14,52.0,610.0,China,2017.0,exact_or_tolerance
+test,15,85.0,1058.0,China ,2016.0,exact_or_tolerance
+test,16,101.0,1227.0,Canada ,2017.0,exact_or_tolerance
+test,17,135.0,1681.0,USA,2022.0,exact_or_tolerance
+test,18,48.0,574.0,India ,2018.0,exact_or_tolerance
+test,19,121.0,1477.0,USA,2024.0,exact_or_tolerance
+test,20,100.0,1210.0,China,2023.0,exact_or_tolerance
+test,21,18.0,224.0,China,2019.0,nearest_ge4of7
+test,22,24.0,314.0,Korea,2017.0,exact_or_tolerance
+test,23,102.0,1244.0,Hong Kong,2012.0,exact_or_tolerance
+test,24,5.0,71.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,25,40.0,458.0,USA ,2007.0,nearest_ge4of7
+test,26,118.0,1427.0,Saudi Arabia,2015.0,exact_or_tolerance
+test,27,98.0,1192.0,China,2021.0,nearest_ge4of7
+test,28,11.0,130.0,France,2018.0,exact_or_tolerance
+test,29,144.0,1928.0,Portugal,2015.0,exact_or_tolerance
+test,30,121.0,1503.0,USA,2024.0,exact_or_tolerance
+test,31,54.0,641.0,China ,2017.0,exact_or_tolerance
+test,32,77.0,959.0,China,2010.0,exact_or_tolerance
+test,33,88.0,1112.0,Singapore,2018.0,exact_or_tolerance
+test,34,134.0,1639.0,China,2020.0,nearest_ge4of7
+test,35,98.0,1190.0,China,2021.0,nearest_ge4of7
+test,36,20.0,252.0,China,2019.0,exact_or_tolerance
+test,37,109.0,1310.0,USA,2013.0,exact_or_tolerance
+test,38,125.0,1557.0,USA,2016.0,nearest_ge4of7
+test,39,141.0,1773.0,China,2015.0,exact_or_tolerance
+test,40,121.0,1454.0,USA,2024.0,exact_or_tolerance
+test,41,4.0,58.0,Canada,2016.0,exact_or_tolerance
+test,42,144.0,1872.0,Portugal,2015.0,exact_or_tolerance
+test,43,16.0,201.0,USA,2018.0,exact_or_tolerance
+test,44,48.0,520.0,India ,2018.0,exact_or_tolerance
+test,45,72.0,897.0,China,2021.0,exact_or_tolerance
+test,46,135.0,1661.0,USA,2022.0,exact_or_tolerance
+test,47,116.0,1392.0,China,2021.0,exact_or_tolerance
+test,48,61.0,733.0,Turkey ,2006.0,exact_or_tolerance
+test,49,19.0,244.0,Turkey,2016.0,nearest_ge4of7
+test,50,144.0,1895.0,Portugal,2015.0,exact_or_tolerance
+test,51,135.0,1665.0,USA,2022.0,exact_or_tolerance
+test,52,139.0,1735.0,USA,2019.0,exact_or_tolerance
+test,53,21.0,280.0,Turkey,2016.0,exact_or_tolerance
+test,54,153.0,2024.0,Korea,2019.0,exact_or_tolerance
+test,55,123.0,1534.0,China ,2023.0,exact_or_tolerance
+test,56,53.0,620.0,Malaysia,2010.0,exact_or_tolerance
+test,57,30.0,393.0,China,2021.0,exact_or_tolerance
+test,58,134.0,1643.0,China,2020.0,nearest_ge4of7
+test,59,48.0,555.0,India ,2018.0,exact_or_tolerance
+test,60,76.0,947.0,Turkey,2008.0,exact_or_tolerance
+test,61,144.0,1860.0,Portugal,2015.0,exact_or_tolerance
+test,62,66.0,833.0,Turkey,2010.0,exact_or_tolerance
+test,63,48.0,564.0,India ,2018.0,exact_or_tolerance
+test,64,67.0,840.0,USA,2015.0,exact_or_tolerance
+test,65,120.0,1434.0,China,2018.0,exact_or_tolerance
+test,66,54.0,646.0,China ,2017.0,exact_or_tolerance
+test,67,26.0,356.0,Malaysia,2024.0,exact_or_tolerance
+test,68,142.0,1837.0,China,2018.0,exact_or_tolerance
+test,69,65.0,803.0,Turkey,2008.0,exact_or_tolerance
+test,70,119.0,1431.0, Brazil,2011.0,exact_or_tolerance
+test,71,26.0,347.0,Malaysia,2024.0,exact_or_tolerance
+test,72,135.0,1667.0,USA,2022.0,exact_or_tolerance
+test,73,153.0,2027.0,Korea,2019.0,exact_or_tolerance
+test,74,144.0,1874.0,Portugal,2015.0,exact_or_tolerance
+test,75,24.0,308.0,Korea,2017.0,exact_or_tolerance
+test,76,74.0,928.0,China  ,2021.0,exact_or_tolerance
+test,77,150.0,2000.0,China,2019.0,exact_or_tolerance
+test,78,160.0,2123.0,China,2024.0,exact_or_tolerance
+test,79,48.0,509.0,India ,2018.0,exact_or_tolerance
+test,80,54.0,624.0,China ,2017.0,exact_or_tolerance
+test,81,85.0,1091.0,China ,2016.0,exact_or_tolerance
+test,82,148.0,1991.0,China,2023.0,exact_or_tolerance
+test,83,25.0,329.0,China,2017.0,exact_or_tolerance
+test,84,137.0,1697.0,USA ,2022.0,exact_or_tolerance
+test,85,85.0,1073.0,China ,2016.0,exact_or_tolerance
+test,86,42.0,465.0,China ,2015.0,exact_or_tolerance
+test,87,7.0,113.0,USA,2011.0,exact_or_tolerance
+test,88,122.0,1533.0, China,2019.0,exact_or_tolerance
+test,89,5.0,67.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,90,16.0,193.0,USA,2018.0,exact_or_tolerance
+test,91,62.0,737.0,China  ,2013.0,exact_or_tolerance
+test,92,159.0,2111.0,China,2018.0,exact_or_tolerance
+test,93,26.0,336.0,Malaysia,2024.0,exact_or_tolerance
+test,94,3.0,31.0,China,2024.0,exact_or_tolerance
+test,95,24.0,302.0,Korea,2017.0,exact_or_tolerance
+test,96,74.0,921.0,China  ,2021.0,exact_or_tolerance
+test,97,6.0,101.0,France,2008.0,exact_or_tolerance
+test,98,144.0,1853.0,Portugal,2015.0,exact_or_tolerance
+test,99,70.0,866.0,China,2021.0,exact_or_tolerance
+test,100,86.0,1097.0,Netherlands,2010.0,exact_or_tolerance
+test,101,107.0,1301.0,China,2024.0,exact_or_tolerance
+test,102,21.0,279.0,Turkey,2016.0,exact_or_tolerance
+test,103,85.0,1084.0,China ,2016.0,exact_or_tolerance
+test,104,116.0,1385.0,China,2021.0,exact_or_tolerance
+test,105,121.0,1489.0,USA,2024.0,exact_or_tolerance
+test,106,54.0,636.0,China ,2017.0,exact_or_tolerance
+test,107,27.0,358.0,China,2017.0,exact_or_tolerance
+test,108,146.0,1971.0,China,2022.0,exact_or_tolerance
+test,109,21.0,256.0,Turkey,2016.0,exact_or_tolerance
+test,110,65.0,814.0,Turkey,2008.0,exact_or_tolerance
+test,111,26.0,349.0,Malaysia,2024.0,exact_or_tolerance
+test,112,121.0,1457.0,USA,2024.0,exact_or_tolerance
+test,113,160.0,2119.0,China,2024.0,exact_or_tolerance
+test,114,10.0,122.0,Australia,2021.0,exact_or_tolerance
+test,115,19.0,238.0,Turkey,2016.0,exact_or_tolerance
+test,116,135.0,1649.0,USA,2022.0,exact_or_tolerance
+test,117,48.0,505.0,India ,2018.0,exact_or_tolerance
+test,118,144.0,1884.0,Portugal,2015.0,exact_or_tolerance
+test,119,37.0,432.0,Italy,2020.0,exact_or_tolerance
+test,120,136.0,1691.0,USA,2011.0,exact_or_tolerance
+test,121,48.0,545.0,India ,2018.0,exact_or_tolerance
+test,122,139.0,1745.0,USA,2019.0,exact_or_tolerance
+test,123,85.0,1069.0,China ,2016.0,exact_or_tolerance
+test,124,121.0,1472.0,USA,2024.0,exact_or_tolerance
+test,125,85.0,1063.0,China ,2016.0,exact_or_tolerance
+test,126,19.0,236.0,Turkey,2016.0,exact_or_tolerance
+test,127,160.0,2121.0,China,2024.0,exact_or_tolerance
+test,128,110.0,1329.0,China,2008.0,exact_or_tolerance
+test,129,7.0,111.0,USA,2011.0,exact_or_tolerance
+test,130,36.0,429.0,Iran,2020.0,exact_or_tolerance
+test,131,13.0,140.0, Saudi Arabia,2015.0,exact_or_tolerance
+test,132,56.0,656.0,China,2017.0,exact_or_tolerance
+test,133,70.0,878.0,China,2021.0,exact_or_tolerance
+test,134,81.0,1005.0,China,2019.0,exact_or_tolerance
+test,135,23.0,294.0,Korea,2019.0,exact_or_tolerance
+test,136,73.0,918.0,Canada,2017.0,exact_or_tolerance
+test,137,58.0,674.0,Netherlands,2013.0,exact_or_tolerance
+test,138,108.0,1307.0,China,2019.0,exact_or_tolerance
+test,139,155.0,2062.0,Malaysia ,2020.0,exact_or_tolerance
+test,140,136.0,1693.0,USA,2011.0,exact_or_tolerance
+test,141,85.0,1033.0,China ,2016.0,exact_or_tolerance
+test,142,144.0,1914.0,Portugal,2015.0,exact_or_tolerance
+test,143,168.0,2180.0,China,2019.0,exact_or_tolerance
+test,144,19.0,242.0,Turkey,2016.0,exact_or_tolerance
+test,145,39.0,452.0,Portugal ,2020.0,exact_or_tolerance
+test,146,121.0,1456.0,USA,2024.0,exact_or_tolerance
+test,147,30.0,391.0,China,2021.0,exact_or_tolerance
+test,148,168.0,2178.0,China,2019.0,exact_or_tolerance
+test,149,101.0,1235.0,Canada ,2017.0,exact_or_tolerance
+test,150,116.0,1400.0,China,2021.0,exact_or_tolerance
+test,151,144.0,1899.0,Portugal,2015.0,exact_or_tolerance
+test,152,26.0,355.0,Malaysia,2024.0,exact_or_tolerance
+test,153,165.0,2163.0,Saudi Arabia,2018.0,exact_or_tolerance
+test,154,62.0,736.0,China  ,2013.0,exact_or_tolerance
+test,155,18.0,215.0,China,2019.0,exact_or_tolerance
+test,156,61.0,710.0,Turkey ,2006.0,exact_or_tolerance
+test,157,156.0,2086.0,Malaysia,2014.0,nearest_ge4of7
+test,158,98.0,1180.0,China,2021.0,nearest_ge4of7
+test,159,121.0,1498.0,USA,2024.0,exact_or_tolerance
+test,160,48.0,506.0,India ,2018.0,exact_or_tolerance
+test,161,144.0,1904.0,Portugal,2015.0,exact_or_tolerance
+test,162,110.0,1327.0,China,2008.0,exact_or_tolerance
+test,163,54.0,643.0,China ,2017.0,exact_or_tolerance
+test,164,165.0,2162.0,Saudi Arabia,2018.0,exact_or_tolerance
+test,165,24.0,303.0,Korea,2017.0,exact_or_tolerance
+test,166,3.0,25.0,China,2024.0,exact_or_tolerance
+test,167,150.0,2001.0,China,2019.0,exact_or_tolerance
+test,168,5.0,65.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,169,21.0,275.0,Turkey,2016.0,exact_or_tolerance
+test,170,66.0,836.0,Turkey,2010.0,exact_or_tolerance
+test,171,93.0,1155.0,China,2020.0,exact_or_tolerance
+test,172,141.0,1824.0,China,2015.0,exact_or_tolerance
+test,173,25.0,321.0,China,2017.0,exact_or_tolerance
+test,174,150.0,2002.0,China,2019.0,exact_or_tolerance
+test,175,156.0,2088.0,Malaysia,2014.0,nearest_ge4of7
+test,176,144.0,1951.0,Portugal,2015.0,exact_or_tolerance
+test,177,30.0,392.0,China,2021.0,exact_or_tolerance
+test,178,85.0,1034.0,China ,2016.0,exact_or_tolerance
+test,179,115.0,1384.0,India,2015.0,exact_or_tolerance
+test,180,6.0,102.0,France,2008.0,exact_or_tolerance
+test,181,27.0,357.0,China,2017.0,exact_or_tolerance
+test,182,161.0,2127.0,USA,2019.0,exact_or_tolerance
+test,183,116.0,1386.0,China,2021.0,exact_or_tolerance
+test,184,99.0,1198.0,China,2018.0,exact_or_tolerance
+test,185,106.0,1284.0,Croatia,2023.0,exact_or_tolerance
+test,186,65.0,792.0,Turkey,2008.0,exact_or_tolerance
+test,187,50.0,598.0,Iran ,2018.0,exact_or_tolerance
+test,188,70.0,871.0,China,2021.0,exact_or_tolerance
+test,189,90.0,1128.0,Germany,2014.0,exact_or_tolerance
+test,190,21.0,259.0,Turkey,2016.0,exact_or_tolerance
+test,191,160.0,2116.0,China,2024.0,exact_or_tolerance
+test,192,144.0,1938.0,Portugal,2015.0,exact_or_tolerance
+test,193,8.0,117.0,Lithuania,2014.0,exact_or_tolerance
+test,194,52.0,609.0,China,2017.0,exact_or_tolerance
+test,195,156.0,2089.0,Malaysia,2014.0,nearest_ge4of7
+test,196,139.0,1736.0,USA,2019.0,exact_or_tolerance
+test,197,54.0,640.0,China ,2017.0,exact_or_tolerance
+test,198,141.0,1788.0,China,2015.0,exact_or_tolerance
+test,199,66.0,818.0,Turkey,2010.0,exact_or_tolerance
+test,200,85.0,1075.0,China ,2016.0,exact_or_tolerance
+test,201,29.0,377.0,Korea,2017.0,exact_or_tolerance
+test,202,139.0,1715.0,USA,2019.0,exact_or_tolerance
+test,203,121.0,1511.0,USA,2024.0,exact_or_tolerance
+test,204,15.0,178.0,USA,2017.0,exact_or_tolerance
+test,205,135.0,1676.0,USA,2022.0,exact_or_tolerance
+test,206,114.0,1374.0,Vietnam,2017.0,exact_or_tolerance
+test,207,139.0,1717.0,USA,2019.0,exact_or_tolerance
+test,208,114.0,1377.0,Vietnam,2017.0,exact_or_tolerance
+test,209,48.0,544.0,India ,2018.0,exact_or_tolerance
+test,210,48.0,533.0,India ,2018.0,exact_or_tolerance
+test,211,85.0,1085.0,China ,2016.0,exact_or_tolerance
+test,212,134.0,1624.0,China,2020.0,nearest_ge4of7
+test,213,3.0,34.0,China,2024.0,exact_or_tolerance
+test,214,107.0,1296.0,China,2024.0,exact_or_tolerance
+test,215,46.0,490.0,Iran,2018.0,exact_or_tolerance
+test,216,139.0,1719.0,USA,2019.0,exact_or_tolerance
+test,217,53.0,616.0,Malaysia,2010.0,exact_or_tolerance
+test,218,10.0,126.0,Australia,2021.0,nearest_ge4of7
+test,219,63.0,769.0,USA,2016.0,exact_or_tolerance
+test,220,14.0,168.0,Pakistan,2014.0,exact_or_tolerance
+test,221,17.0,208.0,China ,2015.0,exact_or_tolerance
+test,222,125.0,1561.0,USA,2016.0,nearest_ge4of7
+test,223,61.0,729.0,Turkey ,2006.0,exact_or_tolerance
+test,224,153.0,2052.0,Korea,2019.0,exact_or_tolerance
+test,225,136.0,1692.0,USA,2011.0,exact_or_tolerance
+test,226,4.0,51.0,Canada,2016.0,exact_or_tolerance
+test,227,42.0,464.0,China ,2015.0,exact_or_tolerance
+test,228,122.0,1523.0, China,2019.0,exact_or_tolerance
+test,229,77.0,964.0,China,2010.0,exact_or_tolerance
+test,230,135.0,1671.0,USA,2022.0,exact_or_tolerance
+test,231,85.0,1092.0,China ,2016.0,exact_or_tolerance
+test,232,69.0,857.0,Canada ,2016.0,exact_or_tolerance
+test,233,121.0,1468.0,USA,2024.0,exact_or_tolerance
+test,234,135.0,1651.0,USA,2022.0,exact_or_tolerance
+test,235,134.0,1642.0,China,2020.0,nearest_ge4of7
+test,236,48.0,521.0,India ,2018.0,exact_or_tolerance
+test,237,40.0,459.0,USA ,2007.0,nearest_ge4of7
+test,238,121.0,1481.0,USA,2024.0,exact_or_tolerance
+test,239,18.0,223.0,China,2019.0,exact_or_tolerance
+test,240,53.0,622.0,Malaysia,2010.0,exact_or_tolerance
+test,241,99.0,1201.0,China,2018.0,exact_or_tolerance
+test,242,121.0,1438.0,USA,2024.0,exact_or_tolerance
+test,243,85.0,1079.0,China ,2016.0,exact_or_tolerance
+test,244,121.0,1446.0,USA,2024.0,exact_or_tolerance
+test,245,163.0,2153.0,China,2019.0,exact_or_tolerance
+test,246,18.0,225.0,China,2019.0,nearest_ge4of7
+test,247,65.0,800.0,Turkey,2008.0,nearest_ge4of7
+test,248,156.0,2082.0,Malaysia,2014.0,nearest_ge4of7
+test,249,5.0,80.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,250,5.0,61.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,251,63.0,760.0,USA,2016.0,exact_or_tolerance
+test,252,29.0,376.0,Korea,2017.0,exact_or_tolerance
+test,253,139.0,1721.0,USA,2019.0,exact_or_tolerance
+test,254,168.0,2175.0,China,2019.0,exact_or_tolerance
+test,255,85.0,1078.0,China ,2016.0,exact_or_tolerance
+test,256,5.0,75.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,257,14.0,167.0,Pakistan,2014.0,exact_or_tolerance
+test,258,153.0,2026.0,Korea,2019.0,exact_or_tolerance
+test,259,69.0,861.0,Canada ,2016.0,exact_or_tolerance
+test,260,139.0,1755.0,USA,2019.0,nearest_ge4of7
+test,261,85.0,1090.0,China ,2016.0,exact_or_tolerance
+test,262,49.0,581.0,China,2019.0,exact_or_tolerance
+test,263,29.0,375.0,Korea,2017.0,exact_or_tolerance
+test,264,4.0,47.0,Canada,2016.0,exact_or_tolerance
+test,265,128.0,1585.0,Korea,2016.0,exact_or_tolerance
+test,266,82.0,1011.0,Portugal,2012.0,exact_or_tolerance
+test,267,54.0,644.0,China ,2017.0,exact_or_tolerance
+test,268,5.0,78.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,269,158.0,2106.0,China,2024.0,nearest_ge4of7
+test,270,130.0,1590.0,China ,2018.0,exact_or_tolerance
+test,271,48.0,570.0,India ,2018.0,exact_or_tolerance
+test,272,7.0,109.0,USA,2011.0,nearest_ge4of7
+test,273,34.0,412.0, UK,2008.0,exact_or_tolerance
+test,274,141.0,1778.0,China,2015.0,exact_or_tolerance
+test,275,66.0,830.0,Turkey,2010.0,exact_or_tolerance
+test,276,3.0,32.0,China,2024.0,exact_or_tolerance
+test,277,94.0,1161.0, China,2019.0,exact_or_tolerance
+test,278,141.0,1793.0,China,2015.0,exact_or_tolerance
+test,279,77.0,962.0,China,2010.0,exact_or_tolerance
+test,280,65.0,815.0,Turkey,2008.0,exact_or_tolerance
+test,281,144.0,1856.0,Portugal,2015.0,exact_or_tolerance
+test,282,121.0,1441.0,USA,2024.0,exact_or_tolerance
+test,283,135.0,1677.0,USA,2022.0,exact_or_tolerance
+test,284,144.0,1941.0,Portugal,2015.0,exact_or_tolerance
+test,285,139.0,1726.0,USA,2019.0,exact_or_tolerance
+test,286,138.0,1700.0,China,2020.0,exact_or_tolerance
+test,287,4.0,46.0,Canada,2016.0,exact_or_tolerance
+test,288,93.0,1153.0,China,2020.0,exact_or_tolerance
+test,289,14.0,173.0,Pakistan,2014.0,exact_or_tolerance
+test,290,139.0,1734.0,USA,2019.0,nearest_ge4of7
+test,291,47.0,497.0,Saudi Arabia,2018.0,exact_or_tolerance
+test,292,159.0,2113.0,China,2018.0,exact_or_tolerance
+test,293,50.0,596.0,Iran ,2018.0,exact_or_tolerance
+test,294,121.0,1497.0,USA,2024.0,exact_or_tolerance
+test,295,123.0,1544.0,China ,2023.0,exact_or_tolerance
+test,296,123.0,1539.0,China ,2023.0,exact_or_tolerance
+test,297,75.0,932.0,China,2021.0,exact_or_tolerance
+test,298,134.0,1631.0,China,2020.0,nearest_ge4of7
+test,299,24.0,310.0,Korea,2017.0,exact_or_tolerance
+test,300,24.0,311.0,Korea,2017.0,exact_or_tolerance
+test,301,121.0,1462.0,USA,2024.0,exact_or_tolerance
+test,302,15.0,190.0,USA,2017.0,exact_or_tolerance
+test,303,54.0,625.0,China ,2017.0,exact_or_tolerance
+test,304,125.0,1569.0,USA,2016.0,exact_or_tolerance
+test,305,44.0,479.0,China,2020.0,exact_or_tolerance
+test,306,76.0,951.0,Turkey,2008.0,exact_or_tolerance
+test,307,98.0,1181.0,China,2021.0,nearest_ge4of7
+test,308,85.0,1047.0,China ,2016.0,exact_or_tolerance
+test,309,139.0,1727.0,USA,2019.0,exact_or_tolerance
+test,310,134.0,1641.0,China,2020.0,nearest_ge4of7
+test,311,121.0,1473.0,USA,2024.0,exact_or_tolerance
+test,312,77.0,973.0,China,2010.0,exact_or_tolerance
+test,313,122.0,1531.0, China,2019.0,exact_or_tolerance
+test,314,39.0,453.0,Portugal ,2020.0,exact_or_tolerance
+test,315,139.0,1737.0,USA,2019.0,exact_or_tolerance
+test,316,10.0,125.0,Australia,2021.0,exact_or_tolerance
+test,317,27.0,359.0,China,2017.0,exact_or_tolerance
+test,318,121.0,1505.0,USA,2024.0,exact_or_tolerance
+test,319,139.0,1742.0,USA,2019.0,exact_or_tolerance
+test,320,85.0,1048.0,China ,2016.0,exact_or_tolerance
+test,321,121.0,1487.0,USA,2024.0,exact_or_tolerance
+test,322,28.0,366.0,Korea,2013.0,exact_or_tolerance
+test,323,16.0,199.0,USA,2018.0,exact_or_tolerance
+test,324,144.0,1864.0,Portugal,2015.0,exact_or_tolerance
+test,325,37.0,434.0,Italy,2020.0,exact_or_tolerance
+test,326,144.0,1961.0,Portugal,2015.0,exact_or_tolerance
+test,327,25.0,327.0,China,2017.0,exact_or_tolerance
+test,328,104.0,1273.0,China,2012.0,nearest_ge4of7
+test,329,21.0,271.0,Turkey,2016.0,exact_or_tolerance
+test,330,124.0,1550.0,India ,2018.0,exact_or_tolerance
+test,331,5.0,69.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,332,76.0,948.0,Turkey,2008.0,exact_or_tolerance
+test,333,48.0,540.0,India ,2018.0,exact_or_tolerance
+test,334,161.0,2126.0,USA,2019.0,exact_or_tolerance
+test,335,65.0,789.0,Turkey,2008.0,exact_or_tolerance
+test,336,38.0,438.0,Turkey,2020.0,exact_or_tolerance
+test,337,122.0,1519.0, China,2019.0,exact_or_tolerance
+test,338,46.0,488.0,Iran,2018.0,exact_or_tolerance
+test,339,77.0,966.0,China,2010.0,exact_or_tolerance
+test,340,70.0,891.0,China,2021.0,exact_or_tolerance
+test,341,144.0,1882.0,Portugal,2015.0,exact_or_tolerance
+test,342,140.0,1760.0,China,2019.0,exact_or_tolerance
+test,343,61.0,713.0,Turkey ,2006.0,exact_or_tolerance
+test,344,121.0,1493.0,USA,2024.0,exact_or_tolerance
+test,345,48.0,508.0,India ,2018.0,exact_or_tolerance
+test,346,151.0,2009.0,China,2017.0,exact_or_tolerance
+test,347,139.0,1706.0,USA,2019.0,nearest_ge4of7
+test,348,142.0,1843.0,China,2018.0,exact_or_tolerance
+test,349,144.0,1876.0,Portugal,2015.0,exact_or_tolerance
+test,350,121.0,1445.0,USA,2024.0,exact_or_tolerance
+test,351,117.0,1421.0,China,2025.0,nearest_ge4of7
+test,352,168.0,2181.0,China,2019.0,exact_or_tolerance
+test,353,54.0,637.0,China ,2017.0,exact_or_tolerance
+test,354,73.0,916.0,Canada,2017.0,exact_or_tolerance
+test,355,21.0,266.0,Turkey,2016.0,exact_or_tolerance
+test,356,77.0,963.0,China,2010.0,exact_or_tolerance
+test,357,20.0,245.0,China,2019.0,exact_or_tolerance
+test,358,101.0,1224.0,Canada ,2017.0,exact_or_tolerance
+test,359,61.0,709.0,Turkey ,2006.0,exact_or_tolerance
+test,360,168.0,2174.0,China,2019.0,exact_or_tolerance
+test,361,93.0,1156.0,China,2020.0,exact_or_tolerance
+test,362,85.0,1053.0,China ,2016.0,exact_or_tolerance
+test,363,121.0,1515.0,USA,2024.0,exact_or_tolerance
+test,364,49.0,578.0,China,2019.0,exact_or_tolerance
+test,365,85.0,1072.0,China ,2016.0,exact_or_tolerance
+test,366,141.0,1814.0,China,2015.0,exact_or_tolerance
+test,367,138.0,1705.0,China,2020.0,exact_or_tolerance
+test,368,5.0,73.0,Saudi Arabia,2014.0,exact_or_tolerance
+test,369,52.0,614.0,China,2017.0,exact_or_tolerance
+test,370,21.0,264.0,Turkey,2016.0,exact_or_tolerance
+test,371,4.0,53.0,Canada,2016.0,exact_or_tolerance
+test,372,84.0,1022.0,China,2017.0,exact_or_tolerance
+test,373,34.0,408.0, UK,2008.0,exact_or_tolerance
+test,374,54.0,635.0,China ,2017.0,exact_or_tolerance
+test,375,26.0,337.0,Malaysia,2024.0,exact_or_tolerance
+test,376,121.0,1467.0,USA,2024.0,exact_or_tolerance
+test,377,135.0,1685.0,USA,2022.0,exact_or_tolerance
+test,378,107.0,1295.0,China,2024.0,exact_or_tolerance
+test,379,63.0,774.0,USA,2016.0,exact_or_tolerance
+test,380,149.0,1996.0,Singapore,2021.0,exact_or_tolerance
+test,381,73.0,902.0,Canada,2017.0,exact_or_tolerance
+test,382,48.0,561.0,India ,2018.0,exact_or_tolerance
+test,383,139.0,1720.0,USA,2019.0,exact_or_tolerance
+test,384,48.0,556.0,India ,2018.0,exact_or_tolerance
+test,385,54.0,639.0,China ,2017.0,exact_or_tolerance
+test,386,49.0,580.0,China,2019.0,exact_or_tolerance

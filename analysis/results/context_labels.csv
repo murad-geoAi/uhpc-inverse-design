@@ -1,0 +1,1931 @@
+row,fibre,curing,scm,strength_bin
+0,no fibre,standard/ambient,fly ash,<110
+1,steel,standard/ambient,quartz powder,170-190
+2,steel,standard/ambient,silica fume,130-150
+3,no fibre,standard/ambient,fly ash,<110
+4,steel,heat/steam/autoclave,steel slag,>190
+5,steel,standard/ambient,fly ash,150-170
+6,no fibre,standard/ambient,silica fume,110-130
+7,steel,standard/ambient,limestone,150-170
+8,steel,standard/ambient,fly ash,150-170
+9,steel,standard/ambient,silica fume,>190
+10,steel,standard/ambient,silica fume,130-150
+11,no fibre,standard/ambient,fly ash,110-130
+12,steel,standard/ambient,silica fume,130-150
+13,steel,standard/ambient,silica fume,110-130
+14,no fibre,standard/ambient,silica fume,110-130
+15,steel,heat/steam/autoclave,silica fume,170-190
+16,no fibre,heat/steam/autoclave,silica fume,130-150
+17,steel,heat/steam/autoclave,silica fume,170-190
+18,steel,heat/steam/autoclave,silica fume,130-150
+19,steel,heat/steam/autoclave,silica fume,110-130
+20,steel,heat/steam/autoclave,quartz powder,>190
+21,steel,standard/ambient,silica fume,110-130
+22,no fibre,standard/ambient,fly ash,<110
+23,steel,heat/steam/autoclave,silica fume,150-170
+24,no fibre,heat/steam/autoclave,silica fume,130-150
+25,steel,standard/ambient,fly ash,>190
+26,steel,heat/steam/autoclave,fly ash,>190
+27,no fibre,heat/steam/autoclave,glass powder,170-190
+28,no fibre,heat/steam/autoclave,silica fume,130-150
+29,steel,standard/ambient,limestone,150-170
+30,steel,standard/ambient,silica fume,>190
+31,no fibre,standard/ambient,quartz powder,170-190
+32,steel,standard/ambient,GGBFS,130-150
+33,steel,standard/ambient,quartz powder,170-190
+34,steel,standard/ambient,fly ash,110-130
+35,steel,heat/steam/autoclave,silica fume,150-170
+36,steel,heat/steam/autoclave,silica fume,>190
+37,no fibre,standard/ambient,silica fume,<110
+38,steel,standard/ambient,silica fume,<110
+39,steel,standard/ambient,silica fume,150-170
+40,steel,standard/ambient,fly ash,110-130
+41,no fibre,standard/ambient,quartz powder,150-170
+42,steel,heat/steam/autoclave,silica fume,150-170
+43,steel,standard/ambient,silica fume,150-170
+44,steel,heat/steam/autoclave,silica fume,170-190
+45,synthetic,standard/ambient,silica fume,150-170
+46,steel,heat/steam/autoclave,silica fume,150-170
+47,steel,standard/ambient,quartz powder,130-150
+48,steel,heat/steam/autoclave,silica fume,150-170
+49,no fibre,standard/ambient,fly ash,<110
+50,steel,heat/steam/autoclave,fly ash,130-150
+51,no fibre,standard/ambient,silica fume,<110
+52,steel,heat/steam/autoclave,silica fume,110-130
+53,steel,standard/ambient,GGBFS,<110
+54,no fibre,standard/ambient,limestone,130-150
+55,no fibre,standard/ambient,silica fume,110-130
+56,steel,standard/ambient,GGBFS,130-150
+57,steel,heat/steam/autoclave,steel slag,170-190
+58,steel,standard/ambient,none,<110
+59,steel,heat/steam/autoclave,silica fume,110-130
+60,no fibre,standard/ambient,GGBFS,130-150
+61,steel,standard/ambient,quartz powder,150-170
+62,steel,heat/steam/autoclave,silica fume,>190
+63,steel,heat/steam/autoclave,steel slag,170-190
+64,no fibre,standard/ambient,steel slag,<110
+65,steel,heat/steam/autoclave,silica fume,>190
+66,steel,heat/steam/autoclave,silica fume,110-130
+67,steel,heat/steam/autoclave,glass powder,130-150
+68,no fibre,heat/steam/autoclave,silica fume,130-150
+69,no fibre,standard/ambient,silica fume,<110
+70,steel,standard/ambient,silica fume,110-130
+71,steel,heat/steam/autoclave,quartz powder,170-190
+72,no fibre,standard/ambient,quartz powder,150-170
+73,no fibre,heat/steam/autoclave,quartz powder,170-190
+74,steel,heat/steam/autoclave,glass powder,150-170
+75,steel,standard/ambient,quartz powder,130-150
+76,no fibre,standard/ambient,silica fume,110-130
+77,no fibre,standard/ambient,silica fume,130-150
+78,steel,heat/steam/autoclave,fly ash,170-190
+79,steel,heat/steam/autoclave,quartz powder,150-170
+80,steel,standard/ambient,quartz powder,150-170
+81,steel,heat/steam/autoclave,quartz powder,170-190
+82,steel,heat/steam/autoclave,silica fume,150-170
+83,no fibre,standard/ambient,silica fume,110-130
+84,no fibre,standard/ambient,glass powder,>190
+85,no fibre,standard/ambient,silica fume,110-130
+86,steel,standard/ambient,fly ash,130-150
+87,steel,heat/steam/autoclave,silica fume,150-170
+88,no fibre,standard/ambient,quartz powder,170-190
+89,no fibre,standard/ambient,silica fume,110-130
+90,no fibre,standard/ambient,fly ash,110-130
+91,steel,standard/ambient,fly ash,<110
+92,no fibre,standard/ambient,limestone,<110
+93,steel,standard/ambient,silica fume,170-190
+94,steel,heat/steam/autoclave,silica fume,>190
+95,no fibre,standard/ambient,silica fume,110-130
+96,steel,standard/ambient,fly ash,130-150
+97,steel,standard/ambient,metakaolin,110-130
+98,steel,heat/steam/autoclave,silica fume,150-170
+99,no fibre,standard/ambient,silica fume,110-130
+100,steel,standard/ambient,silica fume,170-190
+101,steel,standard/ambient,quartz powder,130-150
+102,steel,standard/ambient,GGBFS,130-150
+103,no fibre,standard/ambient,quartz powder,150-170
+104,no fibre,heat/steam/autoclave,silica fume,110-130
+105,steel,standard/ambient,GGBFS,110-130
+106,steel,heat/steam/autoclave,silica fume,150-170
+107,no fibre,standard/ambient,metakaolin,110-130
+108,steel,standard/ambient,limestone,<110
+109,steel,standard/ambient,silica fume,110-130
+110,steel,standard/ambient,silica fume,150-170
+111,no fibre,standard/ambient,silica fume,<110
+112,steel,standard/ambient,glass powder,>190
+113,no fibre,standard/ambient,quartz powder,<110
+114,no fibre,standard/ambient,limestone,<110
+115,steel,heat/steam/autoclave,silica fume,130-150
+116,steel,heat/steam/autoclave,silica fume,130-150
+117,steel,heat/steam/autoclave,quartz powder,130-150
+118,steel,standard/ambient,fly ash,110-130
+119,steel,standard/ambient,silica fume,<110
+120,no fibre,standard/ambient,quartz powder,110-130
+121,steel,heat/steam/autoclave,quartz powder,130-150
+122,no fibre,standard/ambient,silica fume,170-190
+123,steel,heat/steam/autoclave,silica fume,170-190
+124,steel,standard/ambient,GGBFS,110-130
+125,no fibre,standard/ambient,glass powder,170-190
+126,steel,standard/ambient,quartz powder,<110
+127,steel,standard/ambient,silica fume,170-190
+128,steel,heat/steam/autoclave,silica fume,>190
+129,no fibre,standard/ambient,silica fume,170-190
+130,steel,standard/ambient,silica fume,150-170
+131,steel,heat/steam/autoclave,quartz powder,>190
+132,steel,standard/ambient,silica fume,110-130
+133,no fibre,heat/steam/autoclave,silica fume,130-150
+134,steel,standard/ambient,silica fume,110-130
+135,no fibre,standard/ambient,silica fume,>190
+136,steel,heat/steam/autoclave,silica fume,>190
+137,steel,standard/ambient,steel slag,>190
+138,steel,standard/ambient,limestone,130-150
+139,steel,heat/steam/autoclave,silica fume,150-170
+140,steel,heat/steam/autoclave,GGBFS,170-190
+141,steel,standard/ambient,GGBFS,>190
+142,steel,heat/steam/autoclave,silica fume,150-170
+143,steel,standard/ambient,fly ash,130-150
+144,no fibre,standard/ambient,silica fume,110-130
+145,no fibre,standard/ambient,fly ash,<110
+146,steel,standard/ambient,silica fume,150-170
+147,steel,standard/ambient,silica fume,130-150
+148,steel,standard/ambient,GGBFS,110-130
+149,no fibre,heat/steam/autoclave,quartz powder,>190
+150,steel,heat/steam/autoclave,silica fume,130-150
+151,steel,standard/ambient,silica fume,150-170
+152,steel,heat/steam/autoclave,quartz powder,>190
+153,steel,standard/ambient,steel slag,150-170
+154,steel,heat/steam/autoclave,quartz powder,>190
+155,steel,heat/steam/autoclave,silica fume,>190
+156,no fibre,standard/ambient,fly ash,110-130
+157,steel,heat/steam/autoclave,silica fume,110-130
+158,no fibre,heat/steam/autoclave,fly ash,130-150
+159,steel,heat/steam/autoclave,silica fume,>190
+160,steel,standard/ambient,silica fume,110-130
+161,steel,heat/steam/autoclave,silica fume,130-150
+162,no fibre,standard/ambient,none,<110
+163,no fibre,standard/ambient,silica fume,110-130
+164,steel,heat/steam/autoclave,silica fume,170-190
+165,steel,standard/ambient,silica fume,150-170
+166,no fibre,heat/steam/autoclave,quartz powder,150-170
+167,no fibre,heat/steam/autoclave,fly ash,150-170
+168,steel,standard/ambient,silica fume,130-150
+169,steel,heat/steam/autoclave,GGBFS,>190
+170,no fibre,standard/ambient,quartz powder,150-170
+171,steel,standard/ambient,silica fume,110-130
+172,steel,standard/ambient,fly ash,150-170
+173,no fibre,heat/steam/autoclave,silica fume,130-150
+174,steel,heat/steam/autoclave,GGBFS,>190
+175,steel,heat/steam/autoclave,quartz powder,150-170
+176,steel,standard/ambient,silica fume,170-190
+177,no fibre,standard/ambient,silica fume,<110
+178,steel,heat/steam/autoclave,fly ash,>190
+179,steel,standard/ambient,fly ash,<110
+180,steel,heat/steam/autoclave,quartz powder,130-150
+181,no fibre,heat/steam/autoclave,quartz powder,>190
+182,steel,heat/steam/autoclave,silica fume,>190
+183,steel,heat/steam/autoclave,silica fume,170-190
+184,steel,heat/steam/autoclave,silica fume,130-150
+185,steel,standard/ambient,fly ash,110-130
+186,steel,heat/steam/autoclave,fly ash,>190
+187,steel,heat/steam/autoclave,fly ash,170-190
+188,no fibre,heat/steam/autoclave,silica fume,130-150
+189,steel,standard/ambient,silica fume,>190
+190,steel,standard/ambient,silica fume,130-150
+191,steel,standard/ambient,GGBFS,110-130
+192,steel,standard/ambient,quartz powder,110-130
+193,steel,standard/ambient,fly ash,130-150
+194,no fibre,standard/ambient,silica fume,110-130
+195,steel,heat/steam/autoclave,fly ash,130-150
+196,steel,standard/ambient,silica fume,150-170
+197,steel,standard/ambient,silica fume,150-170
+198,steel,heat/steam/autoclave,silica fume,130-150
+199,no fibre,standard/ambient,silica fume,150-170
+200,steel,standard/ambient,steel slag,>190
+201,steel,standard/ambient,fly ash,<110
+202,no fibre,heat/steam/autoclave,silica fume,110-130
+203,steel,heat/steam/autoclave,silica fume,130-150
+204,steel,heat/steam/autoclave,silica fume,>190
+205,no fibre,standard/ambient,silica fume,130-150
+206,steel,standard/ambient,silica fume,130-150
+207,no fibre,standard/ambient,fly ash,110-130
+208,steel,heat/steam/autoclave,silica fume,170-190
+209,no fibre,standard/ambient,limestone,110-130
+210,steel,standard/ambient,silica fume,150-170
+211,steel,standard/ambient,quartz powder,170-190
+212,steel,heat/steam/autoclave,silica fume,150-170
+213,steel,standard/ambient,silica fume,130-150
+214,no fibre,heat/steam/autoclave,silica fume,110-130
+215,steel,heat/steam/autoclave,silica fume,150-170
+216,steel,heat/steam/autoclave,silica fume,150-170
+217,steel,heat/steam/autoclave,silica fume,170-190
+218,steel,standard/ambient,steel slag,170-190
+219,steel,standard/ambient,limestone,110-130
+220,steel,heat/steam/autoclave,silica fume,<110
+221,steel,heat/steam/autoclave,silica fume,130-150
+222,steel,standard/ambient,GGBFS,<110
+223,no fibre,heat/steam/autoclave,GGBFS,110-130
+224,steel,standard/ambient,silica fume,>190
+225,steel,heat/steam/autoclave,GGBFS,>190
+226,steel,standard/ambient,silica fume,150-170
+227,steel,heat/steam/autoclave,fly ash,>190
+228,steel,heat/steam/autoclave,fly ash,150-170
+229,steel,heat/steam/autoclave,silica fume,>190
+230,steel,heat/steam/autoclave,steel slag,>190
+231,steel,standard/ambient,silica fume,150-170
+232,steel,heat/steam/autoclave,silica fume,150-170
+233,steel,standard/ambient,glass powder,150-170
+234,steel,standard/ambient,silica fume,150-170
+235,no fibre,standard/ambient,fly ash,110-130
+236,no fibre,standard/ambient,quartz powder,110-130
+237,no fibre,standard/ambient,quartz powder,<110
+238,steel,heat/steam/autoclave,silica fume,150-170
+239,steel,standard/ambient,silica fume,130-150
+240,no fibre,standard/ambient,none,<110
+241,steel,standard/ambient,silica fume,150-170
+242,steel,standard/ambient,glass powder,<110
+243,steel,heat/steam/autoclave,silica fume,170-190
+244,steel,standard/ambient,limestone,130-150
+245,steel,standard/ambient,silica fume,170-190
+246,steel,standard/ambient,fly ash,150-170
+247,steel,heat/steam/autoclave,silica fume,170-190
+248,no fibre,heat/steam/autoclave,quartz powder,<110
+249,no fibre,standard/ambient,fly ash,110-130
+250,steel,standard/ambient,glass powder,>190
+251,no fibre,heat/steam/autoclave,silica fume,130-150
+252,no fibre,standard/ambient,none,110-130
+253,steel,heat/steam/autoclave,silica fume,130-150
+254,steel,standard/ambient,quartz powder,170-190
+255,no fibre,standard/ambient,silica fume,>190
+256,steel,standard/ambient,limestone,110-130
+257,no fibre,standard/ambient,metakaolin,<110
+258,steel,standard/ambient,glass powder,170-190
+259,no fibre,heat/steam/autoclave,silica fume,130-150
+260,steel,heat/steam/autoclave,silica fume,130-150
+261,steel,standard/ambient,quartz powder,110-130
+262,no fibre,heat/steam/autoclave,quartz powder,170-190
+263,steel,standard/ambient,quartz powder,110-130
+264,no fibre,standard/ambient,fly ash,<110
+265,steel,standard/ambient,silica fume,>190
+266,steel,heat/steam/autoclave,silica fume,130-150
+267,steel,standard/ambient,fly ash,110-130
+268,steel,standard/ambient,glass powder,>190
+269,no fibre,standard/ambient,metakaolin,<110
+270,no fibre,standard/ambient,silica fume,170-190
+271,steel,standard/ambient,fly ash,110-130
+272,steel,heat/steam/autoclave,silica fume,130-150
+273,steel,standard/ambient,GGBFS,<110
+274,no fibre,standard/ambient,glass powder,>190
+275,no fibre,standard/ambient,metakaolin,<110
+276,steel,standard/ambient,limestone,130-150
+277,no fibre,standard/ambient,silica fume,130-150
+278,no fibre,standard/ambient,glass powder,>190
+279,steel,standard/ambient,quartz powder,170-190
+280,steel,standard/ambient,GGBFS,110-130
+281,steel,standard/ambient,fly ash,110-130
+282,steel,heat/steam/autoclave,silica fume,130-150
+283,steel,heat/steam/autoclave,silica fume,>190
+284,steel,standard/ambient,silica fume,110-130
+285,steel,heat/steam/autoclave,silica fume,130-150
+286,steel,standard/ambient,GGBFS,130-150
+287,steel,standard/ambient,GGBFS,130-150
+288,steel,heat/steam/autoclave,glass powder,<110
+289,steel,heat/steam/autoclave,silica fume,>190
+290,no fibre,heat/steam/autoclave,silica fume,<110
+291,steel,heat/steam/autoclave,GGBFS,150-170
+292,no fibre,standard/ambient,metakaolin,<110
+293,no fibre,standard/ambient,silica fume,110-130
+294,no fibre,heat/steam/autoclave,fly ash,150-170
+295,steel,standard/ambient,silica fume,130-150
+296,no fibre,standard/ambient,silica fume,110-130
+297,steel,standard/ambient,quartz powder,150-170
+298,steel,standard/ambient,silica fume,110-130
+299,steel,heat/steam/autoclave,silica fume,>190
+300,no fibre,heat/steam/autoclave,silica fume,110-130
+301,no fibre,standard/ambient,silica fume,<110
+302,no fibre,heat/steam/autoclave,quartz powder,>190
+303,no fibre,standard/ambient,silica fume,110-130
+304,steel,heat/steam/autoclave,silica fume,>190
+305,steel,heat/steam/autoclave,silica fume,170-190
+306,no fibre,standard/ambient,silica fume,110-130
+307,steel,standard/ambient,silica fume,110-130
+308,no fibre,heat/steam/autoclave,glass powder,130-150
+309,steel,heat/steam/autoclave,silica fume,>190
+310,steel,standard/ambient,silica fume,>190
+311,no fibre,standard/ambient,quartz powder,>190
+312,steel,standard/ambient,silica fume,130-150
+313,steel,standard/ambient,silica fume,110-130
+314,steel,heat/steam/autoclave,silica fume,>190
+315,steel,standard/ambient,silica fume,150-170
+316,steel,heat/steam/autoclave,silica fume,150-170
+317,no fibre,heat/steam/autoclave,quartz powder,130-150
+318,steel,heat/steam/autoclave,silica fume,>190
+319,steel,heat/steam/autoclave,fly ash,<110
+320,steel,standard/ambient,silica fume,170-190
+321,steel,heat/steam/autoclave,fly ash,<110
+322,steel,heat/steam/autoclave,silica fume,130-150
+323,no fibre,standard/ambient,rice husk ash,170-190
+324,no fibre,heat/steam/autoclave,silica fume,130-150
+325,steel,heat/steam/autoclave,fly ash,<110
+326,steel,standard/ambient,fly ash,<110
+327,steel,heat/steam/autoclave,fly ash,130-150
+328,steel,heat/steam/autoclave,steel slag,170-190
+329,steel,heat/steam/autoclave,silica fume,150-170
+330,steel,standard/ambient,quartz powder,>190
+331,steel,heat/steam/autoclave,silica fume,>190
+332,no fibre,standard/ambient,quartz powder,170-190
+333,steel,standard/ambient,silica fume,130-150
+334,steel,heat/steam/autoclave,silica fume,130-150
+335,steel,standard/ambient,silica fume,130-150
+336,no fibre,standard/ambient,silica fume,130-150
+337,steel,heat/steam/autoclave,fly ash,>190
+338,steel,standard/ambient,GGBFS,<110
+339,steel,standard/ambient,fly ash,170-190
+340,steel,standard/ambient,fly ash,110-130
+341,steel,heat/steam/autoclave,silica fume,>190
+342,no fibre,standard/ambient,limestone,150-170
+343,no fibre,standard/ambient,fly ash,<110
+344,steel,heat/steam/autoclave,silica fume,130-150
+345,steel,heat/steam/autoclave,silica fume,>190
+346,steel,heat/steam/autoclave,quartz powder,150-170
+347,no fibre,heat/steam/autoclave,fly ash,150-170
+348,steel,heat/steam/autoclave,silica fume,>190
+349,no fibre,standard/ambient,silica fume,110-130
+350,no fibre,standard/ambient,silica fume,<110
+351,steel,heat/steam/autoclave,silica fume,110-130
+352,no fibre,standard/ambient,silica fume,110-130
+353,steel,standard/ambient,none,<110
+354,no fibre,standard/ambient,silica fume,110-130
+355,steel,heat/steam/autoclave,silica fume,150-170
+356,no fibre,heat/steam/autoclave,glass powder,110-130
+357,steel,heat/steam/autoclave,silica fume,150-170
+358,steel,standard/ambient,quartz powder,150-170
+359,steel,heat/steam/autoclave,silica fume,>190
+360,no fibre,standard/ambient,quartz powder,110-130
+361,steel,standard/ambient,silica fume,130-150
+362,steel,heat/steam/autoclave,silica fume,150-170
+363,steel,heat/steam/autoclave,quartz powder,>190
+364,steel,standard/ambient,silica fume,130-150
+365,steel,heat/steam/autoclave,silica fume,150-170
+366,steel,heat/steam/autoclave,quartz powder,>190
+367,no fibre,standard/ambient,fly ash,<110
+368,no fibre,heat/steam/autoclave,quartz powder,>190
+369,steel,standard/ambient,silica fume,170-190
+370,synthetic,standard/ambient,GGBFS,110-130
+371,steel,heat/steam/autoclave,silica fume,110-130
+372,no fibre,heat/steam/autoclave,fly ash,110-130
+373,steel,standard/ambient,GGBFS,150-170
+374,steel,standard/ambient,limestone,110-130
+375,no fibre,standard/ambient,silica fume,110-130
+376,steel,heat/steam/autoclave,silica fume,130-150
+377,steel,standard/ambient,silica fume,130-150
+378,steel,standard/ambient,silica fume,110-130
+379,steel,standard/ambient,fly ash,<110
+380,steel,standard/ambient,quartz powder,150-170
+381,steel,standard/ambient,silica fume,>190
+382,steel,standard/ambient,silica fume,130-150
+383,steel,heat/steam/autoclave,silica fume,130-150
+384,no fibre,standard/ambient,none,110-130
+385,no fibre,standard/ambient,quartz powder,130-150
+386,steel,standard/ambient,silica fume,130-150
+387,no fibre,standard/ambient,steel slag,<110
+388,steel,standard/ambient,silica fume,130-150
+389,no fibre,standard/ambient,silica fume,110-130
+390,steel,heat/steam/autoclave,quartz powder,>190
+391,steel,heat/steam/autoclave,steel slag,150-170
+392,steel,heat/steam/autoclave,silica fume,130-150
+393,steel,heat/steam/autoclave,fly ash,>190
+394,no fibre,standard/ambient,fly ash,<110
+395,steel,standard/ambient,silica fume,130-150
+396,steel,standard/ambient,silica fume,130-150
+397,no fibre,standard/ambient,GGBFS,110-130
+398,steel,standard/ambient,silica fume,>190
+399,steel,standard/ambient,silica fume,110-130
+400,steel,standard/ambient,glass powder,150-170
+401,no fibre,standard/ambient,quartz powder,150-170
+402,no fibre,standard/ambient,metakaolin,<110
+403,steel,heat/steam/autoclave,silica fume,170-190
+404,steel,standard/ambient,silica fume,130-150
+405,steel,heat/steam/autoclave,silica fume,>190
+406,steel,heat/steam/autoclave,fly ash,170-190
+407,steel,standard/ambient,silica fume,130-150
+408,steel,standard/ambient,silica fume,>190
+409,steel,standard/ambient,silica fume,110-130
+410,no fibre,standard/ambient,silica fume,<110
+411,steel,standard/ambient,silica fume,110-130
+412,steel,heat/steam/autoclave,steel slag,>190
+413,steel,standard/ambient,fly ash,130-150
+414,steel,standard/ambient,fly ash,130-150
+415,steel,standard/ambient,quartz powder,130-150
+416,steel,standard/ambient,quartz powder,>190
+417,steel,heat/steam/autoclave,silica fume,150-170
+418,no fibre,standard/ambient,quartz powder,130-150
+419,steel,heat/steam/autoclave,quartz powder,150-170
+420,steel,heat/steam/autoclave,silica fume,>190
+421,steel,standard/ambient,silica fume,110-130
+422,steel,standard/ambient,silica fume,110-130
+423,steel,heat/steam/autoclave,silica fume,150-170
+424,steel,heat/steam/autoclave,silica fume,130-150
+425,steel,standard/ambient,silica fume,>190
+426,no fibre,heat/steam/autoclave,silica fume,150-170
+427,steel,standard/ambient,silica fume,>190
+428,steel,heat/steam/autoclave,silica fume,170-190
+429,steel,heat/steam/autoclave,silica fume,130-150
+430,steel,standard/ambient,silica fume,150-170
+431,steel,standard/ambient,GGBFS,110-130
+432,steel,heat/steam/autoclave,silica fume,130-150
+433,no fibre,heat/steam/autoclave,GGBFS,110-130
+434,steel,standard/ambient,fly ash,110-130
+435,no fibre,standard/ambient,rice husk ash,130-150
+436,no fibre,standard/ambient,quartz powder,150-170
+437,steel,standard/ambient,glass powder,170-190
+438,no fibre,heat/steam/autoclave,silica fume,130-150
+439,steel,standard/ambient,silica fume,170-190
+440,steel,heat/steam/autoclave,silica fume,170-190
+441,steel,heat/steam/autoclave,quartz powder,170-190
+442,steel,heat/steam/autoclave,silica fume,130-150
+443,no fibre,heat/steam/autoclave,quartz powder,150-170
+444,no fibre,heat/steam/autoclave,GGBFS,150-170
+445,steel,standard/ambient,silica fume,130-150
+446,no fibre,standard/ambient,silica fume,<110
+447,steel,standard/ambient,fly ash,110-130
+448,no fibre,standard/ambient,silica fume,110-130
+449,steel,standard/ambient,silica fume,130-150
+450,no fibre,heat/steam/autoclave,glass powder,110-130
+451,no fibre,standard/ambient,quartz powder,150-170
+452,steel,heat/steam/autoclave,quartz powder,170-190
+453,steel,heat/steam/autoclave,GGBFS,170-190
+454,steel,heat/steam/autoclave,silica fume,130-150
+455,no fibre,heat/steam/autoclave,glass powder,150-170
+456,no fibre,heat/steam/autoclave,quartz powder,110-130
+457,steel,standard/ambient,fly ash,130-150
+458,no fibre,standard/ambient,quartz powder,110-130
+459,no fibre,standard/ambient,glass powder,150-170
+460,steel,standard/ambient,fly ash,<110
+461,steel,standard/ambient,silica fume,150-170
+462,steel,standard/ambient,silica fume,130-150
+463,steel,standard/ambient,fly ash,110-130
+464,steel,standard/ambient,GGBFS,<110
+465,steel,heat/steam/autoclave,quartz powder,170-190
+466,steel,heat/steam/autoclave,silica fume,170-190
+467,steel,heat/steam/autoclave,glass powder,130-150
+468,no fibre,standard/ambient,silica fume,130-150
+469,steel,standard/ambient,quartz powder,150-170
+470,steel,heat/steam/autoclave,fly ash,130-150
+471,steel,heat/steam/autoclave,silica fume,110-130
+472,no fibre,standard/ambient,quartz powder,130-150
+473,no fibre,heat/steam/autoclave,silica fume,130-150
+474,steel,standard/ambient,fly ash,110-130
+475,steel,standard/ambient,limestone,110-130
+476,steel,heat/steam/autoclave,silica fume,>190
+477,no fibre,standard/ambient,limestone,110-130
+478,steel,heat/steam/autoclave,silica fume,150-170
+479,steel,heat/steam/autoclave,silica fume,130-150
+480,no fibre,standard/ambient,silica fume,110-130
+481,steel,heat/steam/autoclave,silica fume,150-170
+482,steel,standard/ambient,fly ash,<110
+483,steel,standard/ambient,silica fume,>190
+484,steel,heat/steam/autoclave,silica fume,130-150
+485,steel,standard/ambient,limestone,110-130
+486,no fibre,heat/steam/autoclave,silica fume,130-150
+487,steel,heat/steam/autoclave,steel slag,130-150
+488,steel,standard/ambient,silica fume,150-170
+489,steel,heat/steam/autoclave,silica fume,150-170
+490,no fibre,heat/steam/autoclave,quartz powder,150-170
+491,no fibre,heat/steam/autoclave,quartz powder,150-170
+492,steel,standard/ambient,fly ash,110-130
+493,steel,heat/steam/autoclave,silica fume,>190
+494,no fibre,standard/ambient,silica fume,170-190
+495,no fibre,standard/ambient,silica fume,110-130
+496,steel,heat/steam/autoclave,silica fume,150-170
+497,steel,standard/ambient,GGBFS,110-130
+498,steel,standard/ambient,silica fume,130-150
+499,steel,standard/ambient,quartz powder,110-130
+500,steel,heat/steam/autoclave,silica fume,150-170
+501,no fibre,heat/steam/autoclave,silica fume,150-170
+502,steel,standard/ambient,silica fume,130-150
+503,steel,heat/steam/autoclave,fly ash,<110
+504,no fibre,heat/steam/autoclave,glass powder,130-150
+505,no fibre,heat/steam/autoclave,silica fume,130-150
+506,steel,standard/ambient,quartz powder,150-170
+507,steel,standard/ambient,GGBFS,110-130
+508,steel,standard/ambient,quartz powder,150-170
+509,steel,standard/ambient,quartz powder,130-150
+510,steel,heat/steam/autoclave,silica fume,150-170
+511,steel,standard/ambient,GGBFS,110-130
+512,steel,standard/ambient,quartz powder,110-130
+513,no fibre,standard/ambient,silica fume,110-130
+514,no fibre,heat/steam/autoclave,silica fume,170-190
+515,steel,standard/ambient,silica fume,150-170
+516,no fibre,standard/ambient,quartz powder,110-130
+517,steel,standard/ambient,silica fume,130-150
+518,no fibre,heat/steam/autoclave,silica fume,110-130
+519,steel,standard/ambient,silica fume,130-150
+520,steel,heat/steam/autoclave,GGBFS,>190
+521,steel,heat/steam/autoclave,silica fume,150-170
+522,steel,heat/steam/autoclave,steel slag,170-190
+523,steel,standard/ambient,silica fume,170-190
+524,no fibre,heat/steam/autoclave,silica fume,110-130
+525,steel,heat/steam/autoclave,silica fume,170-190
+526,steel,standard/ambient,fly ash,110-130
+527,no fibre,standard/ambient,silica fume,<110
+528,steel,standard/ambient,silica fume,130-150
+529,no fibre,heat/steam/autoclave,quartz powder,150-170
+530,steel,heat/steam/autoclave,silica fume,>190
+531,steel,standard/ambient,silica fume,150-170
+532,steel,heat/steam/autoclave,fly ash,130-150
+533,steel,standard/ambient,silica fume,170-190
+534,no fibre,standard/ambient,silica fume,110-130
+535,no fibre,standard/ambient,silica fume,130-150
+536,steel,heat/steam/autoclave,silica fume,130-150
+537,steel,standard/ambient,silica fume,130-150
+538,steel,heat/steam/autoclave,silica fume,170-190
+539,steel,heat/steam/autoclave,silica fume,>190
+540,steel,heat/steam/autoclave,quartz powder,150-170
+541,no fibre,heat/steam/autoclave,quartz powder,130-150
+542,steel,standard/ambient,silica fume,150-170
+543,steel,heat/steam/autoclave,silica fume,150-170
+544,no fibre,standard/ambient,fly ash,110-130
+545,no fibre,standard/ambient,rice husk ash,130-150
+546,steel,standard/ambient,fly ash,150-170
+547,steel,standard/ambient,fly ash,130-150
+548,no fibre,standard/ambient,silica fume,130-150
+549,steel,standard/ambient,steel slag,170-190
+550,steel,heat/steam/autoclave,silica fume,>190
+551,no fibre,heat/steam/autoclave,quartz powder,170-190
+552,steel,heat/steam/autoclave,silica fume,150-170
+553,no fibre,standard/ambient,silica fume,150-170
+554,no fibre,standard/ambient,quartz powder,130-150
+555,steel,standard/ambient,silica fume,110-130
+556,no fibre,standard/ambient,quartz powder,110-130
+557,steel,standard/ambient,GGBFS,110-130
+558,no fibre,standard/ambient,silica fume,110-130
+559,steel,standard/ambient,silica fume,110-130
+560,steel,standard/ambient,silica fume,130-150
+561,steel,standard/ambient,silica fume,130-150
+562,steel,standard/ambient,glass powder,150-170
+563,steel,heat/steam/autoclave,steel slag,170-190
+564,steel,standard/ambient,silica fume,130-150
+565,no fibre,standard/ambient,quartz powder,170-190
+566,steel,heat/steam/autoclave,silica fume,>190
+567,steel,heat/steam/autoclave,fly ash,>190
+568,no fibre,standard/ambient,silica fume,<110
+569,steel,standard/ambient,silica fume,<110
+570,steel,standard/ambient,silica fume,130-150
+571,steel,standard/ambient,silica fume,130-150
+572,no fibre,heat/steam/autoclave,quartz powder,150-170
+573,steel,standard/ambient,fly ash,110-130
+574,steel,heat/steam/autoclave,quartz powder,>190
+575,steel,heat/steam/autoclave,silica fume,>190
+576,steel,standard/ambient,limestone,150-170
+577,no fibre,standard/ambient,quartz powder,170-190
+578,steel,standard/ambient,silica fume,170-190
+579,steel,standard/ambient,silica fume,130-150
+580,no fibre,standard/ambient,quartz powder,150-170
+581,steel,standard/ambient,GGBFS,<110
+582,steel,standard/ambient,fly ash,150-170
+583,steel,heat/steam/autoclave,quartz powder,>190
+584,steel,standard/ambient,quartz powder,150-170
+585,no fibre,heat/steam/autoclave,fly ash,150-170
+586,no fibre,standard/ambient,limestone,150-170
+587,steel,heat/steam/autoclave,silica fume,170-190
+588,steel,standard/ambient,silica fume,150-170
+589,steel,standard/ambient,fly ash,150-170
+590,steel,standard/ambient,silica fume,170-190
+591,steel,standard/ambient,limestone,<110
+592,steel,heat/steam/autoclave,silica fume,>190
+593,steel,standard/ambient,fly ash,150-170
+594,steel,standard/ambient,silica fume,110-130
+595,steel,standard/ambient,silica fume,130-150
+596,no fibre,heat/steam/autoclave,steel slag,<110
+597,steel,standard/ambient,fly ash,130-150
+598,no fibre,heat/steam/autoclave,quartz powder,150-170
+599,no fibre,standard/ambient,silica fume,110-130
+600,steel,standard/ambient,quartz powder,130-150
+601,no fibre,standard/ambient,steel slag,110-130
+602,steel,heat/steam/autoclave,silica fume,130-150
+603,steel,standard/ambient,fly ash,150-170
+604,steel,heat/steam/autoclave,silica fume,170-190
+605,steel,standard/ambient,none,110-130
+606,steel,standard/ambient,silica fume,<110
+607,steel,standard/ambient,silica fume,<110
+608,steel,standard/ambient,silica fume,130-150
+609,no fibre,heat/steam/autoclave,silica fume,<110
+610,no fibre,standard/ambient,metakaolin,<110
+611,steel,standard/ambient,silica fume,150-170
+612,steel,heat/steam/autoclave,silica fume,170-190
+613,steel,heat/steam/autoclave,glass powder,130-150
+614,steel,heat/steam/autoclave,glass powder,130-150
+615,steel,heat/steam/autoclave,limestone,<110
+616,steel,standard/ambient,silica fume,150-170
+617,steel,standard/ambient,GGBFS,110-130
+618,steel,standard/ambient,fly ash,130-150
+619,steel,standard/ambient,silica fume,130-150
+620,steel,standard/ambient,silica fume,130-150
+621,steel,standard/ambient,silica fume,130-150
+622,steel,standard/ambient,silica fume,110-130
+623,steel,heat/steam/autoclave,steel slag,>190
+624,steel,standard/ambient,silica fume,110-130
+625,steel,standard/ambient,silica fume,150-170
+626,no fibre,standard/ambient,fly ash,<110
+627,steel,standard/ambient,quartz powder,150-170
+628,steel,heat/steam/autoclave,limestone,150-170
+629,steel,heat/steam/autoclave,silica fume,150-170
+630,no fibre,standard/ambient,silica fume,110-130
+631,steel,heat/steam/autoclave,silica fume,150-170
+632,steel,heat/steam/autoclave,silica fume,170-190
+633,steel,standard/ambient,GGBFS,110-130
+634,steel,heat/steam/autoclave,silica fume,170-190
+635,steel,standard/ambient,quartz powder,170-190
+636,steel,heat/steam/autoclave,glass powder,170-190
+637,steel,heat/steam/autoclave,silica fume,>190
+638,steel,heat/steam/autoclave,fly ash,150-170
+639,no fibre,standard/ambient,quartz powder,150-170
+640,no fibre,standard/ambient,silica fume,170-190
+641,steel,standard/ambient,quartz powder,170-190
+642,steel,heat/steam/autoclave,silica fume,170-190
+643,no fibre,heat/steam/autoclave,glass powder,130-150
+644,steel,standard/ambient,quartz powder,170-190
+645,no fibre,heat/steam/autoclave,GGBFS,130-150
+646,steel,heat/steam/autoclave,silica fume,>190
+647,steel,standard/ambient,silica fume,130-150
+648,steel,standard/ambient,silica fume,130-150
+649,steel,standard/ambient,fly ash,<110
+650,steel,heat/steam/autoclave,steel slag,170-190
+651,steel,heat/steam/autoclave,silica fume,170-190
+652,no fibre,standard/ambient,glass powder,>190
+653,no fibre,standard/ambient,limestone,<110
+654,steel,heat/steam/autoclave,silica fume,>190
+655,steel,heat/steam/autoclave,silica fume,170-190
+656,steel,standard/ambient,silica fume,110-130
+657,steel,standard/ambient,silica fume,130-150
+658,no fibre,standard/ambient,quartz powder,170-190
+659,steel,standard/ambient,quartz powder,130-150
+660,steel,heat/steam/autoclave,silica fume,170-190
+661,no fibre,standard/ambient,quartz powder,>190
+662,no fibre,heat/steam/autoclave,quartz powder,170-190
+663,no fibre,standard/ambient,silica fume,>190
+664,steel,heat/steam/autoclave,silica fume,150-170
+665,steel,standard/ambient,silica fume,150-170
+666,no fibre,standard/ambient,silica fume,110-130
+667,steel,standard/ambient,GGBFS,110-130
+668,no fibre,standard/ambient,quartz powder,110-130
+669,steel,standard/ambient,silica fume,150-170
+670,steel,standard/ambient,quartz powder,170-190
+671,steel,heat/steam/autoclave,steel slag,>190
+672,steel,standard/ambient,silica fume,150-170
+673,no fibre,standard/ambient,quartz powder,<110
+674,steel,standard/ambient,quartz powder,130-150
+675,steel,heat/steam/autoclave,steel slag,>190
+676,no fibre,standard/ambient,silica fume,110-130
+677,steel,standard/ambient,fly ash,130-150
+678,steel,heat/steam/autoclave,fly ash,150-170
+679,steel,heat/steam/autoclave,fly ash,130-150
+680,steel,standard/ambient,silica fume,130-150
+681,no fibre,heat/steam/autoclave,quartz powder,130-150
+682,no fibre,standard/ambient,quartz powder,170-190
+683,no fibre,heat/steam/autoclave,GGBFS,130-150
+684,steel,heat/steam/autoclave,silica fume,150-170
+685,no fibre,standard/ambient,silica fume,150-170
+686,steel,heat/steam/autoclave,silica fume,>190
+687,steel,heat/steam/autoclave,silica fume,150-170
+688,no fibre,heat/steam/autoclave,quartz powder,170-190
+689,no fibre,standard/ambient,quartz powder,170-190
+690,steel,standard/ambient,limestone,150-170
+691,no fibre,standard/ambient,silica fume,170-190
+692,no fibre,standard/ambient,glass powder,130-150
+693,no fibre,standard/ambient,silica fume,170-190
+694,steel,standard/ambient,silica fume,150-170
+695,no fibre,standard/ambient,glass powder,170-190
+696,steel,heat/steam/autoclave,steel slag,>190
+697,steel,standard/ambient,silica fume,130-150
+698,steel,standard/ambient,GGBFS,110-130
+699,steel,standard/ambient,fly ash,<110
+700,steel,heat/steam/autoclave,silica fume,130-150
+701,steel,standard/ambient,silica fume,130-150
+702,no fibre,standard/ambient,silica fume,<110
+703,no fibre,standard/ambient,quartz powder,130-150
+704,steel,standard/ambient,silica fume,150-170
+705,steel,standard/ambient,silica fume,150-170
+706,no fibre,heat/steam/autoclave,silica fume,<110
+707,steel,heat/steam/autoclave,silica fume,>190
+708,no fibre,heat/steam/autoclave,silica fume,110-130
+709,steel,standard/ambient,silica fume,>190
+710,steel,standard/ambient,quartz powder,170-190
+711,steel,heat/steam/autoclave,fly ash,>190
+712,steel,standard/ambient,limestone,150-170
+713,no fibre,standard/ambient,quartz powder,130-150
+714,no fibre,standard/ambient,quartz powder,>190
+715,steel,heat/steam/autoclave,glass powder,130-150
+716,steel,standard/ambient,quartz powder,>190
+717,steel,standard/ambient,silica fume,130-150
+718,steel,heat/steam/autoclave,silica fume,>190
+719,steel,heat/steam/autoclave,quartz powder,170-190
+720,no fibre,heat/steam/autoclave,metakaolin,130-150
+721,no fibre,standard/ambient,silica fume,130-150
+722,steel,standard/ambient,silica fume,150-170
+723,steel,standard/ambient,GGBFS,130-150
+724,steel,heat/steam/autoclave,silica fume,170-190
+725,steel,heat/steam/autoclave,silica fume,>190
+726,steel,heat/steam/autoclave,quartz powder,170-190
+727,no fibre,standard/ambient,quartz powder,130-150
+728,steel,heat/steam/autoclave,fly ash,150-170
+729,steel,standard/ambient,silica fume,170-190
+730,steel,standard/ambient,silica fume,150-170
+731,steel,standard/ambient,limestone,150-170
+732,steel,standard/ambient,silica fume,130-150
+733,no fibre,standard/ambient,metakaolin,<110
+734,steel,heat/steam/autoclave,silica fume,170-190
+735,steel,heat/steam/autoclave,silica fume,>190
+736,steel,standard/ambient,quartz powder,150-170
+737,no fibre,heat/steam/autoclave,fly ash,130-150
+738,no fibre,heat/steam/autoclave,GGBFS,170-190
+739,steel,heat/steam/autoclave,fly ash,>190
+740,steel,standard/ambient,silica fume,110-130
+741,no fibre,standard/ambient,fly ash,110-130
+742,no fibre,standard/ambient,metakaolin,110-130
+743,steel,standard/ambient,silica fume,110-130
+744,steel,standard/ambient,fly ash,110-130
+745,no fibre,standard/ambient,quartz powder,130-150
+746,steel,standard/ambient,quartz powder,150-170
+747,steel,standard/ambient,silica fume,130-150
+748,no fibre,heat/steam/autoclave,quartz powder,>190
+749,no fibre,heat/steam/autoclave,silica fume,110-130
+750,steel,standard/ambient,silica fume,130-150
+751,steel,standard/ambient,glass powder,>190
+752,steel,standard/ambient,GGBFS,110-130
+753,no fibre,standard/ambient,quartz powder,150-170
+754,no fibre,standard/ambient,silica fume,<110
+755,steel,heat/steam/autoclave,silica fume,150-170
+756,no fibre,standard/ambient,fly ash,<110
+757,steel,standard/ambient,silica fume,110-130
+758,steel,standard/ambient,quartz powder,130-150
+759,steel,heat/steam/autoclave,silica fume,>190
+760,steel,standard/ambient,GGBFS,<110
+761,steel,standard/ambient,fly ash,110-130
+762,steel,heat/steam/autoclave,quartz powder,170-190
+763,steel,heat/steam/autoclave,fly ash,<110
+764,steel,heat/steam/autoclave,silica fume,110-130
+765,no fibre,heat/steam/autoclave,quartz powder,170-190
+766,steel,standard/ambient,limestone,130-150
+767,steel,heat/steam/autoclave,silica fume,130-150
+768,no fibre,heat/steam/autoclave,quartz powder,150-170
+769,steel,standard/ambient,fly ash,130-150
+770,steel,heat/steam/autoclave,silica fume,130-150
+771,steel,heat/steam/autoclave,silica fume,>190
+772,steel,standard/ambient,fly ash,150-170
+773,no fibre,standard/ambient,quartz powder,110-130
+774,steel,standard/ambient,silica fume,110-130
+775,steel,standard/ambient,silica fume,130-150
+776,steel,standard/ambient,silica fume,130-150
+777,steel,standard/ambient,quartz powder,110-130
+778,steel,standard/ambient,silica fume,150-170
+779,steel,heat/steam/autoclave,quartz powder,150-170
+780,steel,heat/steam/autoclave,silica fume,170-190
+781,steel,standard/ambient,fly ash,<110
+782,steel,standard/ambient,GGBFS,110-130
+783,steel,heat/steam/autoclave,silica fume,150-170
+784,steel,heat/steam/autoclave,quartz powder,170-190
+785,steel,standard/ambient,silica fume,110-130
+786,steel,standard/ambient,quartz powder,150-170
+787,no fibre,standard/ambient,fly ash,110-130
+788,steel,standard/ambient,silica fume,150-170
+789,steel,heat/steam/autoclave,silica fume,>190
+790,steel,heat/steam/autoclave,GGBFS,150-170
+791,no fibre,standard/ambient,silica fume,<110
+792,steel,standard/ambient,GGBFS,<110
+793,steel,standard/ambient,quartz powder,130-150
+794,steel,standard/ambient,GGBFS,130-150
+795,steel,heat/steam/autoclave,silica fume,150-170
+796,steel,standard/ambient,GGBFS,110-130
+797,no fibre,standard/ambient,silica fume,130-150
+798,no fibre,standard/ambient,silica fume,130-150
+799,steel,standard/ambient,silica fume,170-190
+800,steel,heat/steam/autoclave,silica fume,>190
+801,steel,heat/steam/autoclave,silica fume,130-150
+802,steel,standard/ambient,silica fume,150-170
+803,steel,heat/steam/autoclave,silica fume,>190
+804,steel,heat/steam/autoclave,steel slag,>190
+805,steel,heat/steam/autoclave,fly ash,150-170
+806,no fibre,standard/ambient,glass powder,170-190
+807,steel,standard/ambient,glass powder,170-190
+808,steel,heat/steam/autoclave,silica fume,170-190
+809,steel,heat/steam/autoclave,quartz powder,150-170
+810,steel,standard/ambient,silica fume,130-150
+811,no fibre,heat/steam/autoclave,silica fume,150-170
+812,no fibre,heat/steam/autoclave,silica fume,130-150
+813,steel,standard/ambient,GGBFS,110-130
+814,steel,standard/ambient,silica fume,150-170
+815,steel,standard/ambient,silica fume,170-190
+816,steel,heat/steam/autoclave,silica fume,>190
+817,steel,heat/steam/autoclave,quartz powder,170-190
+818,steel,standard/ambient,silica fume,150-170
+819,no fibre,heat/steam/autoclave,quartz powder,150-170
+820,no fibre,standard/ambient,silica fume,<110
+821,steel,standard/ambient,GGBFS,110-130
+822,steel,standard/ambient,GGBFS,130-150
+823,no fibre,standard/ambient,silica fume,150-170
+824,steel,standard/ambient,quartz powder,170-190
+825,steel,heat/steam/autoclave,fly ash,>190
+826,steel,standard/ambient,silica fume,150-170
+827,steel,standard/ambient,limestone,<110
+828,steel,heat/steam/autoclave,silica fume,150-170
+829,steel,heat/steam/autoclave,silica fume,130-150
+830,no fibre,heat/steam/autoclave,fly ash,<110
+831,no fibre,standard/ambient,silica fume,<110
+832,steel,standard/ambient,silica fume,150-170
+833,steel,standard/ambient,silica fume,130-150
+834,steel,standard/ambient,glass powder,150-170
+835,steel,heat/steam/autoclave,GGBFS,150-170
+836,no fibre,standard/ambient,quartz powder,130-150
+837,steel,heat/steam/autoclave,silica fume,150-170
+838,steel,heat/steam/autoclave,fly ash,>190
+839,steel,standard/ambient,steel slag,170-190
+840,steel,heat/steam/autoclave,quartz powder,>190
+841,steel,heat/steam/autoclave,silica fume,130-150
+842,steel,standard/ambient,limestone,130-150
+843,steel,standard/ambient,silica fume,130-150
+844,no fibre,standard/ambient,none,<110
+845,steel,heat/steam/autoclave,silica fume,>190
+846,no fibre,standard/ambient,fly ash,<110
+847,steel,heat/steam/autoclave,silica fume,130-150
+848,steel,standard/ambient,silica fume,>190
+849,no fibre,standard/ambient,glass powder,>190
+850,no fibre,standard/ambient,fly ash,110-130
+851,no fibre,heat/steam/autoclave,silica fume,130-150
+852,steel,heat/steam/autoclave,glass powder,>190
+853,no fibre,standard/ambient,quartz powder,150-170
+854,no fibre,standard/ambient,silica fume,110-130
+855,no fibre,standard/ambient,silica fume,130-150
+856,steel,standard/ambient,silica fume,<110
+857,no fibre,heat/steam/autoclave,fly ash,150-170
+858,no fibre,standard/ambient,limestone,130-150
+859,steel,heat/steam/autoclave,silica fume,150-170
+860,steel,heat/steam/autoclave,quartz powder,150-170
+861,no fibre,heat/steam/autoclave,glass powder,>190
+862,no fibre,heat/steam/autoclave,glass powder,130-150
+863,steel,heat/steam/autoclave,silica fume,170-190
+864,steel,standard/ambient,steel slag,170-190
+865,steel,heat/steam/autoclave,silica fume,150-170
+866,steel,standard/ambient,GGBFS,<110
+867,steel,standard/ambient,none,130-150
+868,steel,heat/steam/autoclave,quartz powder,170-190
+869,steel,standard/ambient,fly ash,110-130
+870,steel,standard/ambient,GGBFS,110-130
+871,no fibre,standard/ambient,silica fume,130-150
+872,steel,standard/ambient,quartz powder,150-170
+873,no fibre,heat/steam/autoclave,glass powder,110-130
+874,no fibre,standard/ambient,fly ash,110-130
+875,steel,heat/steam/autoclave,silica fume,150-170
+876,steel,standard/ambient,silica fume,170-190
+877,no fibre,standard/ambient,silica fume,110-130
+878,steel,heat/steam/autoclave,quartz powder,130-150
+879,steel,heat/steam/autoclave,quartz powder,170-190
+880,steel,standard/ambient,fly ash,150-170
+881,steel,heat/steam/autoclave,silica fume,>190
+882,no fibre,standard/ambient,GGBFS,<110
+883,steel,standard/ambient,silica fume,130-150
+884,steel,heat/steam/autoclave,GGBFS,>190
+885,no fibre,standard/ambient,fly ash,110-130
+886,no fibre,standard/ambient,fly ash,110-130
+887,no fibre,heat/steam/autoclave,glass powder,>190
+888,steel,standard/ambient,silica fume,>190
+889,steel,heat/steam/autoclave,quartz powder,170-190
+890,steel,heat/steam/autoclave,fly ash,130-150
+891,steel,heat/steam/autoclave,quartz powder,150-170
+892,steel,heat/steam/autoclave,fly ash,170-190
+893,steel,heat/steam/autoclave,silica fume,110-130
+894,steel,standard/ambient,glass powder,170-190
+895,steel,heat/steam/autoclave,silica fume,150-170
+896,no fibre,standard/ambient,silica fume,110-130
+897,steel,heat/steam/autoclave,silica fume,150-170
+898,steel,standard/ambient,limestone,110-130
+899,steel,heat/steam/autoclave,fly ash,>190
+900,no fibre,standard/ambient,silica fume,110-130
+901,steel,standard/ambient,quartz powder,130-150
+902,no fibre,heat/steam/autoclave,glass powder,130-150
+903,steel,standard/ambient,glass powder,>190
+904,steel,heat/steam/autoclave,GGBFS,130-150
+905,steel,heat/steam/autoclave,fly ash,>190
+906,no fibre,standard/ambient,quartz powder,<110
+907,no fibre,standard/ambient,quartz powder,130-150
+908,steel,heat/steam/autoclave,none,170-190
+909,no fibre,heat/steam/autoclave,silica fume,150-170
+910,steel,heat/steam/autoclave,silica fume,150-170
+911,steel,heat/steam/autoclave,silica fume,170-190
+912,steel,standard/ambient,silica fume,130-150
+913,no fibre,standard/ambient,silica fume,<110
+914,steel,standard/ambient,fly ash,110-130
+915,steel,heat/steam/autoclave,GGBFS,150-170
+916,no fibre,heat/steam/autoclave,silica fume,130-150
+917,steel,standard/ambient,quartz powder,130-150
+918,no fibre,heat/steam/autoclave,quartz powder,130-150
+919,no fibre,standard/ambient,glass powder,>190
+920,steel,standard/ambient,glass powder,150-170
+921,steel,heat/steam/autoclave,silica fume,110-130
+922,steel,standard/ambient,silica fume,130-150
+923,steel,heat/steam/autoclave,glass powder,110-130
+924,no fibre,standard/ambient,limestone,110-130
+925,steel,standard/ambient,silica fume,110-130
+926,steel,heat/steam/autoclave,fly ash,<110
+927,steel,heat/steam/autoclave,silica fume,170-190
+928,steel,standard/ambient,none,<110
+929,no fibre,standard/ambient,silica fume,<110
+930,no fibre,heat/steam/autoclave,fly ash,130-150
+931,steel,heat/steam/autoclave,GGBFS,150-170
+932,steel,heat/steam/autoclave,GGBFS,150-170
+933,steel,standard/ambient,silica fume,>190
+934,steel,standard/ambient,fly ash,130-150
+935,steel,heat/steam/autoclave,silica fume,>190
+936,steel,standard/ambient,fly ash,150-170
+937,steel,heat/steam/autoclave,steel slag,170-190
+938,steel,heat/steam/autoclave,silica fume,150-170
+939,no fibre,heat/steam/autoclave,GGBFS,110-130
+940,steel,standard/ambient,GGBFS,170-190
+941,steel,heat/steam/autoclave,GGBFS,150-170
+942,no fibre,heat/steam/autoclave,silica fume,130-150
+943,steel,heat/steam/autoclave,silica fume,>190
+944,steel,heat/steam/autoclave,silica fume,170-190
+945,steel,standard/ambient,GGBFS,<110
+946,steel,heat/steam/autoclave,silica fume,>190
+947,steel,standard/ambient,GGBFS,<110
+948,steel,heat/steam/autoclave,GGBFS,150-170
+949,no fibre,standard/ambient,glass powder,170-190
+950,steel,standard/ambient,fly ash,110-130
+951,steel,standard/ambient,fly ash,<110
+952,steel,standard/ambient,silica fume,130-150
+953,steel,standard/ambient,fly ash,130-150
+954,steel,standard/ambient,silica fume,130-150
+955,steel,standard/ambient,quartz powder,130-150
+956,no fibre,standard/ambient,quartz powder,170-190
+957,steel,standard/ambient,silica fume,110-130
+958,steel,standard/ambient,silica fume,110-130
+959,steel,heat/steam/autoclave,fly ash,>190
+960,steel,standard/ambient,steel slag,>190
+961,steel,standard/ambient,silica fume,170-190
+962,steel,standard/ambient,glass powder,170-190
+963,steel,standard/ambient,silica fume,110-130
+964,steel,heat/steam/autoclave,GGBFS,170-190
+965,steel,heat/steam/autoclave,silica fume,>190
+966,steel,heat/steam/autoclave,silica fume,150-170
+967,steel,standard/ambient,GGBFS,<110
+968,no fibre,heat/steam/autoclave,silica fume,130-150
+969,steel,standard/ambient,fly ash,130-150
+970,no fibre,standard/ambient,limestone,<110
+971,steel,heat/steam/autoclave,silica fume,110-130
+972,steel,standard/ambient,fly ash,130-150
+973,no fibre,standard/ambient,quartz powder,>190
+974,steel,standard/ambient,silica fume,110-130
+975,no fibre,standard/ambient,silica fume,<110
+976,steel,heat/steam/autoclave,silica fume,130-150
+977,steel,standard/ambient,silica fume,150-170
+978,steel,heat/steam/autoclave,silica fume,170-190
+979,steel,heat/steam/autoclave,fly ash,<110
+980,no fibre,standard/ambient,silica fume,<110
+981,steel,heat/steam/autoclave,steel slag,>190
+982,no fibre,standard/ambient,glass powder,170-190
+983,no fibre,standard/ambient,quartz powder,110-130
+984,steel,heat/steam/autoclave,GGBFS,>190
+985,no fibre,heat/steam/autoclave,quartz powder,150-170
+986,steel,standard/ambient,silica fume,170-190
+987,steel,heat/steam/autoclave,silica fume,150-170
+988,no fibre,heat/steam/autoclave,fly ash,130-150
+989,steel,standard/ambient,fly ash,<110
+990,steel,standard/ambient,quartz powder,170-190
+991,steel,heat/steam/autoclave,silica fume,>190
+992,steel,standard/ambient,silica fume,150-170
+993,synthetic,standard/ambient,GGBFS,110-130
+994,steel,standard/ambient,silica fume,150-170
+995,no fibre,heat/steam/autoclave,quartz powder,150-170
+996,no fibre,standard/ambient,quartz powder,130-150
+997,steel,heat/steam/autoclave,silica fume,>190
+998,steel,heat/steam/autoclave,quartz powder,150-170
+999,steel,heat/steam/autoclave,silica fume,150-170
+1000,no fibre,standard/ambient,steel slag,<110
+1001,steel,heat/steam/autoclave,quartz powder,170-190
+1002,no fibre,heat/steam/autoclave,silica fume,130-150
+1003,no fibre,standard/ambient,silica fume,130-150
+1004,steel,heat/steam/autoclave,silica fume,130-150
+1005,steel,standard/ambient,quartz powder,>190
+1006,no fibre,standard/ambient,none,150-170
+1007,steel,heat/steam/autoclave,silica fume,150-170
+1008,steel,standard/ambient,quartz powder,110-130
+1009,no fibre,heat/steam/autoclave,silica fume,<110
+1010,no fibre,heat/steam/autoclave,glass powder,150-170
+1011,steel,heat/steam/autoclave,fly ash,150-170
+1012,steel,standard/ambient,fly ash,130-150
+1013,steel,standard/ambient,silica fume,>190
+1014,steel,standard/ambient,silica fume,110-130
+1015,steel,standard/ambient,GGBFS,110-130
+1016,steel,standard/ambient,quartz powder,>190
+1017,no fibre,standard/ambient,fly ash,110-130
+1018,steel,standard/ambient,silica fume,>190
+1019,steel,standard/ambient,fly ash,150-170
+1020,no fibre,standard/ambient,silica fume,110-130
+1021,steel,heat/steam/autoclave,fly ash,>190
+1022,steel,heat/steam/autoclave,glass powder,110-130
+1023,no fibre,standard/ambient,quartz powder,130-150
+1024,steel,heat/steam/autoclave,silica fume,170-190
+1025,no fibre,heat/steam/autoclave,silica fume,130-150
+1026,no fibre,standard/ambient,silica fume,110-130
+1027,steel,standard/ambient,glass powder,150-170
+1028,no fibre,standard/ambient,quartz powder,130-150
+1029,no fibre,standard/ambient,quartz powder,150-170
+1030,steel,heat/steam/autoclave,silica fume,>190
+1031,steel,standard/ambient,silica fume,110-130
+1032,steel,standard/ambient,fly ash,150-170
+1033,no fibre,standard/ambient,silica fume,150-170
+1034,no fibre,standard/ambient,silica fume,<110
+1035,steel,standard/ambient,silica fume,110-130
+1036,steel,standard/ambient,quartz powder,150-170
+1037,steel,standard/ambient,quartz powder,150-170
+1038,steel,heat/steam/autoclave,silica fume,>190
+1039,steel,standard/ambient,quartz powder,150-170
+1040,steel,standard/ambient,silica fume,110-130
+1041,steel,heat/steam/autoclave,silica fume,>190
+1042,steel,standard/ambient,quartz powder,170-190
+1043,no fibre,standard/ambient,GGBFS,<110
+1044,steel,standard/ambient,fly ash,<110
+1045,steel,standard/ambient,silica fume,130-150
+1046,steel,heat/steam/autoclave,silica fume,>190
+1047,steel,heat/steam/autoclave,silica fume,150-170
+1048,no fibre,standard/ambient,GGBFS,110-130
+1049,steel,heat/steam/autoclave,quartz powder,170-190
+1050,steel,heat/steam/autoclave,silica fume,150-170
+1051,steel,standard/ambient,silica fume,130-150
+1052,steel,standard/ambient,glass powder,170-190
+1053,steel,standard/ambient,quartz powder,130-150
+1054,steel,standard/ambient,quartz powder,>190
+1055,steel,standard/ambient,silica fume,150-170
+1056,steel,standard/ambient,silica fume,>190
+1057,steel,heat/steam/autoclave,silica fume,>190
+1058,steel,heat/steam/autoclave,quartz powder,170-190
+1059,no fibre,standard/ambient,fly ash,110-130
+1060,steel,standard/ambient,silica fume,130-150
+1061,steel,standard/ambient,silica fume,>190
+1062,no fibre,heat/steam/autoclave,quartz powder,170-190
+1063,steel,heat/steam/autoclave,silica fume,150-170
+1064,steel,heat/steam/autoclave,silica fume,110-130
+1065,steel,standard/ambient,GGBFS,<110
+1066,no fibre,standard/ambient,fly ash,<110
+1067,steel,standard/ambient,silica fume,>190
+1068,no fibre,standard/ambient,silica fume,150-170
+1069,no fibre,standard/ambient,limestone,110-130
+1070,steel,standard/ambient,GGBFS,130-150
+1071,steel,heat/steam/autoclave,silica fume,170-190
+1072,steel,standard/ambient,quartz powder,<110
+1073,steel,standard/ambient,silica fume,<110
+1074,steel,heat/steam/autoclave,silica fume,>190
+1075,steel,standard/ambient,silica fume,130-150
+1076,steel,heat/steam/autoclave,glass powder,170-190
+1077,steel,heat/steam/autoclave,fly ash,>190
+1078,no fibre,standard/ambient,silica fume,110-130
+1079,no fibre,standard/ambient,quartz powder,>190
+1080,no fibre,standard/ambient,silica fume,<110
+1081,steel,heat/steam/autoclave,fly ash,130-150
+1082,steel,heat/steam/autoclave,silica fume,170-190
+1083,steel,heat/steam/autoclave,quartz powder,170-190
+1084,no fibre,standard/ambient,quartz powder,150-170
+1085,steel,standard/ambient,silica fume,130-150
+1086,steel,standard/ambient,silica fume,130-150
+1087,steel,standard/ambient,silica fume,150-170
+1088,no fibre,standard/ambient,fly ash,110-130
+1089,steel,standard/ambient,silica fume,170-190
+1090,steel,heat/steam/autoclave,silica fume,>190
+1091,steel,standard/ambient,silica fume,130-150
+1092,steel,standard/ambient,silica fume,150-170
+1093,no fibre,heat/steam/autoclave,fly ash,<110
+1094,steel,standard/ambient,silica fume,<110
+1095,no fibre,standard/ambient,silica fume,<110
+1096,steel,heat/steam/autoclave,silica fume,>190
+1097,steel,standard/ambient,GGBFS,130-150
+1098,steel,heat/steam/autoclave,silica fume,110-130
+1099,steel,standard/ambient,GGBFS,110-130
+1100,steel,heat/steam/autoclave,steel slag,>190
+1101,steel,standard/ambient,silica fume,>190
+1102,steel,standard/ambient,glass powder,130-150
+1103,no fibre,standard/ambient,fly ash,130-150
+1104,steel,heat/steam/autoclave,fly ash,>190
+1105,steel,heat/steam/autoclave,fly ash,150-170
+1106,no fibre,heat/steam/autoclave,quartz powder,150-170
+1107,steel,standard/ambient,silica fume,170-190
+1108,no fibre,heat/steam/autoclave,quartz powder,150-170
+1109,steel,heat/steam/autoclave,silica fume,170-190
+1110,steel,standard/ambient,silica fume,110-130
+1111,steel,standard/ambient,silica fume,>190
+1112,no fibre,standard/ambient,quartz powder,150-170
+1113,no fibre,heat/steam/autoclave,glass powder,130-150
+1114,steel,standard/ambient,silica fume,<110
+1115,no fibre,heat/steam/autoclave,fly ash,<110
+1116,no fibre,standard/ambient,silica fume,>190
+1117,no fibre,standard/ambient,silica fume,110-130
+1118,steel,standard/ambient,fly ash,<110
+1119,steel,standard/ambient,silica fume,150-170
+1120,no fibre,standard/ambient,silica fume,130-150
+1121,no fibre,standard/ambient,glass powder,>190
+1122,no fibre,standard/ambient,fly ash,<110
+1123,steel,standard/ambient,quartz powder,130-150
+1124,steel,standard/ambient,quartz powder,130-150
+1125,steel,standard/ambient,silica fume,>190
+1126,steel,standard/ambient,fly ash,150-170
+1127,steel,standard/ambient,fly ash,150-170
+1128,steel,standard/ambient,silica fume,150-170
+1129,steel,standard/ambient,silica fume,>190
+1130,steel,heat/steam/autoclave,silica fume,130-150
+1131,steel,standard/ambient,silica fume,150-170
+1132,steel,heat/steam/autoclave,silica fume,170-190
+1133,no fibre,heat/steam/autoclave,silica fume,110-130
+1134,steel,heat/steam/autoclave,silica fume,>190
+1135,steel,standard/ambient,steel slag,>190
+1136,no fibre,standard/ambient,quartz powder,130-150
+1137,no fibre,standard/ambient,quartz powder,130-150
+1138,steel,standard/ambient,fly ash,<110
+1139,steel,heat/steam/autoclave,silica fume,150-170
+1140,steel,heat/steam/autoclave,steel slag,>190
+1141,no fibre,standard/ambient,fly ash,110-130
+1142,steel,heat/steam/autoclave,silica fume,150-170
+1143,steel,heat/steam/autoclave,silica fume,130-150
+1144,steel,standard/ambient,silica fume,110-130
+1145,steel,heat/steam/autoclave,silica fume,130-150
+1146,no fibre,standard/ambient,silica fume,>190
+1147,steel,standard/ambient,silica fume,150-170
+1148,no fibre,heat/steam/autoclave,silica fume,150-170
+1149,no fibre,heat/steam/autoclave,limestone,<110
+1150,steel,standard/ambient,silica fume,130-150
+1151,steel,heat/steam/autoclave,steel slag,170-190
+1152,no fibre,heat/steam/autoclave,silica fume,130-150
+1153,no fibre,heat/steam/autoclave,silica fume,150-170
+1154,no fibre,heat/steam/autoclave,fly ash,130-150
+1155,steel,heat/steam/autoclave,silica fume,150-170
+1156,steel,standard/ambient,fly ash,<110
+1157,steel,heat/steam/autoclave,silica fume,110-130
+1158,no fibre,standard/ambient,silica fume,130-150
+1159,steel,heat/steam/autoclave,rice husk ash,<110
+1160,steel,heat/steam/autoclave,silica fume,170-190
+1161,no fibre,standard/ambient,quartz powder,130-150
+1162,no fibre,standard/ambient,silica fume,150-170
+1163,steel,standard/ambient,silica fume,150-170
+1164,steel,standard/ambient,silica fume,150-170
+1165,steel,heat/steam/autoclave,quartz powder,>190
+1166,no fibre,standard/ambient,limestone,110-130
+1167,steel,heat/steam/autoclave,silica fume,150-170
+1168,steel,standard/ambient,fly ash,110-130
+1169,steel,standard/ambient,silica fume,130-150
+1170,no fibre,standard/ambient,quartz powder,150-170
+1171,steel,heat/steam/autoclave,silica fume,170-190
+1172,steel,standard/ambient,quartz powder,110-130
+1173,steel,heat/steam/autoclave,GGBFS,150-170
+1174,steel,standard/ambient,silica fume,130-150
+1175,no fibre,standard/ambient,quartz powder,<110
+1176,steel,standard/ambient,quartz powder,110-130
+1177,no fibre,heat/steam/autoclave,fly ash,<110
+1178,steel,heat/steam/autoclave,silica fume,150-170
+1179,steel,standard/ambient,limestone,<110
+1180,no fibre,standard/ambient,quartz powder,<110
+1181,steel,heat/steam/autoclave,quartz powder,170-190
+1182,no fibre,heat/steam/autoclave,silica fume,130-150
+1183,steel,heat/steam/autoclave,GGBFS,150-170
+1184,steel,heat/steam/autoclave,silica fume,130-150
+1185,steel,standard/ambient,silica fume,150-170
+1186,steel,standard/ambient,GGBFS,<110
+1187,no fibre,standard/ambient,quartz powder,170-190
+1188,steel,standard/ambient,silica fume,130-150
+1189,no fibre,standard/ambient,silica fume,110-130
+1190,steel,standard/ambient,GGBFS,110-130
+1191,steel,heat/steam/autoclave,silica fume,130-150
+1192,steel,standard/ambient,quartz powder,170-190
+1193,steel,standard/ambient,silica fume,>190
+1194,no fibre,standard/ambient,silica fume,<110
+1195,steel,standard/ambient,silica fume,130-150
+1196,steel,heat/steam/autoclave,silica fume,>190
+1197,steel,standard/ambient,quartz powder,130-150
+1198,steel,standard/ambient,steel slag,150-170
+1199,steel,standard/ambient,glass powder,150-170
+1200,steel,heat/steam/autoclave,silica fume,150-170
+1201,steel,standard/ambient,fly ash,<110
+1202,steel,heat/steam/autoclave,metakaolin,>190
+1203,steel,standard/ambient,silica fume,130-150
+1204,steel,standard/ambient,silica fume,130-150
+1205,steel,standard/ambient,fly ash,150-170
+1206,no fibre,heat/steam/autoclave,quartz powder,110-130
+1207,steel,heat/steam/autoclave,glass powder,170-190
+1208,no fibre,standard/ambient,silica fume,>190
+1209,steel,standard/ambient,silica fume,130-150
+1210,steel,heat/steam/autoclave,silica fume,110-130
+1211,steel,heat/steam/autoclave,silica fume,130-150
+1212,steel,standard/ambient,silica fume,150-170
+1213,steel,standard/ambient,fly ash,110-130
+1214,no fibre,heat/steam/autoclave,quartz powder,>190
+1215,no fibre,heat/steam/autoclave,silica fume,130-150
+1216,steel,standard/ambient,silica fume,130-150
+1217,no fibre,standard/ambient,silica fume,150-170
+1218,steel,standard/ambient,limestone,130-150
+1219,steel,standard/ambient,silica fume,150-170
+1220,steel,standard/ambient,limestone,130-150
+1221,steel,standard/ambient,silica fume,150-170
+1222,steel,standard/ambient,glass powder,170-190
+1223,no fibre,standard/ambient,silica fume,<110
+1224,no fibre,heat/steam/autoclave,quartz powder,130-150
+1225,steel,standard/ambient,silica fume,>190
+1226,no fibre,heat/steam/autoclave,silica fume,130-150
+1227,steel,standard/ambient,fly ash,<110
+1228,steel,standard/ambient,silica fume,110-130
+1229,steel,heat/steam/autoclave,silica fume,150-170
+1230,no fibre,standard/ambient,quartz powder,130-150
+1231,steel,heat/steam/autoclave,silica fume,150-170
+1232,steel,standard/ambient,quartz powder,>190
+1233,no fibre,standard/ambient,silica fume,<110
+1234,steel,standard/ambient,silica fume,110-130
+1235,steel,heat/steam/autoclave,silica fume,110-130
+1236,steel,standard/ambient,limestone,110-130
+1237,steel,standard/ambient,quartz powder,>190
+1238,no fibre,standard/ambient,fly ash,<110
+1239,no fibre,standard/ambient,fly ash,110-130
+1240,steel,standard/ambient,GGBFS,130-150
+1241,steel,heat/steam/autoclave,silica fume,170-190
+1242,steel,heat/steam/autoclave,fly ash,<110
+1243,steel,standard/ambient,limestone,<110
+1244,steel,standard/ambient,silica fume,130-150
+1245,no fibre,standard/ambient,quartz powder,130-150
+1246,steel,standard/ambient,silica fume,150-170
+1247,steel,heat/steam/autoclave,silica fume,110-130
+1248,no fibre,standard/ambient,silica fume,110-130
+1249,steel,heat/steam/autoclave,silica fume,130-150
+1250,no fibre,heat/steam/autoclave,silica fume,150-170
+1251,steel,standard/ambient,quartz powder,130-150
+1252,steel,standard/ambient,silica fume,110-130
+1253,no fibre,standard/ambient,quartz powder,>190
+1254,steel,heat/steam/autoclave,silica fume,130-150
+1255,steel,heat/steam/autoclave,silica fume,>190
+1256,steel,heat/steam/autoclave,quartz powder,>190
+1257,steel,heat/steam/autoclave,GGBFS,150-170
+1258,steel,standard/ambient,silica fume,130-150
+1259,steel,heat/steam/autoclave,silica fume,>190
+1260,no fibre,heat/steam/autoclave,silica fume,130-150
+1261,steel,standard/ambient,silica fume,>190
+1262,steel,standard/ambient,fly ash,130-150
+1263,no fibre,standard/ambient,quartz powder,130-150
+1264,steel,heat/steam/autoclave,silica fume,>190
+1265,steel,heat/steam/autoclave,silica fume,110-130
+1266,steel,heat/steam/autoclave,silica fume,130-150
+1267,steel,standard/ambient,GGBFS,<110
+1268,steel,heat/steam/autoclave,silica fume,<110
+1269,no fibre,standard/ambient,fly ash,150-170
+1270,steel,standard/ambient,fly ash,170-190
+1271,steel,standard/ambient,silica fume,150-170
+1272,no fibre,standard/ambient,metakaolin,110-130
+1273,steel,heat/steam/autoclave,GGBFS,150-170
+1274,steel,heat/steam/autoclave,fly ash,>190
+1275,no fibre,standard/ambient,silica fume,<110
+1276,steel,standard/ambient,fly ash,130-150
+1277,steel,heat/steam/autoclave,fly ash,<110
+1278,no fibre,heat/steam/autoclave,silica fume,>190
+1279,no fibre,standard/ambient,quartz powder,130-150
+1280,steel,heat/steam/autoclave,silica fume,>190
+1281,no fibre,standard/ambient,limestone,110-130
+1282,steel,heat/steam/autoclave,silica fume,150-170
+1283,no fibre,standard/ambient,quartz powder,150-170
+1284,no fibre,standard/ambient,silica fume,110-130
+1285,steel,standard/ambient,silica fume,150-170
+1286,steel,standard/ambient,limestone,110-130
+1287,steel,standard/ambient,silica fume,130-150
+1288,no fibre,standard/ambient,quartz powder,170-190
+1289,steel,heat/steam/autoclave,fly ash,130-150
+1290,steel,standard/ambient,fly ash,<110
+1291,no fibre,standard/ambient,silica fume,110-130
+1292,no fibre,standard/ambient,quartz powder,150-170
+1293,no fibre,standard/ambient,quartz powder,130-150
+1294,no fibre,heat/steam/autoclave,quartz powder,110-130
+1295,steel,standard/ambient,GGBFS,110-130
+1296,steel,standard/ambient,GGBFS,110-130
+1297,no fibre,heat/steam/autoclave,silica fume,<110
+1298,steel,heat/steam/autoclave,quartz powder,130-150
+1299,steel,heat/steam/autoclave,GGBFS,130-150
+1300,no fibre,standard/ambient,fly ash,<110
+1301,steel,standard/ambient,silica fume,>190
+1302,steel,standard/ambient,glass powder,130-150
+1303,steel,heat/steam/autoclave,silica fume,130-150
+1304,steel,heat/steam/autoclave,silica fume,130-150
+1305,no fibre,standard/ambient,quartz powder,110-130
+1306,no fibre,heat/steam/autoclave,quartz powder,110-130
+1307,steel,heat/steam/autoclave,silica fume,150-170
+1308,no fibre,heat/steam/autoclave,silica fume,150-170
+1309,steel,heat/steam/autoclave,silica fume,>190
+1310,steel,heat/steam/autoclave,silica fume,150-170
+1311,no fibre,heat/steam/autoclave,silica fume,130-150
+1312,steel,heat/steam/autoclave,quartz powder,150-170
+1313,steel,standard/ambient,silica fume,110-130
+1314,steel,standard/ambient,quartz powder,130-150
+1315,steel,standard/ambient,fly ash,150-170
+1316,no fibre,standard/ambient,silica fume,110-130
+1317,no fibre,standard/ambient,fly ash,<110
+1318,steel,standard/ambient,fly ash,130-150
+1319,steel,standard/ambient,fly ash,170-190
+1320,steel,standard/ambient,silica fume,130-150
+1321,no fibre,standard/ambient,GGBFS,110-130
+1322,no fibre,standard/ambient,silica fume,<110
+1323,steel,heat/steam/autoclave,glass powder,110-130
+1324,steel,heat/steam/autoclave,GGBFS,150-170
+1325,steel,standard/ambient,silica fume,130-150
+1326,steel,heat/steam/autoclave,silica fume,130-150
+1327,steel,heat/steam/autoclave,silica fume,150-170
+1328,steel,heat/steam/autoclave,silica fume,130-150
+1329,steel,standard/ambient,silica fume,<110
+1330,steel,standard/ambient,quartz powder,150-170
+1331,steel,heat/steam/autoclave,silica fume,170-190
+1332,steel,standard/ambient,quartz powder,>190
+1333,steel,standard/ambient,silica fume,110-130
+1334,steel,standard/ambient,silica fume,<110
+1335,no fibre,standard/ambient,quartz powder,<110
+1336,steel,heat/steam/autoclave,silica fume,130-150
+1337,steel,standard/ambient,quartz powder,<110
+1338,no fibre,standard/ambient,quartz powder,130-150
+1339,steel,heat/steam/autoclave,silica fume,150-170
+1340,no fibre,standard/ambient,silica fume,110-130
+1341,no fibre,standard/ambient,fly ash,<110
+1342,no fibre,standard/ambient,fly ash,<110
+1343,no fibre,standard/ambient,quartz powder,150-170
+1344,steel,heat/steam/autoclave,silica fume,170-190
+1345,steel,standard/ambient,silica fume,150-170
+1346,steel,standard/ambient,GGBFS,110-130
+1347,steel,heat/steam/autoclave,steel slag,170-190
+1348,steel,standard/ambient,silica fume,130-150
+1349,steel,heat/steam/autoclave,silica fume,>190
+1350,steel,standard/ambient,silica fume,<110
+1351,no fibre,heat/steam/autoclave,quartz powder,170-190
+1352,steel,heat/steam/autoclave,silica fume,>190
+1353,steel,heat/steam/autoclave,silica fume,150-170
+1354,steel,standard/ambient,fly ash,150-170
+1355,steel,heat/steam/autoclave,silica fume,150-170
+1356,steel,standard/ambient,metakaolin,>190
+1357,steel,heat/steam/autoclave,silica fume,150-170
+1358,no fibre,standard/ambient,silica fume,110-130
+1359,steel,heat/steam/autoclave,silica fume,150-170
+1360,no fibre,standard/ambient,metakaolin,<110
+1361,no fibre,standard/ambient,silica fume,110-130
+1362,no fibre,heat/steam/autoclave,quartz powder,150-170
+1363,steel,heat/steam/autoclave,silica fume,130-150
+1364,steel,heat/steam/autoclave,fly ash,>190
+1365,no fibre,heat/steam/autoclave,fly ash,110-130
+1366,steel,heat/steam/autoclave,quartz powder,170-190
+1367,steel,standard/ambient,silica fume,130-150
+1368,steel,standard/ambient,GGBFS,110-130
+1369,no fibre,standard/ambient,quartz powder,130-150
+1370,steel,standard/ambient,silica fume,110-130
+1371,steel,heat/steam/autoclave,GGBFS,170-190
+1372,steel,heat/steam/autoclave,silica fume,>190
+1373,steel,heat/steam/autoclave,silica fume,150-170
+1374,steel,heat/steam/autoclave,silica fume,130-150
+1375,steel,standard/ambient,quartz powder,170-190
+1376,steel,standard/ambient,limestone,130-150
+1377,steel,standard/ambient,fly ash,<110
+1378,steel,heat/steam/autoclave,fly ash,150-170
+1379,steel,heat/steam/autoclave,fly ash,<110
+1380,steel,standard/ambient,silica fume,>190
+1381,steel,heat/steam/autoclave,silica fume,110-130
+1382,steel,heat/steam/autoclave,fly ash,130-150
+1383,no fibre,heat/steam/autoclave,fly ash,<110
+1384,no fibre,heat/steam/autoclave,silica fume,130-150
+1385,steel,standard/ambient,silica fume,150-170
+1386,steel,heat/steam/autoclave,GGBFS,150-170
+1387,no fibre,standard/ambient,silica fume,130-150
+1388,no fibre,heat/steam/autoclave,silica fume,<110
+1389,steel,standard/ambient,silica fume,170-190
+1390,steel,standard/ambient,GGBFS,110-130
+1391,steel,standard/ambient,glass powder,150-170
+1392,steel,standard/ambient,quartz powder,130-150
+1393,steel,heat/steam/autoclave,GGBFS,>190
+1394,steel,standard/ambient,silica fume,110-130
+1395,steel,standard/ambient,silica fume,130-150
+1396,steel,standard/ambient,quartz powder,110-130
+1397,no fibre,standard/ambient,quartz powder,150-170
+1398,steel,heat/steam/autoclave,silica fume,150-170
+1399,steel,standard/ambient,silica fume,150-170
+1400,no fibre,standard/ambient,silica fume,>190
+1401,steel,heat/steam/autoclave,silica fume,130-150
+1402,steel,standard/ambient,silica fume,150-170
+1403,steel,heat/steam/autoclave,silica fume,150-170
+1404,steel,standard/ambient,fly ash,110-130
+1405,no fibre,heat/steam/autoclave,quartz powder,150-170
+1406,steel,standard/ambient,GGBFS,110-130
+1407,steel,heat/steam/autoclave,silica fume,110-130
+1408,steel,standard/ambient,fly ash,110-130
+1409,steel,heat/steam/autoclave,silica fume,110-130
+1410,steel,standard/ambient,silica fume,150-170
+1411,no fibre,heat/steam/autoclave,silica fume,<110
+1412,steel,standard/ambient,quartz powder,110-130
+1413,steel,standard/ambient,silica fume,130-150
+1414,steel,standard/ambient,quartz powder,<110
+1415,steel,heat/steam/autoclave,silica fume,>190
+1416,steel,standard/ambient,silica fume,150-170
+1417,steel,standard/ambient,metakaolin,110-130
+1418,steel,standard/ambient,GGBFS,<110
+1419,steel,heat/steam/autoclave,silica fume,110-130
+1420,steel,standard/ambient,silica fume,>190
+1421,steel,standard/ambient,silica fume,150-170
+1422,steel,heat/steam/autoclave,silica fume,150-170
+1423,steel,standard/ambient,GGBFS,150-170
+1424,steel,standard/ambient,silica fume,150-170
+1425,steel,standard/ambient,quartz powder,130-150
+1426,no fibre,standard/ambient,silica fume,130-150
+1427,steel,standard/ambient,fly ash,>190
+1428,steel,heat/steam/autoclave,silica fume,130-150
+1429,steel,standard/ambient,GGBFS,<110
+1430,steel,heat/steam/autoclave,fly ash,130-150
+1431,steel,heat/steam/autoclave,fly ash,150-170
+1432,steel,heat/steam/autoclave,silica fume,>190
+1433,steel,heat/steam/autoclave,silica fume,>190
+1434,no fibre,standard/ambient,silica fume,<110
+1435,steel,standard/ambient,silica fume,170-190
+1436,steel,heat/steam/autoclave,limestone,150-170
+1437,steel,heat/steam/autoclave,silica fume,130-150
+1438,steel,heat/steam/autoclave,silica fume,150-170
+1439,no fibre,standard/ambient,fly ash,110-130
+1440,steel,heat/steam/autoclave,silica fume,170-190
+1441,steel,heat/steam/autoclave,silica fume,150-170
+1442,steel,standard/ambient,silica fume,>190
+1443,steel,standard/ambient,silica fume,150-170
+1444,steel,standard/ambient,silica fume,130-150
+1445,no fibre,heat/steam/autoclave,fly ash,<110
+1446,steel,heat/steam/autoclave,fly ash,>190
+1447,steel,heat/steam/autoclave,silica fume,110-130
+1448,no fibre,standard/ambient,silica fume,110-130
+1449,no fibre,heat/steam/autoclave,silica fume,<110
+1450,no fibre,standard/ambient,fly ash,<110
+1451,steel,heat/steam/autoclave,silica fume,130-150
+1452,no fibre,heat/steam/autoclave,quartz powder,>190
+1453,no fibre,standard/ambient,silica fume,110-130
+1454,steel,heat/steam/autoclave,silica fume,>190
+1455,steel,standard/ambient,silica fume,150-170
+1456,no fibre,standard/ambient,rice husk ash,170-190
+1457,steel,standard/ambient,fly ash,110-130
+1458,no fibre,standard/ambient,limestone,110-130
+1459,steel,standard/ambient,glass powder,<110
+1460,steel,standard/ambient,silica fume,150-170
+1461,steel,standard/ambient,silica fume,110-130
+1462,steel,heat/steam/autoclave,GGBFS,>190
+1463,steel,standard/ambient,steel slag,150-170
+1464,no fibre,standard/ambient,silica fume,<110
+1465,no fibre,standard/ambient,silica fume,<110
+1466,steel,standard/ambient,silica fume,130-150
+1467,steel,standard/ambient,fly ash,110-130
+1468,steel,standard/ambient,silica fume,>190
+1469,steel,standard/ambient,quartz powder,110-130
+1470,no fibre,standard/ambient,silica fume,110-130
+1471,no fibre,standard/ambient,silica fume,110-130
+1472,steel,standard/ambient,quartz powder,130-150
+1473,steel,heat/steam/autoclave,GGBFS,>190
+1474,steel,heat/steam/autoclave,fly ash,150-170
+1475,steel,standard/ambient,metakaolin,110-130
+1476,no fibre,standard/ambient,silica fume,110-130
+1477,steel,standard/ambient,GGBFS,130-150
+1478,steel,standard/ambient,limestone,150-170
+1479,steel,heat/steam/autoclave,glass powder,130-150
+1480,steel,standard/ambient,quartz powder,150-170
+1481,no fibre,standard/ambient,limestone,110-130
+1482,steel,standard/ambient,silica fume,150-170
+1483,steel,standard/ambient,quartz powder,110-130
+1484,steel,standard/ambient,fly ash,110-130
+1485,no fibre,heat/steam/autoclave,silica fume,<110
+1486,no fibre,heat/steam/autoclave,silica fume,>190
+1487,steel,heat/steam/autoclave,silica fume,150-170
+1488,steel,heat/steam/autoclave,silica fume,150-170
+1489,steel,heat/steam/autoclave,silica fume,170-190
+1490,no fibre,standard/ambient,silica fume,110-130
+1491,no fibre,standard/ambient,silica fume,110-130
+1492,steel,heat/steam/autoclave,silica fume,150-170
+1493,no fibre,heat/steam/autoclave,fly ash,<110
+1494,no fibre,standard/ambient,silica fume,110-130
+1495,steel,standard/ambient,fly ash,130-150
+1496,steel,heat/steam/autoclave,silica fume,130-150
+1497,steel,standard/ambient,silica fume,150-170
+1498,steel,heat/steam/autoclave,fly ash,130-150
+1499,no fibre,heat/steam/autoclave,silica fume,110-130
+1500,no fibre,heat/steam/autoclave,quartz powder,150-170
+1501,steel,heat/steam/autoclave,silica fume,>190
+1502,steel,standard/ambient,silica fume,110-130
+1503,steel,heat/steam/autoclave,silica fume,130-150
+1504,no fibre,standard/ambient,limestone,110-130
+1505,no fibre,standard/ambient,quartz powder,>190
+1506,steel,heat/steam/autoclave,silica fume,>190
+1507,steel,standard/ambient,silica fume,150-170
+1508,steel,standard/ambient,silica fume,150-170
+1509,steel,standard/ambient,glass powder,>190
+1510,steel,heat/steam/autoclave,silica fume,150-170
+1511,steel,standard/ambient,GGBFS,110-130
+1512,steel,heat/steam/autoclave,silica fume,150-170
+1513,no fibre,standard/ambient,silica fume,130-150
+1514,no fibre,standard/ambient,silica fume,>190
+1515,steel,standard/ambient,limestone,150-170
+1516,steel,standard/ambient,silica fume,130-150
+1517,no fibre,standard/ambient,silica fume,<110
+1518,no fibre,standard/ambient,silica fume,>190
+1519,steel,heat/steam/autoclave,silica fume,130-150
+1520,steel,heat/steam/autoclave,silica fume,>190
+1521,steel,standard/ambient,glass powder,150-170
+1522,steel,heat/steam/autoclave,quartz powder,>190
+1523,no fibre,standard/ambient,GGBFS,<110
+1524,no fibre,heat/steam/autoclave,quartz powder,170-190
+1525,no fibre,standard/ambient,limestone,130-150
+1526,no fibre,heat/steam/autoclave,quartz powder,>190
+1527,steel,standard/ambient,GGBFS,<110
+1528,steel,standard/ambient,metakaolin,150-170
+1529,steel,standard/ambient,silica fume,110-130
+1530,steel,heat/steam/autoclave,silica fume,150-170
+1531,steel,heat/steam/autoclave,silica fume,150-170
+1532,steel,standard/ambient,silica fume,110-130
+1533,no fibre,standard/ambient,silica fume,170-190
+1534,steel,standard/ambient,quartz powder,150-170
+1535,steel,standard/ambient,quartz powder,<110
+1536,steel,standard/ambient,quartz powder,150-170
+1537,steel,heat/steam/autoclave,quartz powder,150-170
+1538,no fibre,heat/steam/autoclave,quartz powder,>190
+1539,steel,heat/steam/autoclave,glass powder,130-150
+1540,no fibre,standard/ambient,silica fume,<110
+1541,no fibre,standard/ambient,silica fume,110-130
+1542,no fibre,heat/steam/autoclave,quartz powder,150-170
+1543,no fibre,heat/steam/autoclave,silica fume,110-130
+1544,steel,standard/ambient,quartz powder,150-170
+1545,steel,standard/ambient,silica fume,130-150
+1546,steel,heat/steam/autoclave,silica fume,150-170
+1547,no fibre,standard/ambient,silica fume,>190
+1548,no fibre,heat/steam/autoclave,GGBFS,130-150
+1549,steel,standard/ambient,silica fume,110-130
+1550,steel,heat/steam/autoclave,silica fume,>190
+1551,steel,heat/steam/autoclave,steel slag,>190
+1552,no fibre,heat/steam/autoclave,quartz powder,150-170
+1553,no fibre,standard/ambient,silica fume,130-150
+1554,steel,heat/steam/autoclave,quartz powder,150-170
+1555,no fibre,heat/steam/autoclave,silica fume,130-150
+1556,steel,heat/steam/autoclave,fly ash,170-190
+1557,steel,standard/ambient,fly ash,150-170
+1558,steel,standard/ambient,silica fume,130-150
+1559,no fibre,heat/steam/autoclave,quartz powder,150-170
+1560,no fibre,heat/steam/autoclave,silica fume,110-130
+1561,steel,heat/steam/autoclave,steel slag,170-190
+1562,steel,standard/ambient,glass powder,170-190
+1563,steel,standard/ambient,silica fume,110-130
+1564,steel,standard/ambient,silica fume,150-170
+1565,steel,heat/steam/autoclave,silica fume,170-190
+1566,steel,standard/ambient,silica fume,130-150
+1567,steel,standard/ambient,silica fume,150-170
+1568,steel,standard/ambient,silica fume,110-130
+1569,steel,standard/ambient,silica fume,150-170
+1570,steel,standard/ambient,silica fume,150-170
+1571,no fibre,standard/ambient,GGBFS,130-150
+1572,steel,heat/steam/autoclave,quartz powder,>190
+1573,no fibre,standard/ambient,glass powder,>190
+1574,steel,heat/steam/autoclave,GGBFS,170-190
+1575,no fibre,standard/ambient,silica fume,<110
+1576,steel,standard/ambient,silica fume,130-150
+1577,no fibre,standard/ambient,metakaolin,<110
+1578,steel,standard/ambient,silica fume,130-150
+1579,steel,heat/steam/autoclave,fly ash,>190
+1580,steel,standard/ambient,silica fume,>190
+1581,no fibre,standard/ambient,silica fume,110-130
+1582,no fibre,standard/ambient,silica fume,110-130
+1583,steel,heat/steam/autoclave,glass powder,130-150
+1584,steel,standard/ambient,glass powder,>190
+1585,no fibre,standard/ambient,quartz powder,130-150
+1586,steel,standard/ambient,fly ash,150-170
+1587,steel,standard/ambient,steel slag,>190
+1588,no fibre,standard/ambient,limestone,110-130
+1589,no fibre,standard/ambient,silica fume,130-150
+1590,steel,heat/steam/autoclave,silica fume,150-170
+1591,no fibre,heat/steam/autoclave,GGBFS,150-170
+1592,steel,standard/ambient,silica fume,130-150
+1593,steel,standard/ambient,quartz powder,150-170
+1594,steel,standard/ambient,silica fume,110-130
+1595,no fibre,heat/steam/autoclave,fly ash,130-150
+1596,steel,heat/steam/autoclave,silica fume,150-170
+1597,steel,heat/steam/autoclave,silica fume,130-150
+1598,steel,standard/ambient,none,130-150
+1599,steel,heat/steam/autoclave,silica fume,130-150
+1600,steel,standard/ambient,silica fume,150-170
+1601,no fibre,standard/ambient,metakaolin,<110
+1602,steel,heat/steam/autoclave,steel slag,170-190
+1603,steel,heat/steam/autoclave,silica fume,>190
+1604,no fibre,standard/ambient,quartz powder,150-170
+1605,steel,heat/steam/autoclave,silica fume,>190
+1606,steel,heat/steam/autoclave,steel slag,>190
+1607,steel,standard/ambient,silica fume,>190
+1608,steel,standard/ambient,fly ash,150-170
+1609,steel,heat/steam/autoclave,fly ash,150-170
+1610,steel,heat/steam/autoclave,silica fume,150-170
+1611,steel,standard/ambient,silica fume,150-170
+1612,steel,heat/steam/autoclave,silica fume,>190
+1613,steel,standard/ambient,silica fume,150-170
+1614,steel,heat/steam/autoclave,silica fume,150-170
+1615,steel,heat/steam/autoclave,silica fume,130-150
+1616,steel,heat/steam/autoclave,silica fume,130-150
+1617,no fibre,standard/ambient,silica fume,110-130
+1618,steel,heat/steam/autoclave,silica fume,>190
+1619,steel,standard/ambient,silica fume,130-150
+1620,steel,standard/ambient,GGBFS,110-130
+1621,steel,standard/ambient,silica fume,150-170
+1622,no fibre,heat/steam/autoclave,silica fume,110-130
+1623,steel,standard/ambient,silica fume,130-150
+1624,steel,standard/ambient,silica fume,170-190
+1625,steel,heat/steam/autoclave,fly ash,<110
+1626,steel,standard/ambient,silica fume,130-150
+1627,steel,standard/ambient,fly ash,110-130
+1628,steel,standard/ambient,silica fume,150-170
+1629,no fibre,standard/ambient,fly ash,<110
+1630,no fibre,standard/ambient,silica fume,150-170
+1631,steel,heat/steam/autoclave,quartz powder,170-190
+1632,steel,standard/ambient,silica fume,130-150
+1633,no fibre,standard/ambient,fly ash,130-150
+1634,no fibre,standard/ambient,fly ash,<110
+1635,steel,standard/ambient,GGBFS,110-130
+1636,steel,heat/steam/autoclave,silica fume,150-170
+1637,steel,standard/ambient,silica fume,150-170
+1638,steel,heat/steam/autoclave,silica fume,>190
+1639,no fibre,standard/ambient,silica fume,110-130
+1640,steel,heat/steam/autoclave,silica fume,>190
+1641,no fibre,standard/ambient,quartz powder,150-170
+1642,steel,standard/ambient,silica fume,130-150
+1643,no fibre,standard/ambient,silica fume,150-170
+1644,steel,standard/ambient,GGBFS,<110
+1645,steel,heat/steam/autoclave,silica fume,150-170
+1646,steel,standard/ambient,silica fume,>190
+1647,no fibre,heat/steam/autoclave,silica fume,130-150
+1648,steel,standard/ambient,glass powder,>190
+1649,steel,heat/steam/autoclave,silica fume,170-190
+1650,synthetic,standard/ambient,GGBFS,130-150
+1651,steel,standard/ambient,GGBFS,130-150
+1652,steel,standard/ambient,silica fume,150-170
+1653,steel,heat/steam/autoclave,silica fume,>190
+1654,steel,heat/steam/autoclave,silica fume,130-150
+1655,steel,heat/steam/autoclave,quartz powder,130-150
+1656,steel,standard/ambient,silica fume,110-130
+1657,no fibre,standard/ambient,silica fume,>190
+1658,steel,standard/ambient,silica fume,150-170
+1659,steel,standard/ambient,silica fume,<110
+1660,no fibre,standard/ambient,silica fume,<110
+1661,no fibre,standard/ambient,quartz powder,130-150
+1662,steel,standard/ambient,fly ash,110-130
+1663,steel,standard/ambient,silica fume,>190
+1664,steel,heat/steam/autoclave,steel slag,>190
+1665,no fibre,heat/steam/autoclave,fly ash,130-150
+1666,steel,standard/ambient,silica fume,170-190
+1667,no fibre,heat/steam/autoclave,glass powder,130-150
+1668,steel,standard/ambient,silica fume,>190
+1669,steel,standard/ambient,silica fume,150-170
+1670,steel,standard/ambient,silica fume,130-150
+1671,steel,standard/ambient,fly ash,150-170
+1672,no fibre,standard/ambient,glass powder,170-190
+1673,steel,heat/steam/autoclave,silica fume,170-190
+1674,steel,standard/ambient,silica fume,130-150
+1675,steel,standard/ambient,silica fume,150-170
+1676,steel,heat/steam/autoclave,silica fume,170-190
+1677,steel,standard/ambient,GGBFS,<110
+1678,steel,heat/steam/autoclave,silica fume,110-130
+1679,no fibre,standard/ambient,quartz powder,170-190
+1680,steel,standard/ambient,silica fume,150-170
+1681,steel,standard/ambient,silica fume,110-130
+1682,steel,standard/ambient,fly ash,<110
+1683,steel,standard/ambient,silica fume,>190
+1684,no fibre,standard/ambient,silica fume,130-150
+1685,no fibre,heat/steam/autoclave,silica fume,130-150
+1686,no fibre,standard/ambient,fly ash,110-130
+1687,steel,standard/ambient,silica fume,130-150
+1688,steel,standard/ambient,quartz powder,130-150
+1689,steel,heat/steam/autoclave,glass powder,130-150
+1690,steel,standard/ambient,silica fume,150-170
+1691,no fibre,standard/ambient,fly ash,110-130
+1692,no fibre,heat/steam/autoclave,quartz powder,170-190
+1693,steel,heat/steam/autoclave,silica fume,130-150
+1694,steel,standard/ambient,quartz powder,170-190
+1695,steel,heat/steam/autoclave,silica fume,150-170
+1696,steel,standard/ambient,silica fume,130-150
+1697,no fibre,standard/ambient,fly ash,<110
+1698,steel,standard/ambient,silica fume,110-130
+1699,no fibre,standard/ambient,silica fume,110-130
+1700,steel,standard/ambient,fly ash,<110
+1701,no fibre,standard/ambient,silica fume,110-130
+1702,no fibre,standard/ambient,glass powder,>190
+1703,steel,standard/ambient,silica fume,150-170
+1704,steel,heat/steam/autoclave,quartz powder,>190
+1705,no fibre,heat/steam/autoclave,GGBFS,150-170
+1706,steel,heat/steam/autoclave,silica fume,170-190
+1707,steel,standard/ambient,silica fume,130-150
+1708,steel,heat/steam/autoclave,silica fume,>190
+1709,steel,standard/ambient,silica fume,150-170
+1710,steel,standard/ambient,GGBFS,110-130
+1711,steel,standard/ambient,fly ash,130-150
+1712,steel,heat/steam/autoclave,silica fume,150-170
+1713,steel,heat/steam/autoclave,silica fume,>190
+1714,steel,standard/ambient,quartz powder,130-150
+1715,no fibre,heat/steam/autoclave,silica fume,150-170
+1716,steel,standard/ambient,silica fume,110-130
+1717,steel,standard/ambient,GGBFS,110-130
+1718,steel,standard/ambient,fly ash,<110
+1719,steel,heat/steam/autoclave,quartz powder,>190
+1720,steel,standard/ambient,silica fume,170-190
+1721,no fibre,standard/ambient,silica fume,150-170
+1722,no fibre,heat/steam/autoclave,quartz powder,130-150
+1723,no fibre,heat/steam/autoclave,quartz powder,170-190
+1724,no fibre,standard/ambient,GGBFS,<110
+1725,steel,standard/ambient,silica fume,110-130
+1726,steel,heat/steam/autoclave,silica fume,130-150
+1727,steel,standard/ambient,quartz powder,110-130
+1728,steel,standard/ambient,limestone,110-130
+1729,steel,heat/steam/autoclave,GGBFS,>190
+1730,no fibre,standard/ambient,silica fume,110-130
+1731,steel,standard/ambient,silica fume,110-130
+1732,steel,heat/steam/autoclave,quartz powder,170-190
+1733,steel,standard/ambient,silica fume,150-170
+1734,steel,standard/ambient,silica fume,130-150
+1735,no fibre,heat/steam/autoclave,quartz powder,150-170
+1736,no fibre,standard/ambient,quartz powder,150-170
+1737,steel,standard/ambient,fly ash,150-170
+1738,steel,standard/ambient,fly ash,<110
+1739,steel,heat/steam/autoclave,fly ash,150-170
+1740,steel,heat/steam/autoclave,silica fume,170-190
+1741,no fibre,heat/steam/autoclave,silica fume,130-150
+1742,steel,standard/ambient,GGBFS,>190
+1743,steel,standard/ambient,silica fume,170-190
+1744,synthetic,heat/steam/autoclave,silica fume,>190
+1745,no fibre,heat/steam/autoclave,silica fume,130-150
+1746,no fibre,heat/steam/autoclave,glass powder,130-150
+1747,steel,heat/steam/autoclave,silica fume,130-150
+1748,steel,standard/ambient,silica fume,<110
+1749,steel,heat/steam/autoclave,quartz powder,>190
+1750,steel,heat/steam/autoclave,silica fume,130-150
+1751,steel,heat/steam/autoclave,quartz powder,>190
+1752,steel,heat/steam/autoclave,steel slag,>190
+1753,steel,standard/ambient,steel slag,150-170
+1754,steel,standard/ambient,silica fume,>190
+1755,no fibre,standard/ambient,silica fume,<110
+1756,steel,standard/ambient,none,130-150
+1757,steel,standard/ambient,GGBFS,110-130
+1758,steel,standard/ambient,silica fume,110-130
+1759,steel,heat/steam/autoclave,silica fume,150-170
+1760,steel,standard/ambient,silica fume,110-130
+1761,no fibre,standard/ambient,fly ash,<110
+1762,no fibre,standard/ambient,fly ash,110-130
+1763,steel,standard/ambient,quartz powder,150-170
+1764,steel,standard/ambient,silica fume,130-150
+1765,steel,standard/ambient,silica fume,110-130
+1766,no fibre,heat/steam/autoclave,fly ash,110-130
+1767,steel,heat/steam/autoclave,silica fume,<110
+1768,steel,standard/ambient,silica fume,>190
+1769,no fibre,standard/ambient,quartz powder,>190
+1770,steel,standard/ambient,fly ash,130-150
+1771,steel,standard/ambient,quartz powder,130-150
+1772,no fibre,standard/ambient,fly ash,<110
+1773,steel,heat/steam/autoclave,silica fume,<110
+1774,steel,standard/ambient,silica fume,170-190
+1775,no fibre,standard/ambient,quartz powder,>190
+1776,no fibre,heat/steam/autoclave,glass powder,170-190
+1777,steel,heat/steam/autoclave,silica fume,110-130
+1778,no fibre,standard/ambient,metakaolin,110-130
+1779,steel,standard/ambient,steel slag,>190
+1780,steel,heat/steam/autoclave,silica fume,>190
+1781,steel,standard/ambient,quartz powder,170-190
+1782,steel,standard/ambient,silica fume,130-150
+1783,steel,heat/steam/autoclave,silica fume,110-130
+1784,steel,heat/steam/autoclave,quartz powder,150-170
+1785,steel,heat/steam/autoclave,glass powder,150-170
+1786,steel,standard/ambient,silica fume,>190
+1787,steel,heat/steam/autoclave,glass powder,130-150
+1788,steel,standard/ambient,fly ash,170-190
+1789,steel,standard/ambient,silica fume,150-170
+1790,steel,heat/steam/autoclave,silica fume,>190
+1791,steel,standard/ambient,fly ash,<110
+1792,steel,standard/ambient,silica fume,<110
+1793,steel,standard/ambient,silica fume,150-170
+1794,no fibre,standard/ambient,none,110-130
+1795,synthetic,heat/steam/autoclave,silica fume,170-190
+1796,no fibre,heat/steam/autoclave,silica fume,130-150
+1797,no fibre,standard/ambient,fly ash,110-130
+1798,steel,standard/ambient,silica fume,>190
+1799,steel,standard/ambient,silica fume,110-130
+1800,no fibre,standard/ambient,quartz powder,150-170
+1801,steel,heat/steam/autoclave,silica fume,130-150
+1802,no fibre,standard/ambient,quartz powder,>190
+1803,steel,heat/steam/autoclave,fly ash,130-150
+1804,steel,standard/ambient,silica fume,150-170
+1805,no fibre,standard/ambient,steel slag,110-130
+1806,synthetic,heat/steam/autoclave,silica fume,170-190
+1807,no fibre,standard/ambient,glass powder,150-170
+1808,steel,heat/steam/autoclave,silica fume,>190
+1809,steel,heat/steam/autoclave,quartz powder,170-190
+1810,steel,heat/steam/autoclave,silica fume,170-190
+1811,steel,standard/ambient,silica fume,150-170
+1812,steel,standard/ambient,silica fume,110-130
+1813,steel,standard/ambient,fly ash,150-170
+1814,steel,heat/steam/autoclave,steel slag,>190
+1815,steel,standard/ambient,silica fume,>190
+1816,steel,heat/steam/autoclave,GGBFS,150-170
+1817,no fibre,standard/ambient,silica fume,110-130
+1818,steel,heat/steam/autoclave,GGBFS,170-190
+1819,steel,standard/ambient,silica fume,130-150
+1820,steel,standard/ambient,glass powder,130-150
+1821,no fibre,heat/steam/autoclave,silica fume,130-150
+1822,no fibre,standard/ambient,silica fume,<110
+1823,steel,heat/steam/autoclave,GGBFS,>190
+1824,no fibre,standard/ambient,quartz powder,130-150
+1825,steel,heat/steam/autoclave,glass powder,130-150
+1826,steel,heat/steam/autoclave,silica fume,110-130
+1827,steel,heat/steam/autoclave,quartz powder,170-190
+1828,steel,heat/steam/autoclave,silica fume,130-150
+1829,steel,heat/steam/autoclave,silica fume,150-170
+1830,no fibre,standard/ambient,glass powder,150-170
+1831,steel,standard/ambient,quartz powder,130-150
+1832,steel,standard/ambient,quartz powder,170-190
+1833,no fibre,heat/steam/autoclave,fly ash,130-150
+1834,steel,standard/ambient,silica fume,110-130
+1835,steel,standard/ambient,GGBFS,150-170
+1836,no fibre,standard/ambient,silica fume,110-130
+1837,no fibre,standard/ambient,glass powder,170-190
+1838,steel,standard/ambient,fly ash,110-130
+1839,steel,standard/ambient,fly ash,110-130
+1840,no fibre,standard/ambient,limestone,110-130
+1841,no fibre,standard/ambient,silica fume,110-130
+1842,steel,heat/steam/autoclave,silica fume,>190
+1843,steel,heat/steam/autoclave,silica fume,>190
+1844,no fibre,heat/steam/autoclave,glass powder,150-170
+1845,steel,heat/steam/autoclave,silica fume,130-150
+1846,steel,standard/ambient,GGBFS,130-150
+1847,steel,heat/steam/autoclave,GGBFS,170-190
+1848,steel,standard/ambient,limestone,130-150
+1849,steel,heat/steam/autoclave,silica fume,>190
+1850,no fibre,standard/ambient,silica fume,110-130
+1851,steel,standard/ambient,silica fume,170-190
+1852,steel,heat/steam/autoclave,silica fume,150-170
+1853,no fibre,standard/ambient,metakaolin,<110
+1854,steel,standard/ambient,glass powder,>190
+1855,no fibre,standard/ambient,silica fume,<110
+1856,steel,heat/steam/autoclave,quartz powder,170-190
+1857,steel,heat/steam/autoclave,quartz powder,170-190
+1858,steel,heat/steam/autoclave,fly ash,150-170
+1859,no fibre,standard/ambient,fly ash,110-130
+1860,synthetic,standard/ambient,GGBFS,130-150
+1861,no fibre,standard/ambient,glass powder,>190
+1862,steel,heat/steam/autoclave,silica fume,130-150
+1863,steel,standard/ambient,silica fume,170-190
+1864,steel,standard/ambient,glass powder,170-190
+1865,steel,heat/steam/autoclave,silica fume,170-190
+1866,steel,standard/ambient,fly ash,130-150
+1867,no fibre,standard/ambient,quartz powder,110-130
+1868,steel,standard/ambient,fly ash,110-130
+1869,steel,heat/steam/autoclave,quartz powder,>190
+1870,steel,standard/ambient,silica fume,110-130
+1871,no fibre,heat/steam/autoclave,glass powder,130-150
+1872,steel,heat/steam/autoclave,silica fume,150-170
+1873,steel,standard/ambient,GGBFS,<110
+1874,steel,standard/ambient,silica fume,130-150
+1875,steel,heat/steam/autoclave,silica fume,>190
+1876,steel,heat/steam/autoclave,steel slag,>190
+1877,steel,standard/ambient,silica fume,110-130
+1878,steel,heat/steam/autoclave,fly ash,150-170
+1879,no fibre,standard/ambient,none,110-130
+1880,steel,standard/ambient,quartz powder,<110
+1881,steel,standard/ambient,silica fume,110-130
+1882,no fibre,standard/ambient,silica fume,<110
+1883,steel,heat/steam/autoclave,silica fume,170-190
+1884,steel,standard/ambient,quartz powder,130-150
+1885,no fibre,standard/ambient,limestone,110-130
+1886,no fibre,standard/ambient,silica fume,110-130
+1887,steel,standard/ambient,glass powder,>190
+1888,steel,heat/steam/autoclave,silica fume,110-130
+1889,steel,standard/ambient,GGBFS,110-130
+1890,no fibre,heat/steam/autoclave,silica fume,<110
+1891,no fibre,standard/ambient,silica fume,<110
+1892,no fibre,standard/ambient,quartz powder,130-150
+1893,steel,heat/steam/autoclave,glass powder,130-150
+1894,steel,standard/ambient,silica fume,<110
+1895,no fibre,standard/ambient,fly ash,110-130
+1896,steel,heat/steam/autoclave,fly ash,170-190
+1897,no fibre,standard/ambient,quartz powder,>190
+1898,steel,heat/steam/autoclave,silica fume,150-170
+1899,no fibre,standard/ambient,fly ash,<110
+1900,steel,heat/steam/autoclave,fly ash,150-170
+1901,no fibre,standard/ambient,quartz powder,150-170
+1902,no fibre,standard/ambient,silica fume,110-130
+1903,no fibre,standard/ambient,fly ash,<110
+1904,steel,standard/ambient,quartz powder,150-170
+1905,steel,standard/ambient,silica fume,130-150
+1906,no fibre,heat/steam/autoclave,glass powder,110-130
+1907,no fibre,standard/ambient,fly ash,110-130
+1908,steel,standard/ambient,silica fume,170-190
+1909,no fibre,standard/ambient,silica fume,110-130
+1910,steel,heat/steam/autoclave,silica fume,150-170
+1911,steel,standard/ambient,silica fume,130-150
+1912,steel,standard/ambient,fly ash,150-170
+1913,steel,heat/steam/autoclave,silica fume,150-170
+1914,no fibre,standard/ambient,glass powder,>190
+1915,no fibre,standard/ambient,silica fume,110-130
+1916,steel,standard/ambient,GGBFS,<110
+1917,steel,heat/steam/autoclave,silica fume,>190
+1918,steel,heat/steam/autoclave,silica fume,110-130
+1919,no fibre,heat/steam/autoclave,glass powder,150-170
+1920,steel,heat/steam/autoclave,silica fume,130-150
+1921,steel,standard/ambient,GGBFS,110-130
+1922,no fibre,standard/ambient,silica fume,110-130
+1923,steel,heat/steam/autoclave,fly ash,110-130
+1924,no fibre,standard/ambient,quartz powder,<110
+1925,steel,heat/steam/autoclave,steel slag,>190
+1926,no fibre,heat/steam/autoclave,silica fume,110-130
+1927,steel,heat/steam/autoclave,silica fume,>190
+1928,steel,heat/steam/autoclave,silica fume,170-190
+1929,no fibre,standard/ambient,steel slag,110-130

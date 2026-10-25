@@ -1,0 +1,13 @@
+column,file,rows,rows_whose_code_changes,distinct_labels_after_harmonisation
+Type of Fiber,train,1543,1083,26
+Type of Fiber,test,387,268,26
+Synergetic Type of Fiber,train,1543,86,13
+Synergetic Type of Fiber,test,387,19,13
+Type of Filler,train,1543,210,19
+Type of Filler,test,387,387,19
+Curing,train,1543,1543,24
+Curing,test,387,356,24
+Specimen Size,train,1543,1542,30
+Specimen Size,test,387,354,30
+Max Size (mm),train,1543,1543,-1
+Max Size (mm),test,387,387,-1

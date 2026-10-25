@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software or the derived data, please cite the article and the source database."
+title: "UHPC Inverse Design: calibrated Bayesian neural network ensemble for probabilistic inverse design of ultra-high-performance concrete"
+type: software
+version: "2.0.0"
+license: MIT
+repository-code: "https://github.com/murad-geoAi/uhpc-inverse-design"
+authors:
+  - family-names: Srabony
+    given-names: Shotabdy Chowdhury
+    affiliation: "Department of Civil Engineering, Chittagong University of Engineering and Technology"
+  - family-names: Murad
+    given-names: Golam
+    affiliation: "Department of Civil Engineering, Chittagong University of Engineering and Technology"
+  - family-names: Islam
+    given-names: G. M. Sadiqul
+    affiliation: "Department of Civil Engineering, Chittagong University of Engineering and Technology"
+keywords:
+  - ultra-high-performance concrete
+  - Bayesian neural network
+  - uncertainty calibration
+  - inverse design
+  - leave-publication-out validation
+references:
+  - type: dataset
+    title: "Global dataset of UHPC mix designs with supplementary cementitious materials, nano additives, and sustainable fillers"
+    authors:
+      - family-names: Malik
+        given-names: U. J.
+      - family-names: Mohotti
+        given-names: D.
+      - family-names: Mo
+        given-names: H.
+      - family-names: Lee
+        given-names: C. K.
+    publisher:
+      name: Mendeley Data
+    version: "2"
+    year: 2025
+    doi: 10.17632/czb7ww5pkz.2

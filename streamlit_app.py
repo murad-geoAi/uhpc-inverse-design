@@ -11,7 +11,7 @@ import streamlit as st
 from plotly.subplots import make_subplots
 from scipy.stats import norm
 
-from inverse_design import InverseDesignSystem
+from inverse_design_v2 import InverseDesignSystem  # calibrated Student-t mixture predictor (v2)
 
 st.set_page_config(
     page_title="UHPC Inverse Design",
@@ -302,10 +302,11 @@ def get_options(category):
     return []
 
 
-def select_or_none(label, options):
+def select_or_none(label, options, default=None):
     available = options or ["Not specified"]
-    selected = st.selectbox(label, available, index=0)
-    return None if selected == "Not specified" else selected
+    index = available.index(default) if default in available else 0  # defaults point to well-supported categories
+    selected = st.selectbox(label, available, index=index)
+    return None if selected in ("Not specified", "nan") else selected
 
 
 def build_mix_dataframe(mix):
@@ -350,8 +351,8 @@ def build_summary_card_html(latest_result, status_text, fallback_items):
         summary_title = format_timestamp(latest_result["payload"]["timestamp"])
         items = [
             ("Predicted", f"{format_number(latest_result['pred_strength'], 2)} MPa"),
-            ("Uncertainty", f"± {format_number(latest_result['pred_uncertainty'], 2)} MPa"),
-            ("Confidence", f"{format_number(diagnostics.get('confidence_score', 0.0), 1)}%"),
+            ("Std. dev.", f"{format_number(latest_result['pred_uncertainty'], 2)} MPa"),
+            ("P(within ±7.5 MPa)", f"{format_number(diagnostics.get('confidence_score', 0.0), 1)}%"),
             ("Reliability", diagnostics.get("reliability_status", "Unknown")),
         ]
     else:
@@ -393,16 +394,22 @@ def render_section_header(title, copy=None):
     )
 
 
-def build_distribution_figure(pred_strength, pred_uncertainty, target_strength):
+def build_distribution_figure(pred_strength, pred_uncertainty, target_strength, diagnostics=None):
     sigma = max(float(pred_uncertainty), 1e-6)
     mu = float(pred_strength)
     target = float(target_strength)
-    x = np.linspace(max(0.0, mu - 4.5 * sigma), mu + 4.5 * sigma, 360)
-    density = norm.pdf(x, loc=mu, scale=sigma)
-    cumulative = norm.cdf(x, loc=mu, scale=sigma)
-    interval_68 = (mu - sigma, mu + sigma)
-    interval_95 = norm.interval(0.95, loc=mu, scale=sigma)
-    exceedance_prob = max(0.0, (1.0 - norm.cdf(target, loc=mu, scale=sigma)) * 100.0)
+    if diagnostics and diagnostics.get('density_grid'):
+        x, density, cumulative = (np.asarray(v) for v in diagnostics['density_grid'])  # exact Student-t mixture of the calibrated ensemble
+        interval_68 = (float(np.interp(0.16, cumulative, x)), float(np.interp(0.84, cumulative, x)))
+        interval_95 = tuple(diagnostics['ci95'])
+        exceedance_prob = float(diagnostics['prob_ge_target']) * 100.0
+    else:
+        x = np.linspace(max(0.0, mu - 4.5 * sigma), mu + 4.5 * sigma, 360)
+        density = norm.pdf(x, loc=mu, scale=sigma)
+        cumulative = norm.cdf(x, loc=mu, scale=sigma)
+        interval_68 = (mu - sigma, mu + sigma)
+        interval_95 = norm.interval(0.95, loc=mu, scale=sigma)
+        exceedance_prob = max(0.0, (1.0 - norm.cdf(target, loc=mu, scale=sigma)) * 100.0)
 
     fig = make_subplots(specs=[[{"secondary_y": True}]])
     
@@ -412,7 +419,7 @@ def build_distribution_figure(pred_strength, pred_uncertainty, target_strength):
 
     fig.add_trace(
         go.Scatter(
-            x=x, y=density, mode="lines", name="Posterior density",
+            x=list(map(float, x)), y=list(map(float, density)), mode="lines", name="Posterior density",
             line=dict(color="#0F172A", width=2.5), fill="tozeroy", fillcolor="rgba(15, 23, 42, 0.05)",
             hovertemplate="Strength %{x:.2f} MPa<br>Density %{y:.4f}<extra></extra>",
         ),
@@ -420,7 +427,7 @@ def build_distribution_figure(pred_strength, pred_uncertainty, target_strength):
     )
     fig.add_trace(
         go.Scatter(
-            x=x, y=cumulative, mode="lines", name="Cumulative probability",
+            x=list(map(float, x)), y=list(map(float, cumulative)), mode="lines", name="Cumulative probability",
             line=dict(color="#64748B", width=2, dash="dot"),
             hovertemplate="Strength %{x:.2f} MPa<br>CDF %{y:.3f}<extra></extra>",
         ),
@@ -458,7 +465,7 @@ def build_composition_figure(mix_df):
 
     fig = go.Figure(
         go.Pie(
-            labels=plot_df["Component"], values=plot_df["Amount (kg/m3)"],
+            labels=plot_df["Component"].tolist(), values=plot_df["Amount (kg/m3)"].astype(float).tolist(),
             hole=0.65, sort=False,
             marker=dict(colors=CHART_PALETTE[: len(plot_df)], line=dict(color='#FFFFFF', width=2)),
             textinfo="percent", textfont=dict(size=12, color="#FFFFFF"),
@@ -481,7 +488,7 @@ def build_component_bar_figure(mix_df):
 
     fig = go.Figure(
         go.Bar(
-            x=plot_df["Amount (kg/m3)"], y=plot_df["Component"], orientation="h",
+            x=plot_df["Amount (kg/m3)"].astype(float).tolist(), y=plot_df["Component"].tolist(), orientation="h",
             marker=dict(
                 color=plot_df["Amount (kg/m3)"],
                 colorscale=[[0.0, "#94A3B8"], [0.5, "#1D4ED8"], [1.0, "#0F172A"]], # Academic colorscale
@@ -520,12 +527,12 @@ with st.sidebar:
 
     target_strength = st.number_input("Target Strength (MPa)", value=150.0, step=5.0)
     risk_mode = st.selectbox("Risk Strategy", list(RISK_MODE_CONFIG.keys()), index=1)
-    specimen = select_or_none("Specimen Geometry", spec_options)
+    specimen = select_or_none("Specimen Geometry", spec_options, "100 x 100 x 100")
     binder = st.selectbox("Primary Binder", ["Cement"])
-    scm_list = st.multiselect("SCMs", SCM_OPTIONS, default=["Silica Fume"])
-    filler_type = select_or_none("Filler", filler_options)
-    fiber_type = select_or_none("Fiber", fiber_options)
-    curing = select_or_none("Curing Regime", curing_options)
+    scm_list = st.multiselect("SCMs", SCM_OPTIONS, default=["Silica Fume"], format_func=lambda v: "Other slag (copper/steel/phosphorous)" if v == "Steel Slag" else v)
+    filler_type = select_or_none("Filler (nan = none)", filler_options, "nan")
+    fiber_type = select_or_none("Fiber (nan = none)", fiber_options, "straight steel fiber")
+    curing = select_or_none("Curing Regime", curing_options, "standard curing")
     run_button = st.button("Run Optimization", type="primary", use_container_width=True)
 
 
@@ -625,8 +632,15 @@ if latest_result:
     diagnostics = latest_result["diagnostics"]
     with metric_cols[0]: st.metric("Target Strength", f"{format_number(display_target, 1)} MPa")
     with metric_cols[1]: st.metric("Predicted Strength", f"{format_number(latest_result['pred_strength'], 2)} MPa", f"{latest_result['pred_strength'] - display_target:+.2f} MPa", delta_color="off")
-    with metric_cols[2]: st.metric("Prediction Uncertainty", f"± {format_number(latest_result['pred_uncertainty'], 2)} MPa")
-    with metric_cols[3]: st.metric("Confidence Score", f"{format_number(diagnostics.get('confidence_score', 0.0), 1)}%", diagnostics.get("reliability_status", "Unknown"), delta_color="off")
+    with metric_cols[2]: st.metric("Predictive Std. Dev.", f"{format_number(latest_result['pred_uncertainty'], 2)} MPa", "95% interval " + " – ".join(format_number(v, 0) for v in diagnostics.get("ci95", (0, 0))) + " MPa", delta_color="off")
+    with metric_cols[3]: st.metric("P(within ±7.5 MPa of target)", f"{format_number(diagnostics.get('confidence_score', 0.0), 1)}%", diagnostics.get("reliability_status", "Unknown"), delta_color="off")
+
+render_gap(1.0)
+if latest_result:
+    _d = latest_result["diagnostics"]
+    if not _d.get("within_data_support", True) or _d.get("n_training_mixes_same_categories", 99) < 10:
+        st.warning("This mixture lies outside the data support or its categorical selections are rare in the training data (%s mixtures): treat the result as an extrapolation." % _d.get("n_training_mixes_same_categories", "?"))
+    st.caption("95%% interval %.0f–%.0f MPa; aleatoric σ %.1f MPa, epistemic σ %.1f MPa. Active constraints: %s." % (_d["ci95"][0], _d["ci95"][1], _d["sigma_aleatoric"], _d["sigma_epistemic"], ", ".join(_d["active_constraints"]) or "none"))
 
 render_gap(1.5)
 
@@ -640,7 +654,7 @@ if latest_result:
         with st.container():
             render_section_header("Strength Distribution", "Posterior density, cumulative probability, and target alignment.")
             st.plotly_chart(
-                build_distribution_figure(latest_result["pred_strength"], latest_result["pred_uncertainty"], display_target),
+                build_distribution_figure(latest_result["pred_strength"], latest_result["pred_uncertainty"], display_target, latest_result["diagnostics"]),
                 use_container_width=True, config=PLOTLY_CONFIG,
             )
 

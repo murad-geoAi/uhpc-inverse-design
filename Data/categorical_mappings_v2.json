@@ -1,0 +1,286 @@
+{
+ "Categorical_Mappings": {
+  "Type of Fiber": {
+   "nan": 0,
+   "carbon fiber (cf)": 1,
+   "corrugated steel fiber": 2,
+   "hooked end steel fiber": 3,
+   "hooked steel fiber": 4,
+   "long hooked steel fiber": 5,
+   "long steel fiber": 6,
+   "long straight copper plating steel fiber": 7,
+   "long twisted fiber": 8,
+   "long twisted steel fiber": 9,
+   "medium steel fiber": 10,
+   "micro glass fiber": 11,
+   "pe fiber": 12,
+   "pp": 13,
+   "pva": 14,
+   "recycled tyre steel fiber": 15,
+   "short steel fiber": 16,
+   "short straight copper plating steel fiber": 17,
+   "short straight steel fiber": 18,
+   "steel fiber": 19,
+   "steel: hooked-ends": 20,
+   "straight long steel fiber": 21,
+   "straight short steel fiber": 22,
+   "straight steel fiber": 23,
+   "twisted fiber": 24,
+   "twisted steel fiber": 25
+  },
+  "Synergetic Type of Fiber": {
+   "nan": 0,
+   "carbon fiber (cf)": 1,
+   "cellulose fiber": 2,
+   "hooked end steel fiber": 3,
+   "long steel fiber": 4,
+   "medium steel fiber": 5,
+   "medium-length straight": 6,
+   "micro mineral wollastonita fiber": 7,
+   "pe fiber": 8,
+   "pp": 9,
+   "pva": 10,
+   "short steel fiber": 11,
+   "straight steel fiber": 12
+  },
+  "Type of Filler": {
+   "nan": 0,
+   "balast powder": 1,
+   "cement kiln dust": 2,
+   "dolomite": 3,
+   "glass sand": 4,
+   "gold tailings": 5,
+   "ground granite powder": 6,
+   "iron tailings": 7,
+   "manufactured sand": 8,
+   "natural pozzolan": 9,
+   "natural pozzolana": 10,
+   "pumicite": 11,
+   "r-fa": 12,
+   "recycled brick powder": 13,
+   "recycled fine aggregate": 14,
+   "recycled fine powder": 15,
+   "recycled glass cullet": 16,
+   "silica flour": 17,
+   "steel slag aggregate": 18
+  },
+  "Curing": {
+   "nan": 0,
+   "air cured": 1,
+   "air dry curing": 2,
+   "autoclave curing": 3,
+   "curing at 90 oc": 4,
+   "heat curing": 5,
+   "heat or oven curing": 6,
+   "heat treated": 7,
+   "hot air curing": 8,
+   "hot curing": 9,
+   "hot curing (hc)": 10,
+   "hot water curing": 11,
+   "moist curing": 12,
+   "standard curing": 13,
+   "standard standard curing": 14,
+   "steam cured": 15,
+   "steam curing": 16,
+   "steam curing at 150 oc": 17,
+   "steam curing at 90 oc": 18,
+   "steam hot curing": 19,
+   "steam-cured samples": 20,
+   "warm bath curing": 21,
+   "warm water curing": 22,
+   "water curing": 23
+  },
+  "Specimen Size": {
+   "nan": 0,
+   "100 x 100 x 100": 1,
+   "100 x 100 x 300": 2,
+   "150 mm x 150 mm x 150 mm": 3,
+   "40 x 40 x 160": 4,
+   "40 x 40 x 40": 5,
+   "40 x 40 x 80": 6,
+   "50 x 50 x 100": 7,
+   "50 x 50 x 50": 8,
+   "50.8 x 50.8 50.8": 9,
+   "70 x 70 x 70": 10,
+   "70.6 x 70.6 x 70.6": 11,
+   "70.7 x 70.7 x 70.7": 12,
+   "c: 75 x 150": 13,
+   "cube": 14,
+   "cylinder (75 x 150 mm)": 15,
+   "cylinder 100 mm x 200mm": 16,
+   "cylinder 100 x 100": 17,
+   "cylinder 100 x 200": 18,
+   "cylinder 100mm x 200mm": 19,
+   "cylinder 110 x 220": 20,
+   "cylinder 150 x 300": 21,
+   "cylinder 50 x 100": 22,
+   "cylinder 50dia x 100mm": 23,
+   "cylinder 75 x 150": 24,
+   "cylinder specimens (diameter and height of 100 mm)": 25,
+   "cylinders 50 x 50": 26,
+   "cylindrical 110 mm x 220 mm": 27,
+   "cylindrical molds of 75 x 150 mm": 28,
+   "cylindrical specimens, 75 x 150 mm": 29
+  }
+ },
+ "Fiber_Properties": {
+  "0": {
+   "Length (mm)": 13.0,
+   "Diameter (mm)": 0.2
+  },
+  "1": {
+   "Length (mm)": 1.0,
+   "Diameter (mm)": 0.007
+  },
+  "2": {
+   "Length (mm)": 13.0,
+   "Diameter (mm)": 0.19999999999999998
+  },
+  "3": {
+   "Length (mm)": 17.857142857142858,
+   "Diameter (mm)": 0.22984126984126976
+  },
+  "4": {
+   "Length (mm)": 25.0,
+   "Diameter (mm)": 0.2
+  },
+  "5": {
+   "Length (mm)": 30.0,
+   "Diameter (mm)": 0.3
+  },
+  "6": {
+   "Length (mm)": 13.0,
+   "Diameter (mm)": 0.2
+  },
+  "7": {
+   "Length (mm)": 13.0,
+   "Diameter (mm)": 0.2
+  },
+  "8": {
+   "Length (mm)": 30.0,
+   "Diameter (mm)": 0.3
+  },
+  "9": {
+   "Length (mm)": 30.0,
+   "Diameter (mm)": 0.3
+  },
+  "10": {
+   "Length (mm)": 14.75,
+   "Diameter (mm)": 0.2
+  },
+  "11": {
+   "Length (mm)": 13.0,
+   "Diameter (mm)": 0.018
+  },
+  "12": {
+   "Length (mm)": 16.09090909090909,
+   "Diameter (mm)": 0.024141414141414137
+  },
+  "13": {
+   "Length (mm)": 10.0,
+   "Diameter (mm)": 0.003
+  },
+  "14": {
+   "Length (mm)": 14.526315789473685,
+   "Diameter (mm)": 0.10689473684210526
+  },
+  "15": {
+   "Length (mm)": 15.0,
+   "Diameter (mm)": 0.18
+  },
+  "16": {
+   "Length (mm)": 6.0,
+   "Diameter (mm)": 0.2
+  },
+  "17": {
+   "Length (mm)": 6.0,
+   "Diameter (mm)": 0.2
+  },
+  "18": {
+   "Length (mm)": 13.0,
+   "Diameter (mm)": 0.2
+  },
+  "19": {
+   "Length (mm)": 12.813203463203426,
+   "Diameter (mm)": 0.18156926406926407
+  },
+  "20": {
+   "Length (mm)": 20.0,
+   "Diameter (mm)": 0.2
+  },
+  "21": {
+   "Length (mm)": 20.0,
+   "Diameter (mm)": 0.2
+  },
+  "22": {
+   "Length (mm)": 13.0,
+   "Diameter (mm)": 0.2
+  },
+  "23": {
+   "Length (mm)": 13.061049284578667,
+   "Diameter (mm)": 0.1879841017488076
+  },
+  "24": {
+   "Length (mm)": 8.0,
+   "Diameter (mm)": 0.3
+  },
+  "25": {
+   "Length (mm)": 30.0,
+   "Diameter (mm)": 0.29999999999999993
+  }
+ },
+ "Syn_Fiber_Properties": {
+  "0": {
+   "Length (mm).1": 1.0,
+   "Diameter (mm).1": 0.05
+  },
+  "1": {
+   "Length (mm).1": 7.0,
+   "Diameter (mm).1": 0.007
+  },
+  "2": {
+   "Length (mm).1": 6.333333333333333,
+   "Diameter (mm).1": 0.01795
+  },
+  "3": {
+   "Length (mm).1": 5.214285714285714,
+   "Diameter (mm).1": 0.20000000000000004
+  },
+  "4": {
+   "Length (mm).1": 3.6,
+   "Diameter (mm).1": 0.2
+  },
+  "5": {
+   "Length (mm).1": 3.0,
+   "Diameter (mm).1": 0.20000000000000004
+  },
+  "6": {
+   "Length (mm).1": 7.5,
+   "Diameter (mm).1": 0.17166666666666666
+  },
+  "7": {
+   "Length (mm).1": 4.0,
+   "Diameter (mm).1": 0.0
+  },
+  "8": {
+   "Length (mm).1": 4.531914893617022,
+   "Diameter (mm).1": 0.033382978723404254
+  },
+  "9": {
+   "Length (mm).1": 9.0,
+   "Diameter (mm).1": 0.0031
+  },
+  "10": {
+   "Length (mm).1": 9.0,
+   "Diameter (mm).1": 0.038
+  },
+  "11": {
+   "Length (mm).1": 9.0,
+   "Diameter (mm).1": 0.20000000000000004
+  },
+  "12": {
+   "Length (mm).1": 3.3,
+   "Diameter (mm).1": 0.172
+  }
+ }
+}

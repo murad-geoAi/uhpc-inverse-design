@@ -1,0 +1,6 @@
+method,papers,mean_rho,median_rho,weighted_rho
+GRN-BNN (Student-t TS + mixture),114,0.509,0.692,0.664
+LightGBM + split-conformal,114,0.494,0.76,0.681
+XGBoost + split-conformal,114,0.535,0.72,0.682
+CatBoost + split-conformal,114,0.506,0.694,0.674
+Gaussian process (Matern-5/2),114,0.506,0.719,0.676

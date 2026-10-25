@@ -1,0 +1,10 @@
+fold 1 flagged in training 78
+fold 2 flagged in training 78
+fold 3 flagged in training 78
+fold 4 flagged in training 78
+fold 5 flagged in training 78
+       model  RMSE_all_test  R2_all_test  RMSE_unflagged_test  R2_unflagged_test  flagged_total
+0    lgb_all         25.807        0.504               26.065              0.489             97
+1  lgb_clean         25.857        0.502               26.049              0.489             97
+2    grn_all         27.909        0.420               28.082              0.406             97
+3  grn_clean         28.548        0.393               28.679              0.381             97

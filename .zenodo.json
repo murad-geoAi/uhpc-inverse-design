@@ -1,0 +1,15 @@
+{
+  "title": "UHPC Inverse Design: calibrated Bayesian neural network ensemble (code, derived data and trained models)",
+  "upload_type": "software",
+  "description": "Code, derived data (canonical 1,930 x 67 feature matrix with publication identifiers), trained models and result tables accompanying the article 'Probabilistic Inverse Design of Ultra High Performance Concrete Using a Calibrated Bayesian Neural Network Ensemble'. The source database is Malik et al., Mendeley Data V2, doi:10.17632/czb7ww5pkz.2.",
+  "creators": [
+    {"name": "Srabony, Shotabdy Chowdhury", "affiliation": "Chittagong University of Engineering and Technology"},
+    {"name": "Murad, Golam", "affiliation": "Chittagong University of Engineering and Technology"},
+    {"name": "Islam, G. M. Sadiqul", "affiliation": "Chittagong University of Engineering and Technology"}
+  ],
+  "license": "MIT",
+  "keywords": ["ultra-high-performance concrete", "Bayesian neural network", "uncertainty calibration", "inverse design", "leave-publication-out validation"],
+  "related_identifiers": [
+    {"identifier": "10.17632/czb7ww5pkz.2", "relation": "isDerivedFrom", "scheme": "doi"}
+  ]
+}

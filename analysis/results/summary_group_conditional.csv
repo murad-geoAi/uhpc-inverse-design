@@ -1,0 +1,77 @@
+method,factor,level,n,PICP,MPIW,RMSE
+GRN-BNN (Student-t TS + mixture),strength_bin,<110,217,0.968,129.166,30.175
+GRN-BNN (Student-t TS + mixture),strength_bin,110-130,365,0.989,138.252,23.572
+GRN-BNN (Student-t TS + mixture),strength_bin,130-150,426,0.981,135.831,18.62
+GRN-BNN (Student-t TS + mixture),strength_bin,150-170,409,0.954,154.717,20.43
+GRN-BNN (Student-t TS + mixture),strength_bin,170-190,222,0.937,175.813,28.746
+GRN-BNN (Student-t TS + mixture),strength_bin,>190,291,0.866,200.402,45.311
+GRN-BNN (Student-t TS + mixture),fibre,no fibre,576,0.981,163.228,22.102
+GRN-BNN (Student-t TS + mixture),fibre,steel,1346,0.941,150.139,30.027
+GRN-BNN (Student-t TS + mixture),curing,heat/steam/autoclave,776,0.978,173.997,29.248
+GRN-BNN (Student-t TS + mixture),curing,standard/ambient,1154,0.936,140.347,26.913
+GRN-BNN (Student-t TS + mixture),scm,GGBFS,137,1.0,160.294,23.99
+GRN-BNN (Student-t TS + mixture),scm,fly ash,259,0.973,133.247,26.734
+GRN-BNN (Student-t TS + mixture),scm,glass powder,98,1.0,213.221,25.533
+GRN-BNN (Student-t TS + mixture),scm,limestone,56,0.982,114.784,15.979
+GRN-BNN (Student-t TS + mixture),scm,metakaolin,22,0.955,124.616,29.728
+GRN-BNN (Student-t TS + mixture),scm,none,16,1.0,167.594,25.277
+GRN-BNN (Student-t TS + mixture),scm,quartz powder,307,0.99,176.083,23.819
+GRN-BNN (Student-t TS + mixture),scm,silica fume,978,0.924,147.298,27.907
+GRN-BNN (Student-t TS + mixture),scm,steel slag,52,0.904,168.751,60.355
+"GRN-BNN (Gaussian TS, as submitted)",strength_bin,<110,217,0.968,123.147,30.175
+"GRN-BNN (Gaussian TS, as submitted)",strength_bin,110-130,365,0.989,130.773,23.572
+"GRN-BNN (Gaussian TS, as submitted)",strength_bin,130-150,426,0.979,129.12,18.62
+"GRN-BNN (Gaussian TS, as submitted)",strength_bin,150-170,409,0.951,146.483,20.43
+"GRN-BNN (Gaussian TS, as submitted)",strength_bin,170-190,222,0.941,166.049,28.746
+"GRN-BNN (Gaussian TS, as submitted)",strength_bin,>190,291,0.838,190.081,45.311
+"GRN-BNN (Gaussian TS, as submitted)",fibre,no fibre,576,0.979,153.661,22.102
+"GRN-BNN (Gaussian TS, as submitted)",fibre,steel,1346,0.935,142.79,30.027
+"GRN-BNN (Gaussian TS, as submitted)",curing,heat/steam/autoclave,776,0.972,165.113,29.248
+"GRN-BNN (Gaussian TS, as submitted)",curing,standard/ambient,1154,0.932,132.947,26.913
+"GRN-BNN (Gaussian TS, as submitted)",scm,GGBFS,137,1.0,151.653,23.99
+"GRN-BNN (Gaussian TS, as submitted)",scm,fly ash,259,0.973,127.02,26.734
+"GRN-BNN (Gaussian TS, as submitted)",scm,glass powder,98,1.0,203.5,25.533
+"GRN-BNN (Gaussian TS, as submitted)",scm,limestone,56,0.982,109.363,15.979
+"GRN-BNN (Gaussian TS, as submitted)",scm,metakaolin,22,0.909,117.621,29.728
+"GRN-BNN (Gaussian TS, as submitted)",scm,none,16,1.0,155.683,25.277
+"GRN-BNN (Gaussian TS, as submitted)",scm,quartz powder,307,0.99,164.55,23.819
+"GRN-BNN (Gaussian TS, as submitted)",scm,silica fume,978,0.919,140.068,27.906
+"GRN-BNN (Gaussian TS, as submitted)",scm,steel slag,52,0.846,161.373,60.355
+LightGBM conformalised quantile regression,strength_bin,<110,217,0.954,121.247,31.454
+LightGBM conformalised quantile regression,strength_bin,110-130,365,1.0,115.793,25.186
+LightGBM conformalised quantile regression,strength_bin,130-150,426,1.0,112.17,20.275
+LightGBM conformalised quantile regression,strength_bin,150-170,409,1.0,113.778,18.006
+LightGBM conformalised quantile regression,strength_bin,170-190,222,1.0,121.732,23.642
+LightGBM conformalised quantile regression,strength_bin,>190,291,0.811,132.715,38.022
+LightGBM conformalised quantile regression,fibre,no fibre,576,0.983,124.218,24.033
+LightGBM conformalised quantile regression,fibre,steel,1346,0.959,116.002,26.733
+LightGBM conformalised quantile regression,curing,heat/steam/autoclave,776,0.954,122.955,26.001
+LightGBM conformalised quantile regression,curing,standard/ambient,1154,0.975,115.361,25.9
+LightGBM conformalised quantile regression,scm,GGBFS,137,0.993,125.38,22.29
+LightGBM conformalised quantile regression,scm,fly ash,259,0.985,122.814,23.266
+LightGBM conformalised quantile regression,scm,glass powder,98,0.98,139.836,25.435
+LightGBM conformalised quantile regression,scm,limestone,56,1.0,108.362,14.156
+LightGBM conformalised quantile regression,scm,metakaolin,22,1.0,112.058,17.581
+LightGBM conformalised quantile regression,scm,none,16,1.0,124.269,26.753
+LightGBM conformalised quantile regression,scm,quartz powder,307,0.98,118.705,22.992
+LightGBM conformalised quantile regression,scm,silica fume,978,0.96,114.941,27.924
+LightGBM conformalised quantile regression,scm,steel slag,52,0.75,113.231,36.991
+LightGBM + split-conformal,strength_bin,<110,217,0.94,109.143,31.454
+LightGBM + split-conformal,strength_bin,110-130,365,0.975,108.489,25.186
+LightGBM + split-conformal,strength_bin,130-150,426,0.991,108.686,20.275
+LightGBM + split-conformal,strength_bin,150-170,409,1.0,108.823,18.006
+LightGBM + split-conformal,strength_bin,170-190,222,0.982,108.398,23.642
+LightGBM + split-conformal,strength_bin,>190,291,0.859,109.156,38.022
+LightGBM + split-conformal,fibre,no fibre,576,0.97,108.445,24.033
+LightGBM + split-conformal,fibre,steel,1346,0.96,108.902,26.733
+LightGBM + split-conformal,curing,heat/steam/autoclave,776,0.961,109.375,26.001
+LightGBM + split-conformal,curing,standard/ambient,1154,0.964,108.358,25.9
+LightGBM + split-conformal,scm,GGBFS,137,1.0,110.016,22.29
+LightGBM + split-conformal,scm,fly ash,259,0.981,109.062,23.266
+LightGBM + split-conformal,scm,glass powder,98,0.969,106.552,25.435
+LightGBM + split-conformal,scm,limestone,56,1.0,107.825,14.156
+LightGBM + split-conformal,scm,metakaolin,22,1.0,109.951,17.581
+LightGBM + split-conformal,scm,none,16,0.938,107.706,26.753
+LightGBM + split-conformal,scm,quartz powder,307,0.98,108.529,22.992
+LightGBM + split-conformal,scm,silica fume,978,0.948,108.684,27.924
+LightGBM + split-conformal,scm,steel slag,52,0.904,111.924,36.991

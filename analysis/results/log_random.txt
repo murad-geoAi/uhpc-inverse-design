@@ -1,0 +1,16 @@
+  File "C:\ProgramData\anaconda3\Lib\site-packages\joblib\externals\loky\backend\context.py", line 257, in _count_physical_cores
+    cpu_info = subprocess.run(
+               ^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\ProgramData\anaconda3\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[random] outer 1/5 done in 880s  (n_epochs=22, T_t=[1.52 1.37 1.77 1.64 1.62], nu=[6.1 6.1 6.1 6.1 6.1])
+[random] outer 2/5 done in 716s  (n_epochs=23, T_t=[1.59 1.7  1.62 1.51 1.7 ], nu=[6.1 6.1 6.1 6.1 6.1])
+[random] outer 3/5 done in 444s  (n_epochs=29, T_t=[1.78 1.74 1.57 1.76 1.88], nu=[6.1 6.1 6.1 6.1 6.1])
+[random] outer 4/5 done in 357s  (n_epochs=36, T_t=[2.12 1.84 1.98 2.05 2.12], nu=[6.1 6.1 6.2 6.1 6.1])
+[random] outer 5/5 done in 321s  (n_epochs=23, T_t=[1.58 1.68 1.47 1.67 1.59], nu=[6.1 6.1 6.1 6.1 6.1])

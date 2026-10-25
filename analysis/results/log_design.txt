@@ -1,0 +1,33 @@
+  File "C:\ProgramData\anaconda3\Lib\site-packages\joblib\externals\loky\backend\context.py", line 257, in _count_physical_cores
+    cpu_info = subprocess.run(
+               ^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\ProgramData\anaconda3\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A 120 Aggressive mu 120.1 sigma 22.70  P(within) 0.35  support=True n_same=30  active=['SP/B<=0.03']  [70.7s]
+A 120 Balanced mu 119.9 sigma 16.41  P(within) 0.44  support=True n_same=30  active=['binder<=1100', 'W/B<=0.20', 'SP/B<=0.03']  [193.3s]
+A 120 Conservative mu 119.6 sigma 16.40  P(within) 0.45  support=True n_same=30  active=['binder<=1100', 'W/B<=0.20', 'SP/B<=0.03']  [201.2s]
+A 150 Aggressive mu 150.1 sigma 48.22  P(within) 0.18  support=True n_same=30  active=['SP/B<=0.03']  [56.4s]
+A 150 Balanced mu 148.5 sigma 19.53  P(within) 0.39  support=True n_same=30  active=['binder<=1100', 'W/B<=0.20', 'SP/B<=0.03']  [236.4s]
+A 150 Conservative mu 144.7 sigma 18.96  P(within) 0.40  support=True n_same=30  active=['binder<=1100', 'W/B<=0.20', 'SP/B<=0.03']  [162.7s]
+A 200 Aggressive mu 200.1 sigma 60.04  P(within) 0.14  support=True n_same=30  active=['SP/B<=0.03']  [51.7s]
+A 200 Balanced mu 192.5 sigma 31.25  P(within) 0.25  support=True n_same=30  active=['binder<=1100', 'SP/B<=0.03', 'S/B>=0.8']  [389.0s]
+A 200 Conservative mu 192.5 sigma 31.24  P(within) 0.25  support=True n_same=30  active=['binder<=1100', 'SP/B<=0.03', 'S/B>=0.8']  [705.6s]
+B 150 Aggressive mu 150.0 sigma 28.73  P(within) 0.24  support=True n_same=6  active=['W/B<=0.20', 'SP/B<=0.03', 'mass>=2200']  [53.6s]
+B 150 Balanced mu 148.8 sigma 17.82  P(within) 0.40  support=True n_same=6  active=['binder<=1100', 'W/B<=0.20', 'SP/B<=0.03']  [188.7s]
+B 150 Conservative mu 145.6 sigma 17.40  P(within) 0.39  support=True n_same=6  active=['binder<=1100', 'W/B<=0.20', 'SP/B<=0.03']  [166.6s]
+B 200 Aggressive mu 199.9 sigma 60.97  P(within) 0.15  support=True n_same=6  active=[]  [41.1s]
+B 200 Balanced mu 196.1 sigma 27.64  P(within) 0.25  support=True n_same=6  active=['binder<=1100', 'W/B<=0.20', 'SP/B<=0.03', 'S/B>=0.8']  [89.7s]
+B 200 Conservative mu 192.6 sigma 26.64  P(within) 0.25  support=True n_same=6  active=['binder<=1100', 'W/B<=0.20', 'SP/B<=0.03', 'S/B>=0.8']  [557.7s]
+B 250 Aggressive INFEASIBLE
+B 250 Balanced INFEASIBLE
+B 250 Conservative INFEASIBLE
+C 150 Aggressive mu 150.1 sigma 48.63  P(within) 0.18  support=True n_same=0  active=['mass<=2550']  [16.8s]
+C 150 Balanced mu 147.5 sigma 22.00  P(within) 0.34  support=True n_same=0  active=['binder<=1100', 'SP/B<=0.03', 'S/B>=0.8', 'mass<=2550']  [78.5s]
+C 150 Conservative mu 142.7 sigma 20.92  P(within) 0.33  support=True n_same=0  active=['binder<=1100', 'SP/B<=0.03', 'S/B>=0.8', 'mass<=2550']  [166.9s]
+done
